@@ -1,0 +1,840 @@
+{
+  "source_url": "https://gamerch.com/blue-cg/453321",
+  "page_title": "帽子製作",
+  "wiki": "水藍魔力攻略wiki",
+  "updated_at": "2025/09/01 22:48",
+  "author": "ゲストユーザー",
+  "last_editor": "Mizuei",
+  "category": "製作配方",
+  "note": "1.裝備修正值附加浮動值 -2~+2",
+  "recipes": [
+    {
+      "level": 1,
+      "level_code": "1a",
+      "name": "麻布帽",
+      "craft_quantity": 1,
+      "weapon_type": "",
+      "materials": [
+        {
+          "name": "鹿皮",
+          "quantity": 20
+        },
+        {
+          "name": "麻布",
+          "quantity": 2
+        }
+      ],
+      "bonus": [
+        "防禦+4~+7",
+        "命中+3~7"
+      ],
+      "recipe_source": "",
+      "shop_price": "140G"
+    },
+    {
+      "level": 1,
+      "level_code": "1b",
+      "name": "硬帽",
+      "craft_quantity": 1,
+      "weapon_type": "",
+      "materials": [
+        {
+          "name": "印度輕木",
+          "quantity": 20
+        },
+        {
+          "name": "鹿皮",
+          "quantity": 20
+        },
+        {
+          "name": "麻布",
+          "quantity": 4
+        }
+      ],
+      "bonus": [
+        "防禦+6~+11",
+        "命中+3~7"
+      ],
+      "recipe_source": "",
+      "shop_price": "200G"
+    },
+    {
+      "level": 2,
+      "level_code": "2a",
+      "name": "輕帽",
+      "craft_quantity": 1,
+      "weapon_type": "",
+      "materials": [
+        {
+          "name": "印度輕木",
+          "quantity": 20
+        },
+        {
+          "name": "檸檬草",
+          "quantity": 20
+        },
+        {
+          "name": "麻布",
+          "quantity": 5
+        },
+        {
+          "name": "木棉布",
+          "quantity": 2
+        }
+      ],
+      "bonus": [
+        "防禦+8~+14",
+        "命中+3~7"
+      ],
+      "recipe_source": "",
+      "shop_price": "260G"
+    },
+    {
+      "level": 2,
+      "level_code": "2b",
+      "name": "皮帽",
+      "craft_quantity": 1,
+      "weapon_type": "",
+      "materials": [
+        {
+          "name": "樅",
+          "quantity": 20
+        },
+        {
+          "name": "檸檬草",
+          "quantity": 20
+        },
+        {
+          "name": "鹿皮",
+          "quantity": 20
+        },
+        {
+          "name": "麻布",
+          "quantity": 6
+        },
+        {
+          "name": "木棉布",
+          "quantity": 3
+        }
+      ],
+      "bonus": [
+        "防禦+10~+18",
+        "命中+3~7"
+      ],
+      "recipe_source": "",
+      "shop_price": "330G"
+    },
+    {
+      "level": 3,
+      "level_code": "3a",
+      "name": "硬皮帽",
+      "craft_quantity": 1,
+      "weapon_type": "",
+      "materials": [
+        {
+          "name": "銅條",
+          "quantity": 4
+        },
+        {
+          "name": "鹿皮",
+          "quantity": 20
+        },
+        {
+          "name": "木棉布",
+          "quantity": 5
+        },
+        {
+          "name": "毛氈",
+          "quantity": 4
+        }
+      ],
+      "bonus": [
+        "防禦+13~+21",
+        "命中+3~7"
+      ],
+      "recipe_source": "",
+      "shop_price": "400G"
+    },
+    {
+      "level": 3,
+      "level_code": "3b",
+      "name": "可愛的帽子",
+      "craft_quantity": 1,
+      "weapon_type": "",
+      "materials": [
+        {
+          "name": "果梨",
+          "quantity": 20
+        },
+        {
+          "name": "麻布",
+          "quantity": 6
+        },
+        {
+          "name": "木棉布",
+          "quantity": 6
+        },
+        {
+          "name": "毛氈",
+          "quantity": 5
+        }
+      ],
+      "bonus": [
+        "防禦+15~+25",
+        "命中+3~7"
+      ],
+      "recipe_source": "",
+      "shop_price": "500G"
+    },
+    {
+      "level": 4,
+      "level_code": "4a",
+      "name": "時髦帽子",
+      "craft_quantity": 1,
+      "weapon_type": "",
+      "materials": [
+        {
+          "name": "檸檬草",
+          "quantity": 20
+        },
+        {
+          "name": "蝴蝶花",
+          "quantity": 20
+        },
+        {
+          "name": "麻布",
+          "quantity": 6
+        },
+        {
+          "name": "毛氈",
+          "quantity": 6
+        },
+        {
+          "name": "棉布",
+          "quantity": 6
+        }
+      ],
+      "bonus": [
+        "防禦+18~+28",
+        "命中+3~7"
+      ],
+      "recipe_source": "",
+      "shop_price": "600G"
+    },
+    {
+      "level": 4,
+      "level_code": "4b",
+      "name": "鴨舌帽",
+      "craft_quantity": 1,
+      "weapon_type": "",
+      "materials": [
+        {
+          "name": "果梨",
+          "quantity": 20
+        },
+        {
+          "name": "鹿皮",
+          "quantity": 20
+        },
+        {
+          "name": "木棉布",
+          "quantity": 11
+        },
+        {
+          "name": "毛氈",
+          "quantity": 11
+        }
+      ],
+      "bonus": [
+        "防禦+21~+32",
+        "命中+3~7"
+      ],
+      "recipe_source": "",
+      "shop_price": "700G"
+    },
+    {
+      "level": 5,
+      "level_code": "5a",
+      "name": "藍徽章之帽",
+      "craft_quantity": 1,
+      "weapon_type": "",
+      "materials": [
+        {
+          "name": "果梨",
+          "quantity": 20
+        },
+        {
+          "name": "棉布",
+          "quantity": 7
+        },
+        {
+          "name": "細線",
+          "quantity": 10
+        }
+      ],
+      "bonus": [
+        "防禦+25~+35",
+        "命中+3~7"
+      ],
+      "recipe_source": "",
+      "shop_price": "900G"
+    },
+    {
+      "level": 5,
+      "level_code": "5b",
+      "name": "高級帽子",
+      "craft_quantity": 1,
+      "weapon_type": "",
+      "materials": [
+        {
+          "name": "桃木",
+          "quantity": 20
+        },
+        {
+          "name": "棉布",
+          "quantity": 8
+        },
+        {
+          "name": "絹布",
+          "quantity": 10
+        }
+      ],
+      "bonus": [
+        "防禦+27~+39",
+        "命中+3~7"
+      ],
+      "recipe_source": "",
+      "shop_price": "900G"
+    },
+    {
+      "level": 5,
+      "level_code": "5c",
+      "name": "劍客帽",
+      "craft_quantity": 1,
+      "weapon_type": "",
+      "materials": [
+        {
+          "name": "茱萸木",
+          "quantity": 20
+        },
+        {
+          "name": "桃木",
+          "quantity": 20
+        },
+        {
+          "name": "毛氈",
+          "quantity": 10
+        },
+        {
+          "name": "絹布",
+          "quantity": 4
+        },
+        {
+          "name": "地的水晶碎片",
+          "quantity": 2
+        }
+      ],
+      "bonus": [],
+      "recipe_source": "參照任務「工匠的黑歷史」",
+      "shop_price": ""
+    },
+    {
+      "level": 6,
+      "level_code": "6a",
+      "name": "裝飾 著花的帽子",
+      "craft_quantity": 1,
+      "weapon_type": "",
+      "materials": [
+        {
+          "name": "棉布",
+          "quantity": 19
+        },
+        {
+          "name": "檸檬草",
+          "quantity": 20
+        },
+        {
+          "name": "蝴蝶花",
+          "quantity": 20
+        },
+        {
+          "name": "果梨",
+          "quantity": 20
+        },
+        {
+          "name": "桃木",
+          "quantity": 20
+        }
+      ],
+      "bonus": [
+        "防禦+32~+42",
+        "命中+3~7"
+      ],
+      "recipe_source": "",
+      "shop_price": "900G"
+    },
+    {
+      "level": 6,
+      "level_code": "6b",
+      "name": "青銅帽子",
+      "craft_quantity": 1,
+      "weapon_type": "",
+      "materials": [
+        {
+          "name": "銅條",
+          "quantity": 15
+        },
+        {
+          "name": "棉布",
+          "quantity": 14
+        },
+        {
+          "name": "番紅花",
+          "quantity": 20
+        }
+      ],
+      "bonus": [
+        "防禦+35~+46",
+        "命中+3~7"
+      ],
+      "recipe_source": "",
+      "shop_price": "900G"
+    },
+    {
+      "level": 7,
+      "level_code": "7a",
+      "name": "淑女帽",
+      "craft_quantity": 1,
+      "weapon_type": "",
+      "materials": [
+        {
+          "name": "細線",
+          "quantity": 10
+        },
+        {
+          "name": "絹布",
+          "quantity": 10
+        },
+        {
+          "name": "百里香",
+          "quantity": 20
+        },
+        {
+          "name": "水的水晶碎片",
+          "quantity": 5
+        }
+      ],
+      "bonus": [
+        "防禦+10",
+        "精神+20"
+      ],
+      "recipe_source": "",
+      "shop_price": "1000G"
+    },
+    {
+      "level": 7,
+      "level_code": "7b",
+      "name": "可愛的扁帽子",
+      "craft_quantity": 1,
+      "weapon_type": "",
+      "materials": [
+        {
+          "name": "桃木",
+          "quantity": 20
+        },
+        {
+          "name": "百里香",
+          "quantity": 20
+        },
+        {
+          "name": "莎蓮娜線",
+          "quantity": 13
+        },
+        {
+          "name": "火的水晶碎片",
+          "quantity": 5
+        }
+      ],
+      "bonus": [
+        "防禦+40~+53",
+        "命中+3~7"
+      ],
+      "recipe_source": "",
+      "shop_price": "1000G"
+    },
+    {
+      "level": 7,
+      "level_code": "7c",
+      "name": "水龍之帽",
+      "craft_quantity": 1,
+      "weapon_type": "",
+      "materials": [
+        {
+          "name": "破爛的帽子",
+          "quantity": 1
+        },
+        {
+          "name": "鋼騎之礦",
+          "quantity": 2
+        },
+        {
+          "name": "魔族的水晶",
+          "quantity": 2
+        },
+        {
+          "name": "百里香",
+          "quantity": 20
+        }
+      ],
+      "bonus": [],
+      "recipe_source": "參照任務「時波之祠」",
+      "shop_price": ""
+    },
+    {
+      "level": 8,
+      "level_code": "8a",
+      "name": "軍帽",
+      "craft_quantity": 1,
+      "weapon_type": "",
+      "materials": [
+        {
+          "name": "瞿麥",
+          "quantity": 20
+        },
+        {
+          "name": "棉布",
+          "quantity": 5
+        },
+        {
+          "name": "細線",
+          "quantity": 5
+        },
+        {
+          "name": "莎蓮娜線",
+          "quantity": 10
+        }
+      ],
+      "bonus": [
+        "防禦+42~+57",
+        "命中+3~7"
+      ],
+      "recipe_source": "",
+      "shop_price": "1100G"
+    },
+    {
+      "level": 8,
+      "level_code": "8b",
+      "name": "時髦避暑帽",
+      "craft_quantity": 1,
+      "weapon_type": "",
+      "materials": [
+        {
+          "name": "番紅花",
+          "quantity": 20
+        },
+        {
+          "name": "瞿麥",
+          "quantity": 20
+        },
+        {
+          "name": "傑諾瓦線",
+          "quantity": 10
+        },
+        {
+          "name": "德特家的布",
+          "quantity": 1
+        }
+      ],
+      "bonus": [
+        "防禦+32~+46",
+        "命中+3~7",
+        "抗石化",
+        "+5",
+        "抗混亂",
+        "+5"
+      ],
+      "recipe_source": "",
+      "shop_price": "1100G"
+    },
+    {
+      "level": 8,
+      "level_code": "8c",
+      "name": "可愛的扁帽子+",
+      "craft_quantity": 1,
+      "weapon_type": "",
+      "materials": [
+        {
+          "name": "百里香",
+          "quantity": 20
+        },
+        {
+          "name": "瞿麥",
+          "quantity": 20
+        },
+        {
+          "name": "火的水晶碎片",
+          "quantity": 10
+        },
+        {
+          "name": "魔法紅蘿蔔",
+          "quantity": 20
+        },
+        {
+          "name": "藍龍之鱗",
+          "quantity": 20
+        }
+      ],
+      "bonus": [],
+      "recipe_source": "參照任務「生產系升階III」",
+      "shop_price": ""
+    },
+    {
+      "level": 8,
+      "level_code": "8d",
+      "name": "頭目帽子",
+      "craft_quantity": 1,
+      "weapon_type": "",
+      "materials": [
+        {
+          "name": "破爛的帽子",
+          "quantity": 2
+        },
+        {
+          "name": "鋼騎之礦",
+          "quantity": 3
+        },
+        {
+          "name": "魔族的水晶",
+          "quantity": 3
+        },
+        {
+          "name": "香草",
+          "quantity": 20
+        }
+      ],
+      "bonus": [],
+      "recipe_source": "參照任務「盜賊就職」",
+      "shop_price": ""
+    },
+    {
+      "level": 9,
+      "level_code": "9a",
+      "name": "羽毛帽",
+      "craft_quantity": 1,
+      "weapon_type": "",
+      "materials": [
+        {
+          "name": "百里香",
+          "quantity": 20
+        },
+        {
+          "name": "茴香",
+          "quantity": 20
+        },
+        {
+          "name": "鹿皮",
+          "quantity": 20
+        },
+        {
+          "name": "莎蓮娜線",
+          "quantity": 6
+        },
+        {
+          "name": "傑諾瓦線",
+          "quantity": 8
+        }
+      ],
+      "bonus": [
+        "防禦+54~+67",
+        "命中+3~7"
+      ],
+      "recipe_source": "",
+      "shop_price": "1800G"
+    },
+    {
+      "level": 9,
+      "level_code": "9b",
+      "name": "魔術師 之帽",
+      "craft_quantity": 1,
+      "weapon_type": "",
+      "materials": [
+        {
+          "name": "瞿麥",
+          "quantity": 20
+        },
+        {
+          "name": "茴香",
+          "quantity": 20
+        },
+        {
+          "name": "毛氈",
+          "quantity": 20
+        },
+        {
+          "name": "傑諾瓦線",
+          "quantity": 10
+        },
+        {
+          "name": "魔族的水晶",
+          "quantity": 2
+        }
+      ],
+      "bonus": [
+        "防禦+5",
+        "命中+13~17"
+      ],
+      "recipe_source": "",
+      "shop_price": "2200G"
+    },
+    {
+      "level": 10,
+      "level_code": "10a",
+      "name": "黃昏之帽",
+      "craft_quantity": 1,
+      "weapon_type": "",
+      "materials": [
+        {
+          "name": "七葉樹",
+          "quantity": 20
+        },
+        {
+          "name": "棉布",
+          "quantity": 5
+        },
+        {
+          "name": "傑諾瓦線",
+          "quantity": 5
+        },
+        {
+          "name": "細麻布",
+          "quantity": 7
+        }
+      ],
+      "bonus": [
+        "防禦+63~+75",
+        "命中+3~7"
+      ],
+      "recipe_source": "",
+      "shop_price": "2900G"
+    },
+    {
+      "level": 10,
+      "level_code": "10b",
+      "name": "妖精之帽",
+      "craft_quantity": 1,
+      "weapon_type": "",
+      "materials": [
+        {
+          "name": "七葉樹",
+          "quantity": 20
+        },
+        {
+          "name": "開米士毛線",
+          "quantity": 5
+        },
+        {
+          "name": "絹布",
+          "quantity": 5
+        },
+        {
+          "name": "蔓陀羅草 的皮",
+          "quantity": 5
+        },
+        {
+          "name": "德特家的布",
+          "quantity": 2
+        }
+      ],
+      "bonus": [
+        "防禦+60",
+        "命中+3~7",
+        "閃躲+0~4",
+        "恢復魔法",
+        "所需消耗魔力減少15%"
+      ],
+      "recipe_source": "",
+      "shop_price": "4000G"
+    },
+    {
+      "level": 11,
+      "level_code": "11a",
+      "name": "貝斯神帽",
+      "craft_quantity": 1,
+      "weapon_type": "",
+      "materials": [
+        {
+          "name": "莎蓮娜線",
+          "quantity": 11
+        },
+        {
+          "name": "七葉樹",
+          "quantity": 40
+        },
+        {
+          "name": "香草",
+          "quantity": 40
+        },
+        {
+          "name": "蔓陀羅草 的皮",
+          "quantity": 2
+        },
+        {
+          "name": "妖草 的血",
+          "quantity": 1
+        }
+      ],
+      "bonus": [
+        "防禦+36~+47",
+        "抗昏睡",
+        "+20",
+        "抗酒醉",
+        "+20",
+        "抗遺忘",
+        "+20",
+        "閃躲+8~12"
+      ],
+      "recipe_source": "",
+      "shop_price": "3900G"
+    },
+    {
+      "level": 11,
+      "level_code": "11b",
+      "name": "神官帽",
+      "craft_quantity": 1,
+      "weapon_type": "",
+      "materials": [
+        {
+          "name": "開米士毛線",
+          "quantity": 16
+        },
+        {
+          "name": "德特家的布",
+          "quantity": 2
+        },
+        {
+          "name": "茴香",
+          "quantity": 40
+        },
+        {
+          "name": "香草",
+          "quantity": 40
+        },
+        {
+          "name": "火焰之魂",
+          "quantity": 2
+        }
+      ],
+      "bonus": [
+        "防禦+67~+74",
+        "抗中毒+20",
+        "抗石化",
+        "+20",
+        "抗混亂",
+        "+20",
+        "命中+8~12"
+      ],
+      "recipe_source": "",
+      "shop_price": "4900G"
+    }
+  ]
+}

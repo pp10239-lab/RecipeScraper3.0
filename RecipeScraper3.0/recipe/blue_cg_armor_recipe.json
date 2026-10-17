@@ -1,0 +1,854 @@
+{
+  "source_url": "https://gamerch.com/blue-cg/453316",
+  "page_title": "鎧甲製作",
+  "wiki": "水藍魔力攻略wiki",
+  "updated_at": "2025/09/01 22:48",
+  "author": "ゲストユーザー",
+  "last_editor": "Mizuei",
+  "category": "製作配方",
+  "note": "1.裝備修正值附加浮動值 -2~+2",
+  "recipes": [
+    {
+      "level": 1,
+      "level_code": "1a",
+      "name": "軟皮甲",
+      "craft_quantity": 1,
+      "weapon_type": "",
+      "materials": [
+        {
+          "name": "銅條",
+          "quantity": 3
+        },
+        {
+          "name": "印度輕木",
+          "quantity": 20
+        },
+        {
+          "name": "鹿皮",
+          "quantity": 20
+        }
+      ],
+      "bonus": [
+        "防禦+11~+21",
+        "閃躲-8~-12",
+        "抗魔+6~+8"
+      ],
+      "recipe_source": "",
+      "shop_price": "220G"
+    },
+    {
+      "level": 1,
+      "level_code": "1b",
+      "name": "護心甲",
+      "craft_quantity": 1,
+      "weapon_type": "",
+      "materials": [
+        {
+          "name": "銅條",
+          "quantity": 4
+        },
+        {
+          "name": "鐵條",
+          "quantity": 3
+        },
+        {
+          "name": "印度輕木",
+          "quantity": 20
+        }
+      ],
+      "bonus": [
+        "防禦+16~+32",
+        "閃躲-8~-12",
+        "抗魔+4~+6"
+      ],
+      "recipe_source": "",
+      "shop_price": "300G"
+    },
+    {
+      "level": 2,
+      "level_code": "2a",
+      "name": "青銅鎧甲",
+      "craft_quantity": 1,
+      "weapon_type": "",
+      "materials": [
+        {
+          "name": "銅條",
+          "quantity": 7
+        },
+        {
+          "name": "鐵條",
+          "quantity": 2
+        },
+        {
+          "name": "印度輕木",
+          "quantity": 20
+        },
+        {
+          "name": "樅",
+          "quantity": 20
+        }
+      ],
+      "bonus": [
+        "防禦+23~+42",
+        "閃躲-8~-12",
+        "抗魔+12~+16"
+      ],
+      "recipe_source": "",
+      "shop_price": "400G"
+    },
+    {
+      "level": 2,
+      "level_code": "2b",
+      "name": "輕型鎧甲",
+      "craft_quantity": 1,
+      "weapon_type": "",
+      "materials": [
+        {
+          "name": "銅條",
+          "quantity": 4
+        },
+        {
+          "name": "鐵條",
+          "quantity": 5
+        },
+        {
+          "name": "銀條",
+          "quantity": 3
+        },
+        {
+          "name": "鹿皮",
+          "quantity": 20
+        }
+      ],
+      "bonus": [
+        "防禦+29~+53",
+        "閃躲-8~-12",
+        "抗魔+8~+12"
+      ],
+      "recipe_source": "",
+      "shop_price": "450G"
+    },
+    {
+      "level": 3,
+      "level_code": "3a",
+      "name": "輕型鎖鍊甲",
+      "craft_quantity": 1,
+      "weapon_type": "",
+      "materials": [
+        {
+          "name": "銅條",
+          "quantity": 6
+        },
+        {
+          "name": "鐵條",
+          "quantity": 10
+        },
+        {
+          "name": "黃月木",
+          "quantity": 20
+        }
+      ],
+      "bonus": [
+        "防禦+38~+63",
+        "閃躲-8~-12",
+        "抗魔+18~+24"
+      ],
+      "recipe_source": "",
+      "shop_price": "550G"
+    },
+    {
+      "level": 3,
+      "level_code": "3b",
+      "name": "環甲",
+      "craft_quantity": 1,
+      "weapon_type": "",
+      "materials": [
+        {
+          "name": "銅條",
+          "quantity": 5
+        },
+        {
+          "name": "鐵條",
+          "quantity": 4
+        },
+        {
+          "name": "銀條",
+          "quantity": 5
+        },
+        {
+          "name": "純銀條",
+          "quantity": 4
+        },
+        {
+          "name": "樅",
+          "quantity": 20
+        }
+      ],
+      "bonus": [
+        "防禦+44~+74",
+        "閃躲-8~-12",
+        "抗魔+12~+18"
+      ],
+      "recipe_source": "",
+      "shop_price": "700G"
+    },
+    {
+      "level": 4,
+      "level_code": "4a",
+      "name": "鋼鐵鎧甲",
+      "craft_quantity": 1,
+      "weapon_type": "",
+      "materials": [
+        {
+          "name": "鐵條",
+          "quantity": 13
+        },
+        {
+          "name": "銀條",
+          "quantity": 4
+        },
+        {
+          "name": "純銀條",
+          "quantity": 2
+        },
+        {
+          "name": "黃月木",
+          "quantity": 20
+        }
+      ],
+      "bonus": [
+        "防禦+55~+84",
+        "閃躲-8~-12",
+        "抗魔+24~+32"
+      ],
+      "recipe_source": "",
+      "shop_price": "900G"
+    },
+    {
+      "level": 4,
+      "level_code": "4b",
+      "name": "金屬皮甲",
+      "craft_quantity": 1,
+      "weapon_type": "",
+      "materials": [
+        {
+          "name": "鐵條",
+          "quantity": 6
+        },
+        {
+          "name": "銀條",
+          "quantity": 9
+        },
+        {
+          "name": "純銀條",
+          "quantity": 8
+        },
+        {
+          "name": "黃月木",
+          "quantity": 20
+        },
+        {
+          "name": "琵琶木",
+          "quantity": 20
+        }
+      ],
+      "bonus": [
+        "防禦+62~+95",
+        "閃躲-8~-12",
+        "抗魔+16~+24",
+        "耐久320~+430"
+      ],
+      "recipe_source": "",
+      "shop_price": "1000G"
+    },
+    {
+      "level": 5,
+      "level_code": "5a",
+      "name": "長型金屬鎧甲",
+      "craft_quantity": 1,
+      "weapon_type": "",
+      "materials": [
+        {
+          "name": "鐵條",
+          "quantity": 5
+        },
+        {
+          "name": "銀條",
+          "quantity": 10
+        },
+        {
+          "name": "純銀條",
+          "quantity": 7
+        },
+        {
+          "name": "金條",
+          "quantity": 5
+        },
+        {
+          "name": "鐵杉",
+          "quantity": 20
+        }
+      ],
+      "bonus": [
+        "防禦+74~+105",
+        "閃躲-8~-12",
+        "抗魔+30~+40"
+      ],
+      "recipe_source": "",
+      "shop_price": "1200G"
+    },
+    {
+      "level": 5,
+      "level_code": "5b",
+      "name": "索狀鎧甲",
+      "craft_quantity": 1,
+      "weapon_type": "",
+      "materials": [
+        {
+          "name": "鐵條",
+          "quantity": 5
+        },
+        {
+          "name": "銀條",
+          "quantity": 5
+        },
+        {
+          "name": "純銀條",
+          "quantity": 8
+        },
+        {
+          "name": "金條",
+          "quantity": 10
+        },
+        {
+          "name": "琵琶木",
+          "quantity": 20
+        }
+      ],
+      "bonus": [
+        "防禦+81~+116",
+        "閃躲-8~-12",
+        "抗魔+20~+30"
+      ],
+      "recipe_source": "",
+      "shop_price": "1300G"
+    },
+    {
+      "level": 5,
+      "level_code": "5c",
+      "name": "劍齒鎧甲",
+      "craft_quantity": 1,
+      "weapon_type": "",
+      "materials": [
+        {
+          "name": "鐵條",
+          "quantity": 3
+        },
+        {
+          "name": "鋁條",
+          "quantity": 6
+        },
+        {
+          "name": "金條",
+          "quantity": 5
+        },
+        {
+          "name": "白金條",
+          "quantity": 4
+        },
+        {
+          "name": "茱萸木",
+          "quantity": 20
+        }
+      ],
+      "bonus": [],
+      "recipe_source": "參照任務「工匠的黑歷史」",
+      "shop_price": ""
+    },
+    {
+      "level": 6,
+      "level_code": "6a",
+      "name": "重鐵板甲",
+      "craft_quantity": 1,
+      "weapon_type": "",
+      "materials": [
+        {
+          "name": "銀條",
+          "quantity": 5
+        },
+        {
+          "name": "純銀條",
+          "quantity": 5
+        },
+        {
+          "name": "金條",
+          "quantity": 5
+        },
+        {
+          "name": "白金條",
+          "quantity": 10
+        },
+        {
+          "name": "琵琶木",
+          "quantity": 20
+        }
+      ],
+      "bonus": [
+        "防禦+95~+126",
+        "閃躲-8~-12",
+        "抗魔+36~+48"
+      ],
+      "recipe_source": "",
+      "shop_price": "1500G"
+    },
+    {
+      "level": 6,
+      "level_code": "6b",
+      "name": "鐵板半身甲",
+      "craft_quantity": 1,
+      "weapon_type": "",
+      "materials": [
+        {
+          "name": "銀條",
+          "quantity": 6
+        },
+        {
+          "name": "純銀條",
+          "quantity": 6
+        },
+        {
+          "name": "金條",
+          "quantity": 6
+        },
+        {
+          "name": "白金條",
+          "quantity": 10
+        },
+        {
+          "name": "赤松",
+          "quantity": 20
+        }
+      ],
+      "bonus": [
+        "防禦+103~+137",
+        "閃躲-8~-12",
+        "抗魔+24~+36"
+      ],
+      "recipe_source": "",
+      "shop_price": "1700G"
+    },
+    {
+      "level": 7,
+      "level_code": "7a",
+      "name": "實戰鎧甲",
+      "craft_quantity": 1,
+      "weapon_type": "",
+      "materials": [
+        {
+          "name": "鐵條",
+          "quantity": 20
+        },
+        {
+          "name": "金條",
+          "quantity": 5
+        },
+        {
+          "name": "白金條",
+          "quantity": 5
+        },
+        {
+          "name": "幻之鋼條",
+          "quantity": 8
+        },
+        {
+          "name": "赤松",
+          "quantity": 20
+        }
+      ],
+      "bonus": [
+        "防禦+110~+147",
+        "閃躲-8~-12",
+        "抗魔+42~+56"
+      ],
+      "recipe_source": "",
+      "shop_price": "1800G"
+    },
+    {
+      "level": 7,
+      "level_code": "7b",
+      "name": "黃金鎧甲",
+      "craft_quantity": 1,
+      "weapon_type": "",
+      "materials": [
+        {
+          "name": "純銀條",
+          "quantity": 10
+        },
+        {
+          "name": "金條",
+          "quantity": 10
+        },
+        {
+          "name": "白金條",
+          "quantity": 10
+        },
+        {
+          "name": "幻之鋼條",
+          "quantity": 10
+        },
+        {
+          "name": "蔓陀羅草 的皮",
+          "quantity": 1
+        }
+      ],
+      "bonus": [
+        "防禦+20",
+        "精神+50",
+        "閃躲-3~-7",
+        "抗魔+40"
+      ],
+      "recipe_source": "",
+      "shop_price": "1800G"
+    },
+    {
+      "level": 7,
+      "level_code": "7c",
+      "name": "水龍鎧甲",
+      "craft_quantity": 1,
+      "weapon_type": "",
+      "materials": [
+        {
+          "name": "生鏽的鎧",
+          "quantity": 1
+        },
+        {
+          "name": "鋼騎之礦",
+          "quantity": 2
+        },
+        {
+          "name": "魔族的水晶",
+          "quantity": 2
+        },
+        {
+          "name": "幻之鋼條",
+          "quantity": 20
+        }
+      ],
+      "bonus": [],
+      "recipe_source": "參照任務「時波之祠」",
+      "shop_price": ""
+    },
+    {
+      "level": 8,
+      "level_code": "8a",
+      "name": "重金屬鎧甲",
+      "craft_quantity": 1,
+      "weapon_type": "",
+      "materials": [
+        {
+          "name": "鐵條",
+          "quantity": 20
+        },
+        {
+          "name": "幻之鋼條",
+          "quantity": 10
+        },
+        {
+          "name": "幻之銀條",
+          "quantity": 10
+        }
+      ],
+      "bonus": [
+        "防禦+126~+179",
+        "閃躲-8~-12",
+        "抗魔+48~+64"
+      ],
+      "recipe_source": "",
+      "shop_price": "1900G"
+    },
+    {
+      "level": 8,
+      "level_code": "8b",
+      "name": "野獸之鎧",
+      "craft_quantity": 1,
+      "weapon_type": "",
+      "materials": [
+        {
+          "name": "銀條",
+          "quantity": 15
+        },
+        {
+          "name": "幻之鋼條",
+          "quantity": 20
+        },
+        {
+          "name": "赤松",
+          "quantity": 20
+        },
+        {
+          "name": "風龍蜥 的甲殼",
+          "quantity": 1
+        }
+      ],
+      "bonus": [
+        "防禦+130~+140",
+        "抗魔+16~+24",
+        "耐久350~+400"
+      ],
+      "recipe_source": "",
+      "shop_price": "1900G"
+    },
+    {
+      "level": 8,
+      "level_code": "8c",
+      "name": "實戰鎧甲+",
+      "craft_quantity": 1,
+      "weapon_type": "",
+      "materials": [
+        {
+          "name": "幻之銀條",
+          "quantity": 15
+        },
+        {
+          "name": "幻之鋼條",
+          "quantity": 13
+        },
+        {
+          "name": "朴",
+          "quantity": 10
+        },
+        {
+          "name": "永久冰石",
+          "quantity": 20
+        },
+        {
+          "name": "藍龍之鱗",
+          "quantity": 20
+        }
+      ],
+      "bonus": [],
+      "recipe_source": "參照任務「生產系升階III」",
+      "shop_price": ""
+    },
+    {
+      "level": 9,
+      "level_code": "9a",
+      "name": "帝王之鎧",
+      "craft_quantity": 1,
+      "weapon_type": "",
+      "materials": [
+        {
+          "name": "幻之鋼條",
+          "quantity": 10
+        },
+        {
+          "name": "幻之銀條",
+          "quantity": 10
+        },
+        {
+          "name": "勒格耐席姆條",
+          "quantity": 10
+        },
+        {
+          "name": "杉",
+          "quantity": 20
+        }
+      ],
+      "bonus": [
+        "防禦+160~+200",
+        "閃躲-8~-12",
+        "抗魔+27~+36"
+      ],
+      "recipe_source": "",
+      "shop_price": "4300G"
+    },
+    {
+      "level": 9,
+      "level_code": "9b",
+      "name": "亡靈 鎧甲",
+      "craft_quantity": 1,
+      "weapon_type": "",
+      "materials": [
+        {
+          "name": "鐵條",
+          "quantity": 20
+        },
+        {
+          "name": "幻之鋼條",
+          "quantity": 10
+        },
+        {
+          "name": "幻之銀條",
+          "quantity": 10
+        },
+        {
+          "name": "勒格耐席姆條",
+          "quantity": 12
+        },
+        {
+          "name": "魔族的水晶",
+          "quantity": 5
+        }
+      ],
+      "bonus": [
+        "防禦+160",
+        "閃躲+8~12",
+        "抗毒",
+        "化+3",
+        "抗睡眠+3",
+        "抗石化",
+        "+3",
+        "抗魔+12"
+      ],
+      "recipe_source": "",
+      "shop_price": "5200G"
+    },
+    {
+      "level": 10,
+      "level_code": "10a",
+      "name": "漆黑之鎧",
+      "craft_quantity": 1,
+      "weapon_type": "",
+      "materials": [
+        {
+          "name": "白金條",
+          "quantity": 5
+        },
+        {
+          "name": "幻之鋼條",
+          "quantity": 5
+        },
+        {
+          "name": "幻之銀條",
+          "quantity": 10
+        },
+        {
+          "name": "勒格耐席姆條",
+          "quantity": 10
+        },
+        {
+          "name": "奧利哈鋼條",
+          "quantity": 5
+        }
+      ],
+      "bonus": [
+        "防禦+188~+221",
+        "閃躲-8~-12",
+        "抗魔+70~+80"
+      ],
+      "recipe_source": "",
+      "shop_price": "6200G"
+    },
+    {
+      "level": 10,
+      "level_code": "10b",
+      "name": "騎士 鎧甲",
+      "craft_quantity": 1,
+      "weapon_type": "",
+      "materials": [
+        {
+          "name": "金條",
+          "quantity": 20
+        },
+        {
+          "name": "勒格耐席姆條",
+          "quantity": 10
+        },
+        {
+          "name": "奧利哈鋼條",
+          "quantity": 10
+        },
+        {
+          "name": "鋼騎之礦",
+          "quantity": 5
+        },
+        {
+          "name": "魔族的水晶",
+          "quantity": 5
+        }
+      ],
+      "bonus": [
+        "攻擊-15",
+        "防禦+240",
+        "閃躲-5~-9",
+        "抗魔+50~+60"
+      ],
+      "recipe_source": "",
+      "shop_price": "7600G"
+    },
+    {
+      "level": 11,
+      "level_code": "11a",
+      "name": "紅繩威鎧",
+      "craft_quantity": 1,
+      "weapon_type": "",
+      "materials": [
+        {
+          "name": "鋁條",
+          "quantity": 13
+        },
+        {
+          "name": "達馬斯礦條",
+          "quantity": 10
+        },
+        {
+          "name": "勒格耐席姆條",
+          "quantity": 10
+        },
+        {
+          "name": "奧利哈鋼條",
+          "quantity": 2
+        },
+        {
+          "name": "風龍蜥 的甲殼",
+          "quantity": 2
+        }
+      ],
+      "bonus": [
+        "防禦+214~+222",
+        "命中+6~10",
+        "閃躲-8~-12",
+        "抗魔+51"
+      ],
+      "recipe_source": "",
+      "shop_price": "7200G"
+    },
+    {
+      "level": 11,
+      "level_code": "11b",
+      "name": "守護鎧甲",
+      "craft_quantity": 1,
+      "weapon_type": "",
+      "materials": [
+        {
+          "name": "鋁條",
+          "quantity": 5
+        },
+        {
+          "name": "幻之銀條",
+          "quantity": 10
+        },
+        {
+          "name": "達馬斯礦條",
+          "quantity": 4
+        },
+        {
+          "name": "奧利哈鋼條",
+          "quantity": 8
+        },
+        {
+          "name": "妖草 的血",
+          "quantity": 2
+        }
+      ],
+      "bonus": [
+        "防禦+227~252",
+        "閃躲-3~-7",
+        "生命+93~97",
+        "抗魔+100"
+      ],
+      "recipe_source": "",
+      "shop_price": "8200G"
+    }
+  ]
+}

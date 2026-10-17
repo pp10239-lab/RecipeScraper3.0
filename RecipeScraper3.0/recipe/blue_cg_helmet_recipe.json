@@ -1,0 +1,809 @@
+{
+  "source_url": "https://gamerch.com/blue-cg/453320",
+  "page_title": "頭盔製作",
+  "wiki": "水藍魔力攻略wiki",
+  "updated_at": "2025/09/01 22:48",
+  "author": "ゲストユーザー",
+  "last_editor": "Mizuei",
+  "category": "製作配方",
+  "note": "1.裝備修正值附加浮動值 -2~+2",
+  "recipes": [
+    {
+      "level": 1,
+      "level_code": "1a",
+      "name": "硬皮頭盔",
+      "craft_quantity": 1,
+      "weapon_type": "",
+      "materials": [
+        {
+          "name": "鹿皮",
+          "quantity": 20
+        },
+        {
+          "name": "麻布",
+          "quantity": 2
+        }
+      ],
+      "bonus": [
+        "防禦+6~+11",
+        "抗魔+5~+7"
+      ],
+      "recipe_source": "",
+      "shop_price": "140G"
+    },
+    {
+      "level": 1,
+      "level_code": "1b",
+      "name": "銅製頭盔",
+      "craft_quantity": 1,
+      "weapon_type": "",
+      "materials": [
+        {
+          "name": "銅條",
+          "quantity": 3
+        },
+        {
+          "name": "麻布",
+          "quantity": 3
+        }
+      ],
+      "bonus": [
+        "防禦+9~+17",
+        "抗魔+3~+5"
+      ],
+      "recipe_source": "",
+      "shop_price": "200G"
+    },
+    {
+      "level": 2,
+      "level_code": "2a",
+      "name": "鐵板布盔",
+      "craft_quantity": 1,
+      "weapon_type": "",
+      "materials": [
+        {
+          "name": "銅條",
+          "quantity": 4
+        },
+        {
+          "name": "鐵條",
+          "quantity": 2
+        },
+        {
+          "name": "麻布",
+          "quantity": 3
+        }
+      ],
+      "bonus": [
+        "防禦+12~+22",
+        "抗魔+10~+14"
+      ],
+      "recipe_source": "",
+      "shop_price": "260G"
+    },
+    {
+      "level": 2,
+      "level_code": "2b",
+      "name": "銅鐵皮盔",
+      "craft_quantity": 1,
+      "weapon_type": "",
+      "materials": [
+        {
+          "name": "銅條",
+          "quantity": 5
+        },
+        {
+          "name": "鐵條",
+          "quantity": 3
+        },
+        {
+          "name": "麻布",
+          "quantity": 2
+        },
+        {
+          "name": "木棉布",
+          "quantity": 2
+        }
+      ],
+      "bonus": [
+        "防禦+15~+28",
+        "抗魔+6~+10"
+      ],
+      "recipe_source": "",
+      "shop_price": "320G"
+    },
+    {
+      "level": 3,
+      "level_code": "3a",
+      "name": "金屬護額",
+      "craft_quantity": 1,
+      "weapon_type": "",
+      "materials": [
+        {
+          "name": "銅條",
+          "quantity": 4
+        },
+        {
+          "name": "鐵條",
+          "quantity": 5
+        },
+        {
+          "name": "銀條",
+          "quantity": 3
+        },
+        {
+          "name": "木棉布",
+          "quantity": 2
+        }
+      ],
+      "bonus": [
+        "防禦+20~+33",
+        "抗魔+15~+21"
+      ],
+      "recipe_source": "",
+      "shop_price": "400G"
+    },
+    {
+      "level": 3,
+      "level_code": "3b",
+      "name": "鐵製頭盔",
+      "craft_quantity": 1,
+      "weapon_type": "",
+      "materials": [
+        {
+          "name": "銅條",
+          "quantity": 3
+        },
+        {
+          "name": "鐵條",
+          "quantity": 10
+        },
+        {
+          "name": "銀條",
+          "quantity": 3
+        },
+        {
+          "name": "毛氈",
+          "quantity": 1
+        }
+      ],
+      "bonus": [
+        "防禦+23~+39",
+        "抗魔+9~+15"
+      ],
+      "recipe_source": "",
+      "shop_price": "480G"
+    },
+    {
+      "level": 4,
+      "level_code": "4a",
+      "name": "霸葛頭盔",
+      "craft_quantity": 1,
+      "weapon_type": "",
+      "materials": [
+        {
+          "name": "銅條",
+          "quantity": 4
+        },
+        {
+          "name": "鐵條",
+          "quantity": 4
+        },
+        {
+          "name": "銀條",
+          "quantity": 5
+        },
+        {
+          "name": "純銀條",
+          "quantity": 5
+        }
+      ],
+      "bonus": [
+        "防禦+29~+44",
+        "抗魔+20~+28"
+      ],
+      "recipe_source": "",
+      "shop_price": "550G"
+    },
+    {
+      "level": 4,
+      "level_code": "4b",
+      "name": "角飾頭盔",
+      "craft_quantity": 1,
+      "weapon_type": "",
+      "materials": [
+        {
+          "name": "銅條",
+          "quantity": 5
+        },
+        {
+          "name": "鐵條",
+          "quantity": 5
+        },
+        {
+          "name": "銀條",
+          "quantity": 5
+        },
+        {
+          "name": "純銀條",
+          "quantity": 5
+        },
+        {
+          "name": "棉布",
+          "quantity": 2
+        }
+      ],
+      "bonus": [
+        "防禦+33~+50",
+        "抗魔+12~+20"
+      ],
+      "recipe_source": "",
+      "shop_price": "660G"
+    },
+    {
+      "level": 5,
+      "level_code": "5a",
+      "name": "開放式頭盔",
+      "craft_quantity": 1,
+      "weapon_type": "",
+      "materials": [
+        {
+          "name": "純銀條",
+          "quantity": 5
+        },
+        {
+          "name": "金條",
+          "quantity": 8
+        },
+        {
+          "name": "棉布",
+          "quantity": 5
+        }
+      ],
+      "bonus": [
+        "防禦+39~+55",
+        "抗魔+25~+35"
+      ],
+      "recipe_source": "",
+      "shop_price": "1000G"
+    },
+    {
+      "level": 5,
+      "level_code": "5b",
+      "name": "葛理克頭盔",
+      "craft_quantity": 1,
+      "weapon_type": "",
+      "materials": [
+        {
+          "name": "純銀條",
+          "quantity": 5
+        },
+        {
+          "name": "金條",
+          "quantity": 5
+        },
+        {
+          "name": "棉布",
+          "quantity": 5
+        },
+        {
+          "name": "細線",
+          "quantity": 5
+        }
+      ],
+      "bonus": [
+        "防禦+43~+61",
+        "抗魔+15~+25"
+      ],
+      "recipe_source": "",
+      "shop_price": "1200G"
+    },
+    {
+      "level": 5,
+      "level_code": "5c",
+      "name": "聖 騎士 之盔",
+      "craft_quantity": 1,
+      "weapon_type": "",
+      "materials": [
+        {
+          "name": "鋁條",
+          "quantity": 3
+        },
+        {
+          "name": "純銀條",
+          "quantity": 4
+        },
+        {
+          "name": "金條",
+          "quantity": 4
+        },
+        {
+          "name": "茱萸木",
+          "quantity": 20
+        }
+      ],
+      "bonus": [],
+      "recipe_source": "參照任務「工匠的黑歷史」",
+      "shop_price": ""
+    },
+    {
+      "level": 6,
+      "level_code": "6a",
+      "name": "巴比克頭盔",
+      "craft_quantity": 1,
+      "weapon_type": "",
+      "materials": [
+        {
+          "name": "金條",
+          "quantity": 5
+        },
+        {
+          "name": "白金條",
+          "quantity": 8
+        },
+        {
+          "name": "細線",
+          "quantity": 5
+        }
+      ],
+      "bonus": [
+        "防禦+50~+66",
+        "抗魔+30~+42"
+      ],
+      "recipe_source": "",
+      "shop_price": "1400G"
+    },
+    {
+      "level": 6,
+      "level_code": "6b",
+      "name": "利刃頭盔",
+      "craft_quantity": 1,
+      "weapon_type": "",
+      "materials": [
+        {
+          "name": "金條",
+          "quantity": 5
+        },
+        {
+          "name": "白金條",
+          "quantity": 5
+        },
+        {
+          "name": "細線",
+          "quantity": 5
+        },
+        {
+          "name": "絹布",
+          "quantity": 5
+        }
+      ],
+      "bonus": [
+        "防禦+54~+72",
+        "抗魔+18~+30"
+      ],
+      "recipe_source": "",
+      "shop_price": "1500G"
+    },
+    {
+      "level": 7,
+      "level_code": "7a",
+      "name": "騎士 頭盔",
+      "craft_quantity": 1,
+      "weapon_type": "",
+      "materials": [
+        {
+          "name": "金條",
+          "quantity": 8
+        },
+        {
+          "name": "白金條",
+          "quantity": 4
+        },
+        {
+          "name": "幻之鋼條",
+          "quantity": 5
+        },
+        {
+          "name": "絹布",
+          "quantity": 4
+        },
+        {
+          "name": "鋼騎之礦",
+          "quantity": 1
+        }
+      ],
+      "bonus": [
+        "防禦+60",
+        "抗魔+28~+42",
+        "護衛",
+        "所需消耗魔力減少25%"
+      ],
+      "recipe_source": "",
+      "shop_price": "1550G"
+    },
+    {
+      "level": 7,
+      "level_code": "7b",
+      "name": "鋼製頭盔",
+      "craft_quantity": 1,
+      "weapon_type": "",
+      "materials": [
+        {
+          "name": "白金條",
+          "quantity": 5
+        },
+        {
+          "name": "幻之鋼條",
+          "quantity": 5
+        },
+        {
+          "name": "細線",
+          "quantity": 9
+        },
+        {
+          "name": "琵琶木",
+          "quantity": 20
+        },
+        {
+          "name": "朴",
+          "quantity": 20
+        }
+      ],
+      "bonus": [
+        "防禦+62~+83",
+        "抗魔+24~+38"
+      ],
+      "recipe_source": "",
+      "shop_price": "1550G"
+    },
+    {
+      "level": 7,
+      "level_code": "7c",
+      "name": "水龍之盔",
+      "craft_quantity": 1,
+      "weapon_type": "",
+      "materials": [
+        {
+          "name": "生鏽的頭盔",
+          "quantity": 1
+        },
+        {
+          "name": "鋼騎之礦",
+          "quantity": 2
+        },
+        {
+          "name": "魔族的水晶",
+          "quantity": 2
+        },
+        {
+          "name": "幻之鋼條",
+          "quantity": 10
+        }
+      ],
+      "bonus": [],
+      "recipe_source": "參照任務「時波之祠」",
+      "shop_price": ""
+    },
+    {
+      "level": 8,
+      "level_code": "8a",
+      "name": "博流蓋爾頭盔",
+      "craft_quantity": 1,
+      "weapon_type": "",
+      "materials": [
+        {
+          "name": "幻之鋼條",
+          "quantity": 5
+        },
+        {
+          "name": "幻之銀條",
+          "quantity": 5
+        },
+        {
+          "name": "絹布",
+          "quantity": 5
+        },
+        {
+          "name": "朴",
+          "quantity": 20
+        },
+        {
+          "name": "誓言之證",
+          "quantity": 5
+        }
+      ],
+      "bonus": [
+        "防禦+65",
+        "命中-3~-7",
+        "閃躲+23~27",
+        "抗魔+10"
+      ],
+      "recipe_source": "",
+      "shop_price": "1600G"
+    },
+    {
+      "level": 8,
+      "level_code": "8b",
+      "name": "鉚釘頭盔",
+      "craft_quantity": 1,
+      "weapon_type": "",
+      "materials": [
+        {
+          "name": "鐵條",
+          "quantity": 10
+        },
+        {
+          "name": "幻之銀條",
+          "quantity": 5
+        },
+        {
+          "name": "莎蓮娜線",
+          "quantity": 5
+        },
+        {
+          "name": "杉",
+          "quantity": 20
+        }
+      ],
+      "bonus": [
+        "防禦+71~+94",
+        "抗魔+32~+48"
+      ],
+      "recipe_source": "",
+      "shop_price": "1600G"
+    },
+    {
+      "level": 8,
+      "level_code": "8c",
+      "name": "鋼製頭盔 +",
+      "craft_quantity": 1,
+      "weapon_type": "",
+      "materials": [
+        {
+          "name": "幻之鋼條",
+          "quantity": 7
+        },
+        {
+          "name": "幻之銀條",
+          "quantity": 5
+        },
+        {
+          "name": "杉",
+          "quantity": 20
+        },
+        {
+          "name": "永久冰石",
+          "quantity": 20
+        },
+        {
+          "name": "藍龍之鱗",
+          "quantity": 20
+        }
+      ],
+      "bonus": [],
+      "recipe_source": "參照任務「生產系升階III」",
+      "shop_price": ""
+    },
+    {
+      "level": 9,
+      "level_code": "9a",
+      "name": "羽毛頭盔",
+      "craft_quantity": 1,
+      "weapon_type": "",
+      "materials": [
+        {
+          "name": "幻之銀條",
+          "quantity": 3
+        },
+        {
+          "name": "勒格耐席姆條",
+          "quantity": 5
+        },
+        {
+          "name": "朴",
+          "quantity": 20
+        },
+        {
+          "name": "杉",
+          "quantity": 20
+        },
+        {
+          "name": "莎蓮娜線",
+          "quantity": 3
+        }
+      ],
+      "bonus": [
+        "防禦+84~+105",
+        "抗魔+45~+63"
+      ],
+      "recipe_source": "",
+      "shop_price": "2000G"
+    },
+    {
+      "level": 9,
+      "level_code": "9b",
+      "name": "龍盔",
+      "craft_quantity": 1,
+      "weapon_type": "",
+      "materials": [
+        {
+          "name": "勒格耐席姆條",
+          "quantity": 8
+        },
+        {
+          "name": "絲柏",
+          "quantity": 20
+        },
+        {
+          "name": "莎蓮娜線",
+          "quantity": 4
+        },
+        {
+          "name": "誓言之證",
+          "quantity": 1
+        },
+        {
+          "name": "鋼騎之礦",
+          "quantity": 1
+        }
+      ],
+      "bonus": [
+        "防禦+85",
+        "命中+1~5",
+        "抗魔+24~+36",
+        "護衛",
+        "所需消耗魔力減少25%"
+      ],
+      "recipe_source": "",
+      "shop_price": "2400G"
+    },
+    {
+      "level": 10,
+      "level_code": "10a",
+      "name": "白金頭盔",
+      "craft_quantity": 1,
+      "weapon_type": "",
+      "materials": [
+        {
+          "name": "幻之銀條",
+          "quantity": 3
+        },
+        {
+          "name": "勒格耐席姆條",
+          "quantity": 5
+        },
+        {
+          "name": "奧利哈鋼條",
+          "quantity": 3
+        },
+        {
+          "name": "絲柏",
+          "quantity": 20
+        },
+        {
+          "name": "莎蓮娜線",
+          "quantity": 3
+        }
+      ],
+      "bonus": [
+        "防禦+99~+116",
+        "抗魔+50~+70"
+      ],
+      "recipe_source": "",
+      "shop_price": "3300G"
+    },
+    {
+      "level": 10,
+      "level_code": "10b",
+      "name": "聖龍 頭盔",
+      "craft_quantity": 1,
+      "weapon_type": "",
+      "materials": [
+        {
+          "name": "勒格耐席姆條",
+          "quantity": 5
+        },
+        {
+          "name": "奧利哈鋼條",
+          "quantity": 5
+        },
+        {
+          "name": "梣",
+          "quantity": 20
+        },
+        {
+          "name": "鋼騎之礦",
+          "quantity": 4
+        },
+        {
+          "name": "魔族的水晶",
+          "quantity": 4
+        }
+      ],
+      "bonus": [
+        "防禦+130",
+        "抗魔+40~+60",
+        "必殺",
+        "-3~-7"
+      ],
+      "recipe_source": "",
+      "shop_price": "4000G"
+    },
+    {
+      "level": 11,
+      "level_code": "11a",
+      "name": "正義頭盔",
+      "craft_quantity": 1,
+      "weapon_type": "",
+      "materials": [
+        {
+          "name": "鋁條",
+          "quantity": 10
+        },
+        {
+          "name": "幻之銀條",
+          "quantity": 7
+        },
+        {
+          "name": "勒格耐席姆條",
+          "quantity": 5
+        },
+        {
+          "name": "單木",
+          "quantity": 40
+        },
+        {
+          "name": "誓言之證",
+          "quantity": 2
+        }
+      ],
+      "bonus": [
+        "防禦+95",
+        "必殺+4~8",
+        "閃躲-3~-7",
+        "抗魔+77~+87"
+      ],
+      "recipe_source": "",
+      "shop_price": "4300G"
+    },
+    {
+      "level": 11,
+      "level_code": "11b",
+      "name": "靈力頭盔",
+      "craft_quantity": 1,
+      "weapon_type": "",
+      "materials": [
+        {
+          "name": "鋁條",
+          "quantity": 9
+        },
+        {
+          "name": "幻之銀條",
+          "quantity": 6
+        },
+        {
+          "name": "勒格耐席姆條",
+          "quantity": 6
+        },
+        {
+          "name": "梣",
+          "quantity": 40
+        },
+        {
+          "name": "風龍蜥 的甲殼",
+          "quantity": 2
+        }
+      ],
+      "bonus": [
+        "防禦+105~+111",
+        "反擊",
+        "+6~10",
+        "命中+2~6",
+        "閃躲-3~-7",
+        "抗魔+74~+77"
+      ],
+      "recipe_source": "",
+      "shop_price": "5300G"
+    }
+  ]
+}

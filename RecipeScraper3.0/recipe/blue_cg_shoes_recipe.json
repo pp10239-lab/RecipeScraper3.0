@@ -1,0 +1,881 @@
+{
+  "source_url": "https://gamerch.com/blue-cg/453318",
+  "page_title": "長袍製作",
+  "wiki": "水藍魔力攻略wiki",
+  "updated_at": "2025/09/01 22:48",
+  "author": "ゲストユーザー",
+  "last_editor": "Mizuei",
+  "category": "製作配方",
+  "note": "1.修正值附加浮動值 -2~+2",
+  "recipes": [
+    {
+      "level": 1,
+      "level_code": "1a",
+      "name": "羽毛袍",
+      "craft_quantity": 1,
+      "weapon_type": "",
+      "materials": [
+        {
+          "name": "鹿皮",
+          "quantity": 20
+        },
+        {
+          "name": "麻布",
+          "quantity": 4
+        },
+        {
+          "name": "印度輕木",
+          "quantity": 10
+        }
+      ],
+      "bonus": [
+        "防禦+4~+8",
+        "魔力+40~+50"
+      ],
+      "recipe_source": "",
+      "shop_price": "220G"
+    },
+    {
+      "level": 1,
+      "level_code": "1b",
+      "name": "輕皮袍",
+      "craft_quantity": 1,
+      "weapon_type": "",
+      "materials": [
+        {
+          "name": "鹿皮",
+          "quantity": 20
+        },
+        {
+          "name": "麻布",
+          "quantity": 5
+        },
+        {
+          "name": "木棉布",
+          "quantity": 4
+        },
+        {
+          "name": "印度輕木",
+          "quantity": 10
+        }
+      ],
+      "bonus": [
+        "防禦+6~+12",
+        "魔力+60~+75"
+      ],
+      "recipe_source": "",
+      "shop_price": "370G"
+    },
+    {
+      "level": 2,
+      "level_code": "2a",
+      "name": "網袍",
+      "craft_quantity": 1,
+      "weapon_type": "",
+      "materials": [
+        {
+          "name": "鹿皮",
+          "quantity": 20
+        },
+        {
+          "name": "麻布",
+          "quantity": 2
+        },
+        {
+          "name": "木棉布",
+          "quantity": 10
+        },
+        {
+          "name": "樅",
+          "quantity": 10
+        }
+      ],
+      "bonus": [
+        "防禦+9~+16",
+        "魔力+80~+100"
+      ],
+      "recipe_source": "",
+      "shop_price": "470G"
+    },
+    {
+      "level": 2,
+      "level_code": "2b",
+      "name": "風袍",
+      "craft_quantity": 1,
+      "weapon_type": "",
+      "materials": [
+        {
+          "name": "鹿皮",
+          "quantity": 20
+        },
+        {
+          "name": "麻布",
+          "quantity": 4
+        },
+        {
+          "name": "木棉布",
+          "quantity": 10
+        },
+        {
+          "name": "毛氈",
+          "quantity": 2
+        },
+        {
+          "name": "樅",
+          "quantity": 10
+        }
+      ],
+      "bonus": [
+        "防禦+11~+20",
+        "魔力+100~+125"
+      ],
+      "recipe_source": "",
+      "shop_price": "550G"
+    },
+    {
+      "level": 3,
+      "level_code": "3a",
+      "name": "硬皮袍",
+      "craft_quantity": 1,
+      "weapon_type": "",
+      "materials": [
+        {
+          "name": "鹿皮",
+          "quantity": 20
+        },
+        {
+          "name": "麻布",
+          "quantity": 7
+        },
+        {
+          "name": "木棉布",
+          "quantity": 8
+        },
+        {
+          "name": "毛氈",
+          "quantity": 5
+        },
+        {
+          "name": "黃月木",
+          "quantity": 10
+        }
+      ],
+      "bonus": [
+        "防禦+14~+24",
+        "魔力+120~+150"
+      ],
+      "recipe_source": "",
+      "shop_price": "650G"
+    },
+    {
+      "level": 3,
+      "level_code": "3b",
+      "name": "環袍",
+      "craft_quantity": 1,
+      "weapon_type": "",
+      "materials": [
+        {
+          "name": "鐵條",
+          "quantity": 8
+        },
+        {
+          "name": "麻布",
+          "quantity": 5
+        },
+        {
+          "name": "毛氈",
+          "quantity": 7
+        },
+        {
+          "name": "棉布",
+          "quantity": 3
+        },
+        {
+          "name": "黃月木",
+          "quantity": 10
+        }
+      ],
+      "bonus": [
+        "防禦+17~+28",
+        "魔力+140~+175"
+      ],
+      "recipe_source": "",
+      "shop_price": "700G"
+    },
+    {
+      "level": 4,
+      "level_code": "4a",
+      "name": "烏鴉之袍",
+      "craft_quantity": 1,
+      "weapon_type": "",
+      "materials": [
+        {
+          "name": "鹿皮",
+          "quantity": 20
+        },
+        {
+          "name": "麻布",
+          "quantity": 10
+        },
+        {
+          "name": "毛氈",
+          "quantity": 10
+        },
+        {
+          "name": "棉布",
+          "quantity": 6
+        },
+        {
+          "name": "鐵杉",
+          "quantity": 10
+        }
+      ],
+      "bonus": [
+        "防禦+21~+32",
+        "魔力+160~+200"
+      ],
+      "recipe_source": "",
+      "shop_price": "800G"
+    },
+    {
+      "level": 4,
+      "level_code": "4b",
+      "name": "月亮之袍",
+      "craft_quantity": 1,
+      "weapon_type": "",
+      "materials": [
+        {
+          "name": "鹿皮",
+          "quantity": 20
+        },
+        {
+          "name": "麻布",
+          "quantity": 6
+        },
+        {
+          "name": "毛氈",
+          "quantity": 10
+        },
+        {
+          "name": "細線",
+          "quantity": 11
+        },
+        {
+          "name": "鐵杉",
+          "quantity": 10
+        }
+      ],
+      "bonus": [
+        "防禦+23~+36",
+        "魔力+180~+225"
+      ],
+      "recipe_source": "",
+      "shop_price": "890G"
+    },
+    {
+      "level": 4,
+      "level_code": "4c",
+      "name": "狐皮披風",
+      "craft_quantity": 1,
+      "weapon_type": "",
+      "materials": [
+        {
+          "name": "狐皮",
+          "quantity": 4
+        },
+        {
+          "name": "樅",
+          "quantity": 2
+        },
+        {
+          "name": "棉布",
+          "quantity": 20
+        },
+        {
+          "name": "莎蓮娜線",
+          "quantity": 4
+        }
+      ],
+      "bonus": [],
+      "recipe_source": "參照任務「風之洞窟」",
+      "shop_price": ""
+    },
+    {
+      "level": 5,
+      "level_code": "5a",
+      "name": "東方法衣",
+      "craft_quantity": 1,
+      "weapon_type": "",
+      "materials": [
+        {
+          "name": "鹿皮",
+          "quantity": 20
+        },
+        {
+          "name": "麻布",
+          "quantity": 10
+        },
+        {
+          "name": "棉布",
+          "quantity": 10
+        },
+        {
+          "name": "絹布",
+          "quantity": 11
+        },
+        {
+          "name": "鐵杉",
+          "quantity": 10
+        }
+      ],
+      "bonus": [
+        "防禦+28~+40",
+        "魔力+200~+250"
+      ],
+      "recipe_source": "",
+      "shop_price": "1100G"
+    },
+    {
+      "level": 5,
+      "level_code": "5b",
+      "name": "聖堂之袍",
+      "craft_quantity": 1,
+      "weapon_type": "",
+      "materials": [
+        {
+          "name": "純銀條",
+          "quantity": 5
+        },
+        {
+          "name": "鹿皮",
+          "quantity": 20
+        },
+        {
+          "name": "麻布",
+          "quantity": 5
+        },
+        {
+          "name": "絹布",
+          "quantity": 15
+        },
+        {
+          "name": "琵琶木",
+          "quantity": 10
+        }
+      ],
+      "bonus": [
+        "防禦+31~+44",
+        "魔力+220~+275"
+      ],
+      "recipe_source": "",
+      "shop_price": "1300G"
+    },
+    {
+      "level": 5,
+      "level_code": "5c",
+      "name": "治癒之袍",
+      "craft_quantity": 1,
+      "weapon_type": "",
+      "materials": [
+        {
+          "name": "鋁條",
+          "quantity": 4
+        },
+        {
+          "name": "純銀條",
+          "quantity": 4
+        },
+        {
+          "name": "茱萸木",
+          "quantity": 40
+        },
+        {
+          "name": "棉布",
+          "quantity": 3
+        },
+        {
+          "name": "絹布",
+          "quantity": 7
+        }
+      ],
+      "bonus": [],
+      "recipe_source": "參照任務「工匠的黑歷史」",
+      "shop_price": ""
+    },
+    {
+      "level": 6,
+      "level_code": "6a",
+      "name": "聖者之袍",
+      "craft_quantity": 1,
+      "weapon_type": "",
+      "materials": [
+        {
+          "name": "金條",
+          "quantity": 10
+        },
+        {
+          "name": "棉布",
+          "quantity": 13
+        },
+        {
+          "name": "絹布",
+          "quantity": 5
+        },
+        {
+          "name": "赤松",
+          "quantity": 10
+        }
+      ],
+      "bonus": [
+        "防禦+36~+48",
+        "魔力+240~+300"
+      ],
+      "recipe_source": "",
+      "shop_price": "1500G"
+    },
+    {
+      "level": 6,
+      "level_code": "6b",
+      "name": "戰鬥長袍",
+      "craft_quantity": 1,
+      "weapon_type": "",
+      "materials": [
+        {
+          "name": "白金條",
+          "quantity": 5
+        },
+        {
+          "name": "鹿皮",
+          "quantity": 20
+        },
+        {
+          "name": "棉布",
+          "quantity": 20
+        },
+        {
+          "name": "細線",
+          "quantity": 6
+        },
+        {
+          "name": "赤松",
+          "quantity": 10
+        }
+      ],
+      "bonus": [
+        "防禦+39~+52",
+        "魔力+260~+325"
+      ],
+      "recipe_source": "",
+      "shop_price": "1700G"
+    },
+    {
+      "level": 7,
+      "level_code": "7a",
+      "name": "冠軍之袍",
+      "craft_quantity": 1,
+      "weapon_type": "",
+      "materials": [
+        {
+          "name": "純銀條",
+          "quantity": 10
+        },
+        {
+          "name": "白金條",
+          "quantity": 10
+        },
+        {
+          "name": "莎蓮娜線",
+          "quantity": 20
+        },
+        {
+          "name": "誓言之證",
+          "quantity": 1
+        }
+      ],
+      "bonus": [
+        "防禦+42~+56",
+        "吸血魔法",
+        "所需消耗魔力減少20%"
+      ],
+      "recipe_source": "",
+      "shop_price": "1750G"
+    },
+    {
+      "level": 7,
+      "level_code": "7b",
+      "name": "時之袍",
+      "craft_quantity": 1,
+      "weapon_type": "",
+      "materials": [
+        {
+          "name": "金條",
+          "quantity": 5
+        },
+        {
+          "name": "幻之鋼條",
+          "quantity": 5
+        },
+        {
+          "name": "棉布",
+          "quantity": 5
+        },
+        {
+          "name": "莎蓮娜線",
+          "quantity": 10
+        }
+      ],
+      "bonus": [
+        "防禦+45~+60",
+        "魔力+300~+375"
+      ],
+      "recipe_source": "",
+      "shop_price": "1750G"
+    },
+    {
+      "level": 7,
+      "level_code": "7c",
+      "name": "水龍法袍",
+      "craft_quantity": 1,
+      "weapon_type": "",
+      "materials": [
+        {
+          "name": "破爛的袍",
+          "quantity": 1
+        },
+        {
+          "name": "鋼騎之礦",
+          "quantity": 2
+        },
+        {
+          "name": "魔族的水晶",
+          "quantity": 2
+        },
+        {
+          "name": "朴",
+          "quantity": 20
+        }
+      ],
+      "bonus": [],
+      "recipe_source": "參照任務「時波之祠」",
+      "shop_price": ""
+    },
+    {
+      "level": 8,
+      "level_code": "8a",
+      "name": "死神 之袍",
+      "craft_quantity": 1,
+      "weapon_type": "",
+      "materials": [
+        {
+          "name": "幻之銀條",
+          "quantity": 10
+        },
+        {
+          "name": "棉布",
+          "quantity": 5
+        },
+        {
+          "name": "絹布",
+          "quantity": 5
+        },
+        {
+          "name": "傑諾瓦線",
+          "quantity": 5
+        },
+        {
+          "name": "神眼",
+          "quantity": 1
+        }
+      ],
+      "bonus": [
+        "防禦+48~+64",
+        "魔力+320~+400",
+        "各種狀態抵抗+4"
+      ],
+      "recipe_source": "",
+      "shop_price": "1800G"
+    },
+    {
+      "level": 8,
+      "level_code": "8b",
+      "name": "勇者之袍",
+      "craft_quantity": 1,
+      "weapon_type": "",
+      "materials": [
+        {
+          "name": "白金條",
+          "quantity": 5
+        },
+        {
+          "name": "幻之銀條",
+          "quantity": 10
+        },
+        {
+          "name": "棉布",
+          "quantity": 5
+        },
+        {
+          "name": "絹布",
+          "quantity": 5
+        },
+        {
+          "name": "傑諾瓦線",
+          "quantity": 5
+        }
+      ],
+      "bonus": [
+        "防禦+51~+68",
+        "魔力+340~+425"
+      ],
+      "recipe_source": "",
+      "shop_price": "1800G"
+    },
+    {
+      "level": 8,
+      "level_code": "8c",
+      "name": "潔淨之袍+",
+      "craft_quantity": 1,
+      "weapon_type": "",
+      "materials": [
+        {
+          "name": "幻之銀條",
+          "quantity": 5
+        },
+        {
+          "name": "阿巴尼斯製的線",
+          "quantity": 10
+        },
+        {
+          "name": "阿巴尼斯製的布",
+          "quantity": 20
+        },
+        {
+          "name": "魔法紅蘿蔔",
+          "quantity": 20
+        },
+        {
+          "name": "藍龍之鱗",
+          "quantity": 20
+        }
+      ],
+      "bonus": [],
+      "recipe_source": "參照任務「生產系升階III」",
+      "shop_price": ""
+    },
+    {
+      "level": 9,
+      "level_code": "9a",
+      "name": "黑暗之袍",
+      "craft_quantity": 1,
+      "weapon_type": "",
+      "materials": [
+        {
+          "name": "勒格耐席姆條",
+          "quantity": 3
+        },
+        {
+          "name": "毛氈",
+          "quantity": 5
+        },
+        {
+          "name": "絹布",
+          "quantity": 5
+        },
+        {
+          "name": "傑諾瓦線",
+          "quantity": 5
+        },
+        {
+          "name": "細麻布",
+          "quantity": 8
+        }
+      ],
+      "bonus": [
+        "防禦+61~+76",
+        "魔力+380~+475"
+      ],
+      "recipe_source": "",
+      "shop_price": "3500G"
+    },
+    {
+      "level": 9,
+      "level_code": "9b",
+      "name": "聖袍",
+      "craft_quantity": 1,
+      "weapon_type": "",
+      "materials": [
+        {
+          "name": "勒格耐席姆條",
+          "quantity": 3
+        },
+        {
+          "name": "細線",
+          "quantity": 10
+        },
+        {
+          "name": "細麻布",
+          "quantity": 10
+        },
+        {
+          "name": "魔族的水晶",
+          "quantity": 1
+        },
+        {
+          "name": "誓言之證",
+          "quantity": 2
+        }
+      ],
+      "bonus": [
+        "防禦-10",
+        "魔力+650"
+      ],
+      "recipe_source": "",
+      "shop_price": "3500G"
+    },
+    {
+      "level": 10,
+      "level_code": "10a",
+      "name": "靈魂之袍",
+      "craft_quantity": 1,
+      "weapon_type": "",
+      "materials": [
+        {
+          "name": "奧利哈鋼條",
+          "quantity": 2
+        },
+        {
+          "name": "棉布",
+          "quantity": 10
+        },
+        {
+          "name": "絹布",
+          "quantity": 10
+        },
+        {
+          "name": "傑諾瓦線",
+          "quantity": 10
+        },
+        {
+          "name": "開米士毛線",
+          "quantity": 5
+        }
+      ],
+      "bonus": [
+        "防禦+71~+84",
+        "魔力+480~+525"
+      ],
+      "recipe_source": "",
+      "shop_price": "5200G"
+    },
+    {
+      "level": 10,
+      "level_code": "10b",
+      "name": "奇蹟之袍",
+      "craft_quantity": 1,
+      "weapon_type": "",
+      "materials": [
+        {
+          "name": "奧利哈鋼條",
+          "quantity": 5
+        },
+        {
+          "name": "細線",
+          "quantity": 10
+        },
+        {
+          "name": "細麻布",
+          "quantity": 15
+        },
+        {
+          "name": "神眼",
+          "quantity": 1
+        },
+        {
+          "name": "魔族的水晶",
+          "quantity": 5
+        }
+      ],
+      "bonus": [
+        "防禦+80",
+        "魔力+400",
+        "補血魔法",
+        "所需消耗魔力減少25%"
+      ],
+      "recipe_source": "",
+      "shop_price": "6000G"
+    },
+    {
+      "level": 11,
+      "level_code": "11a",
+      "name": "共鳴之袍",
+      "craft_quantity": 1,
+      "weapon_type": "",
+      "materials": [
+        {
+          "name": "阿巴尼斯製的線",
+          "quantity": 10
+        },
+        {
+          "name": "單木",
+          "quantity": 20
+        },
+        {
+          "name": "梣",
+          "quantity": 20
+        },
+        {
+          "name": "蔓陀羅草 的皮",
+          "quantity": 2
+        },
+        {
+          "name": "妖草 的血",
+          "quantity": 2
+        }
+      ],
+      "bonus": [
+        "防禦+27~+30",
+        "回復+10",
+        "閃躲+8~12",
+        "魔力+514~+550"
+      ],
+      "recipe_source": "",
+      "shop_price": "6200G"
+    },
+    {
+      "level": 11,
+      "level_code": "11b",
+      "name": "和平之袍",
+      "craft_quantity": 1,
+      "weapon_type": "",
+      "materials": [
+        {
+          "name": "勒格耐席姆條",
+          "quantity": 13
+        },
+        {
+          "name": "開米士毛線",
+          "quantity": 10
+        },
+        {
+          "name": "單木",
+          "quantity": 40
+        },
+        {
+          "name": "風龍蜥 的甲殼",
+          "quantity": 2
+        },
+        {
+          "name": "誓言之證",
+          "quantity": 2
+        }
+      ],
+      "bonus": [
+        "防禦+120",
+        "必殺+8~12",
+        "魔力+179"
+      ],
+      "recipe_source": "",
+      "shop_price": "未列出"
+    }
+  ]
+}

@@ -1,0 +1,1127 @@
+{
+  "source_url": "https://gamerch.com/blue-cg/453267",
+  "page_title": "料理製作",
+  "wiki": "水藍魔力攻略wiki",
+  "updated_at": "2025/09/01 22:48",
+  "author": "ゲストユーザー",
+  "last_editor": "Mizuei",
+  "category": "製作配方",
+  "note": "1.更改 魅惑的哈密瓜麵包 材料與效果 2.特有R11品項、升官發財吉祥年糕包 3.寵物 料理 為水藍特有品項",
+  "recipes": [
+    {
+      "level": 1,
+      "level_code": "1a",
+      "name": "蕃茄醬",
+      "craft_quantity": 1,
+      "weapon_type": "",
+      "materials": [
+        {
+          "name": "蕃茄",
+          "quantity": 5
+        },
+        {
+          "name": "瓶子",
+          "quantity": 1
+        }
+      ],
+      "bonus": [
+        "魔力值回復約30點"
+      ],
+      "recipe_source": "",
+      "shop_price": "Ｘ"
+    },
+    {
+      "level": 1,
+      "level_code": "1b",
+      "name": "麵包",
+      "craft_quantity": 1,
+      "weapon_type": "",
+      "materials": [
+        {
+          "name": "小麥粉",
+          "quantity": 16
+        },
+        {
+          "name": "牛奶",
+          "quantity": 10
+        },
+        {
+          "name": "鹽",
+          "quantity": 5
+        }
+      ],
+      "bonus": [
+        "魔力值回復約100點"
+      ],
+      "recipe_source": "",
+      "shop_price": "500G"
+    },
+    {
+      "level": 1,
+      "level_code": "1c",
+      "name": "神聖美乃滋",
+      "craft_quantity": 1,
+      "weapon_type": "",
+      "materials": [
+        {
+          "name": "鹽",
+          "quantity": 1
+        },
+        {
+          "name": "神聖油",
+          "quantity": 2
+        },
+        {
+          "name": "神聖醋",
+          "quantity": 2
+        },
+        {
+          "name": "雞蛋",
+          "quantity": 2
+        }
+      ],
+      "bonus": [],
+      "recipe_source": "與 艾夏島 銀行(114,104)總管(45,49)交談習得",
+      "shop_price": "212G"
+    },
+    {
+      "level": 1,
+      "level_code": "1d",
+      "name": "白飯",
+      "craft_quantity": 1,
+      "weapon_type": "",
+      "materials": [
+        {
+          "name": "飯碗",
+          "quantity": 5
+        },
+        {
+          "name": "神聖米",
+          "quantity": 5
+        }
+      ],
+      "bonus": [
+        "魔力值回復約30點"
+      ],
+      "recipe_source": "與 艾夏島 天鵝寵物店(127,141)與諾利卡(59,65)多次交談習得",
+      "shop_price": "5G"
+    },
+    {
+      "level": 1,
+      "level_code": "1e",
+      "name": "美乃滋芝麻拌飯",
+      "craft_quantity": 1,
+      "weapon_type": "",
+      "materials": [
+        {
+          "name": "芝麻娃娃",
+          "quantity": 1
+        },
+        {
+          "name": "神聖美乃滋",
+          "quantity": 3
+        },
+        {
+          "name": "白飯",
+          "quantity": 3
+        }
+      ],
+      "bonus": [
+        "魔力值回復約300點"
+      ],
+      "recipe_source": "參照任務「家族設立」",
+      "shop_price": "200G"
+    },
+    {
+      "level": 1,
+      "level_code": "1f",
+      "name": "升官發財吉祥年糕包",
+      "craft_quantity": 1,
+      "weapon_type": "",
+      "materials": [
+        {
+          "name": "米",
+          "quantity": 20
+        },
+        {
+          "name": "小麥粉",
+          "quantity": 10
+        },
+        {
+          "name": "醬油",
+          "quantity": 10
+        },
+        {
+          "name": "砂糖",
+          "quantity": 20
+        }
+      ],
+      "bonus": [
+        "一次製作一包，一包可點出５個",
+        "攻擊+20~30",
+        "防禦+20~30",
+        "精神+5",
+        "回復+5，效果持續15分鐘"
+      ],
+      "recipe_source": "烏克蘭雜貨店2樓 廚師 限定 學習費用3000G ※新年限定開放",
+      "shop_price": ""
+    },
+    {
+      "level": 1,
+      "level_code": "1g",
+      "name": "蛋飯",
+      "craft_quantity": 1,
+      "weapon_type": "",
+      "materials": [
+        {
+          "name": "白飯",
+          "quantity": 3
+        },
+        {
+          "name": "雞蛋",
+          "quantity": 10
+        }
+      ],
+      "bonus": [
+        "魔力值回復約50點"
+      ],
+      "recipe_source": "艾夏島 花兒開酒吧(163,140)與流浪客(26,24)多次交談習得",
+      "shop_price": "25G"
+    },
+    {
+      "level": 2,
+      "level_code": "2a",
+      "name": "蛋包飯",
+      "craft_quantity": 1,
+      "weapon_type": "",
+      "materials": [
+        {
+          "name": "雞蛋",
+          "quantity": 10
+        },
+        {
+          "name": "牛奶",
+          "quantity": 15
+        },
+        {
+          "name": "鹽",
+          "quantity": 5
+        },
+        {
+          "name": "芹菜",
+          "quantity": 1
+        },
+        {
+          "name": "蕃茄醬",
+          "quantity": 1
+        }
+      ],
+      "bonus": [
+        "魔力值回復約150點"
+      ],
+      "recipe_source": "",
+      "shop_price": "750G"
+    },
+    {
+      "level": 2,
+      "level_code": "2b",
+      "name": "法國麵包",
+      "craft_quantity": 1,
+      "weapon_type": "",
+      "materials": [
+        {
+          "name": "小麥粉",
+          "quantity": 20
+        },
+        {
+          "name": "牛奶",
+          "quantity": 20
+        },
+        {
+          "name": "鹽",
+          "quantity": 20
+        }
+      ],
+      "bonus": [
+        "魔力值回復約200點"
+      ],
+      "recipe_source": "",
+      "shop_price": "1000G"
+    },
+    {
+      "level": 3,
+      "level_code": "3a",
+      "name": "炒麵",
+      "craft_quantity": 1,
+      "weapon_type": "",
+      "materials": [
+        {
+          "name": "小麥粉",
+          "quantity": 20
+        },
+        {
+          "name": "鹽",
+          "quantity": 10
+        },
+        {
+          "name": "海苔",
+          "quantity": 20
+        },
+        {
+          "name": "薑",
+          "quantity": 12
+        }
+      ],
+      "bonus": [
+        "魔力值回復約250點"
+      ],
+      "recipe_source": "",
+      "shop_price": "1250G"
+    },
+    {
+      "level": 3,
+      "level_code": "3b",
+      "name": "青椒肉絲",
+      "craft_quantity": 1,
+      "weapon_type": "",
+      "materials": [
+        {
+          "name": "青椒",
+          "quantity": 20
+        },
+        {
+          "name": "鹽",
+          "quantity": 10
+        },
+        {
+          "name": "竹筍",
+          "quantity": 20
+        },
+        {
+          "name": "牛肉",
+          "quantity": 20
+        }
+      ],
+      "bonus": [
+        "魔力值回復約300點"
+      ],
+      "recipe_source": "",
+      "shop_price": "1500G"
+    },
+    {
+      "level": 3,
+      "level_code": "3c",
+      "name": "猛毒的餌",
+      "craft_quantity": 1,
+      "weapon_type": "",
+      "materials": [
+        {
+          "name": "必死的劇藥",
+          "quantity": 1
+        },
+        {
+          "name": "牛肉",
+          "quantity": 20
+        }
+      ],
+      "bonus": [
+        "任務品"
+      ],
+      "recipe_source": "參照任務「獅鷲狩獵」",
+      "shop_price": "Ｘ"
+    },
+    {
+      "level": 3,
+      "level_code": "3d",
+      "name": "寵物鬆餅",
+      "craft_quantity": 1,
+      "weapon_type": "",
+      "materials": [
+        {
+          "name": "雞蛋",
+          "quantity": 20
+        },
+        {
+          "name": "小麥粉",
+          "quantity": 20
+        },
+        {
+          "name": "牛奶",
+          "quantity": 20
+        },
+        {
+          "name": "鹽",
+          "quantity": 20
+        },
+        {
+          "name": "砂糖",
+          "quantity": 20
+        }
+      ],
+      "bonus": [
+        "可回復",
+        "寵物",
+        "400",
+        "點魔法力"
+      ],
+      "recipe_source": "參照任務「寵物料理配方學習」",
+      "shop_price": ""
+    },
+    {
+      "level": 4,
+      "level_code": "4a",
+      "name": "燒雞",
+      "craft_quantity": 1,
+      "weapon_type": "",
+      "materials": [
+        {
+          "name": "鹽",
+          "quantity": 20
+        },
+        {
+          "name": "雞肉",
+          "quantity": 20
+        },
+        {
+          "name": "胡椒",
+          "quantity": 20
+        },
+        {
+          "name": "檸檬草",
+          "quantity": 20
+        }
+      ],
+      "bonus": [
+        "魔力值回復約350點"
+      ],
+      "recipe_source": "",
+      "shop_price": "1750G"
+    },
+    {
+      "level": 4,
+      "level_code": "4b",
+      "name": "親子丼",
+      "craft_quantity": 1,
+      "weapon_type": "",
+      "materials": [
+        {
+          "name": "雞蛋",
+          "quantity": 20
+        },
+        {
+          "name": "蔥",
+          "quantity": 20
+        },
+        {
+          "name": "醬油",
+          "quantity": 20
+        },
+        {
+          "name": "雞肉",
+          "quantity": 20
+        },
+        {
+          "name": "米",
+          "quantity": 20
+        }
+      ],
+      "bonus": [
+        "魔力值回復約400點"
+      ],
+      "recipe_source": "",
+      "shop_price": "2000G"
+    },
+    {
+      "level": 5,
+      "level_code": "5a",
+      "name": "漢堡",
+      "craft_quantity": 1,
+      "weapon_type": "",
+      "materials": [
+        {
+          "name": "雞蛋",
+          "quantity": 20
+        },
+        {
+          "name": "蔥",
+          "quantity": 20
+        },
+        {
+          "name": "蕃茄醬",
+          "quantity": 3
+        },
+        {
+          "name": "牛肉",
+          "quantity": 20
+        }
+      ],
+      "bonus": [
+        "魔力值回復約450點"
+      ],
+      "recipe_source": "",
+      "shop_price": "2250G"
+    },
+    {
+      "level": 5,
+      "level_code": "5b",
+      "name": "星鰻飯團",
+      "craft_quantity": 1,
+      "weapon_type": "",
+      "materials": [
+        {
+          "name": "鹽",
+          "quantity": 20
+        },
+        {
+          "name": "醬油",
+          "quantity": 20
+        },
+        {
+          "name": "海苔",
+          "quantity": 20
+        },
+        {
+          "name": "星鰻",
+          "quantity": 20
+        },
+        {
+          "name": "米",
+          "quantity": 20
+        }
+      ],
+      "bonus": [
+        "魔力值回復約500點"
+      ],
+      "recipe_source": "",
+      "shop_price": "2500G"
+    },
+    {
+      "level": 5,
+      "level_code": "5c",
+      "name": "醬油豬骨拉麵",
+      "craft_quantity": 1,
+      "weapon_type": "",
+      "materials": [
+        {
+          "name": "小麥粉",
+          "quantity": 20
+        },
+        {
+          "name": "雞蛋",
+          "quantity": 20
+        },
+        {
+          "name": "醬油",
+          "quantity": 20
+        },
+        {
+          "name": "海苔",
+          "quantity": 20
+        },
+        {
+          "name": "豬肉",
+          "quantity": 20
+        }
+      ],
+      "bonus": [
+        "魔力值回復約400點"
+      ],
+      "recipe_source": "參照任務「月亮俱樂部」",
+      "shop_price": "350G"
+    },
+    {
+      "level": 5,
+      "level_code": "5d",
+      "name": "寵物炒飯",
+      "craft_quantity": 1,
+      "weapon_type": "",
+      "materials": [
+        {
+          "name": "雞蛋",
+          "quantity": 20
+        },
+        {
+          "name": "蔥",
+          "quantity": 20
+        },
+        {
+          "name": "醬油",
+          "quantity": 20
+        },
+        {
+          "name": "牛肉",
+          "quantity": 20
+        },
+        {
+          "name": "米",
+          "quantity": 20
+        }
+      ],
+      "bonus": [
+        "可回復",
+        "寵物",
+        "800",
+        "點魔法力"
+      ],
+      "recipe_source": "參照任務「寵物料理配方學習」",
+      "shop_price": "2000"
+    },
+    {
+      "level": 6,
+      "level_code": "6a",
+      "name": "炒麵麵包",
+      "craft_quantity": 1,
+      "weapon_type": "",
+      "materials": [
+        {
+          "name": "法國麵包",
+          "quantity": 1
+        },
+        {
+          "name": "炒麵",
+          "quantity": 1
+        }
+      ],
+      "bonus": [
+        "魔力值回復約550點"
+      ],
+      "recipe_source": "",
+      "shop_price": "2750G"
+    },
+    {
+      "level": 6,
+      "level_code": "6b",
+      "name": "壽喜鍋",
+      "craft_quantity": 1,
+      "weapon_type": "",
+      "materials": [
+        {
+          "name": "蔥",
+          "quantity": 20
+        },
+        {
+          "name": "鹽",
+          "quantity": 20
+        },
+        {
+          "name": "醬油",
+          "quantity": 20
+        },
+        {
+          "name": "牛肉",
+          "quantity": 20
+        },
+        {
+          "name": "砂糖",
+          "quantity": 20
+        }
+      ],
+      "bonus": [
+        "魔力值回復約600點"
+      ],
+      "recipe_source": "",
+      "shop_price": "3000G"
+    },
+    {
+      "level": 7,
+      "level_code": "7a",
+      "name": "咖哩飯",
+      "craft_quantity": 1,
+      "weapon_type": "",
+      "materials": [
+        {
+          "name": "蔥",
+          "quantity": 20
+        },
+        {
+          "name": "雞肉",
+          "quantity": 20
+        },
+        {
+          "name": "馬鈴薯",
+          "quantity": 20
+        },
+        {
+          "name": "米",
+          "quantity": 20
+        },
+        {
+          "name": "咖哩塊",
+          "quantity": 10
+        }
+      ],
+      "bonus": [
+        "魔力值回復約650點"
+      ],
+      "recipe_source": "",
+      "shop_price": "3250G"
+    },
+    {
+      "level": 7,
+      "level_code": "7b",
+      "name": "韓式泡菜飯",
+      "craft_quantity": 1,
+      "weapon_type": "",
+      "materials": [
+        {
+          "name": "雞蛋",
+          "quantity": 10
+        },
+        {
+          "name": "鹽",
+          "quantity": 20
+        },
+        {
+          "name": "牛肉",
+          "quantity": 20
+        },
+        {
+          "name": "米",
+          "quantity": 20
+        },
+        {
+          "name": "辣椒",
+          "quantity": 20
+        }
+      ],
+      "bonus": [
+        "魔力值回復約700點"
+      ],
+      "recipe_source": "",
+      "shop_price": "3500G"
+    },
+    {
+      "level": 7,
+      "level_code": "7c",
+      "name": "水龍 料理",
+      "craft_quantity": 1,
+      "weapon_type": "",
+      "materials": [
+        {
+          "name": "水龍的鰭",
+          "quantity": 1
+        }
+      ],
+      "bonus": [
+        "寵物忠誠+10，一次製作3個"
+      ],
+      "recipe_source": "參照任務「時波之祠」",
+      "shop_price": "Ｘ"
+    },
+    {
+      "level": 8,
+      "level_code": "8a",
+      "name": "螃蟹鍋",
+      "craft_quantity": 1,
+      "weapon_type": "",
+      "materials": [
+        {
+          "name": "蔥",
+          "quantity": 20
+        },
+        {
+          "name": "醬油",
+          "quantity": 20
+        },
+        {
+          "name": "馬鈴薯",
+          "quantity": 20
+        },
+        {
+          "name": "辣椒",
+          "quantity": 20
+        },
+        {
+          "name": "螃蟹",
+          "quantity": 10
+        }
+      ],
+      "bonus": [
+        "魔力值回復約750點"
+      ],
+      "recipe_source": "",
+      "shop_price": "3750G"
+    },
+    {
+      "level": 8,
+      "level_code": "8b",
+      "name": "牛排",
+      "craft_quantity": 1,
+      "weapon_type": "",
+      "materials": [
+        {
+          "name": "鹽",
+          "quantity": 20
+        },
+        {
+          "name": "胡椒",
+          "quantity": 10
+        },
+        {
+          "name": "馬鈴薯",
+          "quantity": 10
+        },
+        {
+          "name": "高級奶油",
+          "quantity": 20
+        },
+        {
+          "name": "霜降牛肉",
+          "quantity": 20
+        }
+      ],
+      "bonus": [
+        "魔力值回復約800點"
+      ],
+      "recipe_source": "",
+      "shop_price": "4000G"
+    },
+    {
+      "level": 8,
+      "level_code": "8c",
+      "name": "魅惑的哈密瓜麵包",
+      "craft_quantity": 1,
+      "weapon_type": "",
+      "materials": [
+        {
+          "name": "小麥粉",
+          "quantity": 80
+        },
+        {
+          "name": "牛奶",
+          "quantity": 80
+        },
+        {
+          "name": "砂糖",
+          "quantity": 80
+        },
+        {
+          "name": "魔法紅蘿蔔",
+          "quantity": 40
+        },
+        {
+          "name": "阿巴尼斯哈密瓜",
+          "quantity": 12
+        }
+      ],
+      "bonus": [
+        "耐久400，提高遇敵率400步"
+      ],
+      "recipe_source": "參照任務「生產系升階III」",
+      "shop_price": "1200G"
+    },
+    {
+      "level": 8,
+      "level_code": "8d",
+      "name": "寵物漢堡",
+      "craft_quantity": 1,
+      "weapon_type": "",
+      "materials": [
+        {
+          "name": "小麥粉",
+          "quantity": 20
+        },
+        {
+          "name": "鹽",
+          "quantity": 20
+        },
+        {
+          "name": "胡椒",
+          "quantity": 20
+        },
+        {
+          "name": "牛肉",
+          "quantity": 20
+        },
+        {
+          "name": "辣椒",
+          "quantity": 20
+        }
+      ],
+      "bonus": [
+        "可回復",
+        "寵物",
+        "1400",
+        "點魔法力"
+      ],
+      "recipe_source": "參照任務「寵物料理配方學習」",
+      "shop_price": ""
+    },
+    {
+      "level": 9,
+      "level_code": "9a",
+      "name": "醋飯壽司",
+      "craft_quantity": 1,
+      "weapon_type": "",
+      "materials": [
+        {
+          "name": "海苔",
+          "quantity": 20
+        },
+        {
+          "name": "星鰻",
+          "quantity": 20
+        },
+        {
+          "name": "米",
+          "quantity": 20
+        },
+        {
+          "name": "螃蟹",
+          "quantity": 20
+        },
+        {
+          "name": "伊勢蝦",
+          "quantity": 10
+        }
+      ],
+      "bonus": [
+        "魔力值回復約850點"
+      ],
+      "recipe_source": "",
+      "shop_price": "4250G"
+    },
+    {
+      "level": 9,
+      "level_code": "9b",
+      "name": "豪華壽司組",
+      "craft_quantity": 1,
+      "weapon_type": "",
+      "materials": [
+        {
+          "name": "雞蛋",
+          "quantity": 20
+        },
+        {
+          "name": "醬油",
+          "quantity": 20
+        },
+        {
+          "name": "海苔",
+          "quantity": 20
+        },
+        {
+          "name": "伊勢蝦",
+          "quantity": 15
+        },
+        {
+          "name": "海膽",
+          "quantity": 15
+        }
+      ],
+      "bonus": [
+        "魔力值回復約900點"
+      ],
+      "recipe_source": "",
+      "shop_price": "4500G"
+    },
+    {
+      "level": 10,
+      "level_code": "10a",
+      "name": "魚翅湯",
+      "craft_quantity": 1,
+      "weapon_type": "",
+      "materials": [
+        {
+          "name": "雞蛋",
+          "quantity": 20
+        },
+        {
+          "name": "蔥",
+          "quantity": 20
+        },
+        {
+          "name": "鹽",
+          "quantity": 20
+        },
+        {
+          "name": "胡椒",
+          "quantity": 20
+        },
+        {
+          "name": "魚翅",
+          "quantity": 20
+        }
+      ],
+      "bonus": [
+        "魔力值回復約1000點"
+      ],
+      "recipe_source": "",
+      "shop_price": "5000G"
+    },
+    {
+      "level": 10,
+      "level_code": "10b",
+      "name": "鱉 料理",
+      "craft_quantity": 1,
+      "weapon_type": "",
+      "materials": [
+        {
+          "name": "辣椒",
+          "quantity": 20
+        },
+        {
+          "name": "螃蟹",
+          "quantity": 20
+        },
+        {
+          "name": "伊勢蝦",
+          "quantity": 10
+        },
+        {
+          "name": "海膽",
+          "quantity": 10
+        },
+        {
+          "name": "鱉",
+          "quantity": 20
+        }
+      ],
+      "bonus": [
+        "魔力值回復約1200點"
+      ],
+      "recipe_source": "",
+      "shop_price": "6000G"
+    },
+    {
+      "level": 11,
+      "level_code": "11a",
+      "name": "韓式海鮮鍋",
+      "craft_quantity": 1,
+      "weapon_type": "",
+      "materials": [
+        {
+          "name": "竹莢魚",
+          "quantity": 20
+        },
+        {
+          "name": "螃蟹",
+          "quantity": 20
+        },
+        {
+          "name": "伊勢蝦",
+          "quantity": 40
+        },
+        {
+          "name": "鱉",
+          "quantity": 20
+        },
+        {
+          "name": "泡菜",
+          "quantity": 3
+        }
+      ],
+      "bonus": [
+        "魔力值回復約1400點"
+      ],
+      "recipe_source": "",
+      "shop_price": "7000G"
+    },
+    {
+      "level": 11,
+      "level_code": "11b",
+      "name": "紙包雞",
+      "craft_quantity": 1,
+      "weapon_type": "",
+      "materials": [
+        {
+          "name": "鹽",
+          "quantity": 20
+        },
+        {
+          "name": "雞肉",
+          "quantity": 20
+        },
+        {
+          "name": "胡椒",
+          "quantity": 20
+        },
+        {
+          "name": "茴香",
+          "quantity": 20
+        },
+        {
+          "name": "皮紙",
+          "quantity": 20
+        }
+      ],
+      "bonus": [
+        "魔力值回復約600點",
+        "飽食時間為0，未飽食的狀況下可以連續食用"
+      ],
+      "recipe_source": "參照任務「惡夢鼠的煩惱」",
+      "shop_price": "6000G"
+    },
+    {
+      "level": 11,
+      "level_code": "11c",
+      "name": "叉燒飯",
+      "craft_quantity": 1,
+      "weapon_type": "",
+      "materials": [
+        {
+          "name": "雞蛋",
+          "quantity": 20
+        },
+        {
+          "name": "白菜",
+          "quantity": 20
+        },
+        {
+          "name": "豬肉",
+          "quantity": 20
+        },
+        {
+          "name": "米",
+          "quantity": 20
+        },
+        {
+          "name": "洋蔥",
+          "quantity": 20
+        }
+      ],
+      "bonus": [
+        "魔力值回復約1400點"
+      ],
+      "recipe_source": "參照任務「惡夢鼠的煩惱」",
+      "shop_price": "7000G"
+    },
+    {
+      "level": 11,
+      "level_code": "11d",
+      "name": "寵物餡餅",
+      "craft_quantity": 1,
+      "weapon_type": "",
+      "materials": [
+        {
+          "name": "魚翅",
+          "quantity": 20
+        },
+        {
+          "name": "胡椒",
+          "quantity": 20
+        },
+        {
+          "name": "醬油",
+          "quantity": 20
+        },
+        {
+          "name": "鹽",
+          "quantity": 20
+        },
+        {
+          "name": "蔥",
+          "quantity": 20
+        }
+      ],
+      "bonus": [
+        "可回復",
+        "寵物",
+        "2000",
+        "點魔法力"
+      ],
+      "recipe_source": "參照任務「寵物料理配方學習」",
+      "shop_price": ""
+    }
+  ]
+}

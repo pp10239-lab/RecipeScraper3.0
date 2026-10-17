@@ -1,0 +1,333 @@
+{
+  "source_url": "https://gamerch.com/blue-cg/453591",
+  "page_title": "寵物輕裝製作",
+  "wiki": "水藍魔力攻略wiki",
+  "updated_at": "2025/09/01 22:48",
+  "author": "ゲストユーザー",
+  "last_editor": "Mizuei",
+  "category": "製作配方",
+  "note": "",
+  "recipes": [
+    {
+      "level": 1,
+      "level_code": "1a",
+      "name": "小紅領巾",
+      "craft_quantity": 1,
+      "weapon_type": "",
+      "materials": [
+        {
+          "name": "鹿皮",
+          "quantity": 20
+        },
+        {
+          "name": "亞麻布",
+          "quantity": 10
+        }
+      ],
+      "bonus": [
+        "防禦+7~12",
+        "閃躲+0~1"
+      ],
+      "recipe_source": "",
+      "shop_price": "220G"
+    },
+    {
+      "level": 2,
+      "level_code": "2a",
+      "name": "虎斑領巾",
+      "craft_quantity": 1,
+      "weapon_type": "",
+      "materials": [
+        {
+          "name": "鹿皮",
+          "quantity": 20
+        },
+        {
+          "name": "亞麻布",
+          "quantity": 10
+        },
+        {
+          "name": "薄棉布",
+          "quantity": 2
+        }
+      ],
+      "bonus": [
+        "防禦+10~24",
+        "閃躲+0~1"
+      ],
+      "recipe_source": "",
+      "shop_price": "400G"
+    },
+    {
+      "level": 3,
+      "level_code": "3a",
+      "name": "叢林領巾",
+      "craft_quantity": 1,
+      "weapon_type": "",
+      "materials": [
+        {
+          "name": "鹿皮",
+          "quantity": 20
+        },
+        {
+          "name": "亞麻布",
+          "quantity": 10
+        },
+        {
+          "name": "薄棉布",
+          "quantity": 5
+        },
+        {
+          "name": "銀條",
+          "quantity": 3
+        }
+      ],
+      "bonus": [
+        "防禦+20 ~ 34",
+        "閃躲+1"
+      ],
+      "recipe_source": "",
+      "shop_price": "550G"
+    },
+    {
+      "level": 4,
+      "level_code": "4a",
+      "name": "水手領巾",
+      "craft_quantity": 1,
+      "weapon_type": "",
+      "materials": [
+        {
+          "name": "鹿皮",
+          "quantity": 20
+        },
+        {
+          "name": "亞麻布",
+          "quantity": 10
+        },
+        {
+          "name": "羊毛線",
+          "quantity": 5
+        },
+        {
+          "name": "棉線",
+          "quantity": 5
+        },
+        {
+          "name": "銀條",
+          "quantity": 5
+        }
+      ],
+      "bonus": [
+        "防禦+30~43",
+        "閃躲+1"
+      ],
+      "recipe_source": "",
+      "shop_price": "900G"
+    },
+    {
+      "level": 5,
+      "level_code": "5a",
+      "name": "貴婦領巾",
+      "craft_quantity": 1,
+      "weapon_type": "",
+      "materials": [
+        {
+          "name": "鹿皮",
+          "quantity": 20
+        },
+        {
+          "name": "棉線",
+          "quantity": 10
+        },
+        {
+          "name": "紗線",
+          "quantity": 10
+        },
+        {
+          "name": "絲線",
+          "quantity": 5
+        },
+        {
+          "name": "銅條",
+          "quantity": 5
+        }
+      ],
+      "bonus": [
+        "防禦+40~53",
+        "閃躲+1~2"
+      ],
+      "recipe_source": "",
+      "shop_price": "1200G"
+    },
+    {
+      "level": 6,
+      "level_code": "6a",
+      "name": "熱血圍巾",
+      "craft_quantity": 1,
+      "weapon_type": "",
+      "materials": [
+        {
+          "name": "鹿皮",
+          "quantity": 20
+        },
+        {
+          "name": "棉線",
+          "quantity": 10
+        },
+        {
+          "name": "赤松",
+          "quantity": 8
+        },
+        {
+          "name": "鐵條",
+          "quantity": 8
+        },
+        {
+          "name": "銀條",
+          "quantity": 8
+        }
+      ],
+      "bonus": [
+        "防禦+70~88 閃躲+1~2"
+      ],
+      "recipe_source": "",
+      "shop_price": "1700G*"
+    },
+    {
+      "level": 7,
+      "level_code": "7a",
+      "name": "沉著圍巾",
+      "craft_quantity": 1,
+      "weapon_type": "",
+      "materials": [
+        {
+          "name": "絲線",
+          "quantity": 10
+        },
+        {
+          "name": "莎蓮娜毛線",
+          "quantity": 5
+        },
+        {
+          "name": "赤松",
+          "quantity": 10
+        },
+        {
+          "name": "銀條",
+          "quantity": 10
+        },
+        {
+          "name": "妖草 的血",
+          "quantity": 1
+        }
+      ],
+      "bonus": [
+        "防禦+99~125 閃躲+1~2",
+        "抗遺忘+3~5*1"
+      ],
+      "recipe_source": "",
+      "shop_price": "1800G*"
+    },
+    {
+      "level": 8,
+      "level_code": "8a",
+      "name": "時尚圍巾",
+      "craft_quantity": 1,
+      "weapon_type": "",
+      "materials": [
+        {
+          "name": "絲線",
+          "quantity": 10
+        },
+        {
+          "name": "阿巴尼斯棉線",
+          "quantity": 10
+        },
+        {
+          "name": "杉",
+          "quantity": 10
+        },
+        {
+          "name": "白金條",
+          "quantity": 10
+        }
+      ],
+      "bonus": [
+        "防禦+ 閃躲+",
+        "抗石化+"
+      ],
+      "recipe_source": "",
+      "shop_price": "1900G*"
+    },
+    {
+      "level": 9,
+      "level_code": "9a",
+      "name": "探險圍巾",
+      "craft_quantity": 1,
+      "weapon_type": "",
+      "materials": [
+        {
+          "name": "棉線",
+          "quantity": 10
+        },
+        {
+          "name": "紗線",
+          "quantity": 10
+        },
+        {
+          "name": "絲線",
+          "quantity": 10
+        },
+        {
+          "name": "芎麻布",
+          "quantity": 10
+        },
+        {
+          "name": "絲柏",
+          "quantity": 5
+        }
+      ],
+      "bonus": [
+        "防禦+ 閃躲+",
+        "必殺+"
+      ],
+      "recipe_source": "",
+      "shop_price": "4300G*"
+    },
+    {
+      "level": 10,
+      "level_code": "10a",
+      "name": "清新圍巾",
+      "craft_quantity": 1,
+      "weapon_type": "",
+      "materials": [
+        {
+          "name": "絲線",
+          "quantity": 10
+        },
+        {
+          "name": "傑諾瓦毛線",
+          "quantity": 10
+        },
+        {
+          "name": "開米士棉線",
+          "quantity": 10
+        },
+        {
+          "name": "赤松",
+          "quantity": 10
+        },
+        {
+          "name": "奧利哈鋼條",
+          "quantity": 5
+        }
+      ],
+      "bonus": [
+        "防禦+ 閃躲+",
+        "命中+"
+      ],
+      "recipe_source": "",
+      "shop_price": "6200G*"
+    }
+  ]
+}

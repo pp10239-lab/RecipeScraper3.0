@@ -1,0 +1,338 @@
+{
+  "source_url": "https://gamerch.com/blue-cg/453589",
+  "page_title": "寵物重裝製作",
+  "wiki": "水藍魔力攻略wiki",
+  "updated_at": "2025/09/01 22:48",
+  "author": "ゲストユーザー",
+  "last_editor": "Mizuei",
+  "category": "製作配方",
+  "note": "",
+  "recipes": [
+    {
+      "level": 1,
+      "level_code": "1a",
+      "name": "鐵護肩",
+      "craft_quantity": 1,
+      "weapon_type": "",
+      "materials": [
+        {
+          "name": "銅條",
+          "quantity": 5
+        },
+        {
+          "name": "亞麻布",
+          "quantity": 10
+        },
+        {
+          "name": "鹿皮",
+          "quantity": 20
+        }
+      ],
+      "bonus": [
+        "防禦+14~20 魔力+16~30",
+        "閃躲-0~-1"
+      ],
+      "recipe_source": "",
+      "shop_price": "220G"
+    },
+    {
+      "level": 2,
+      "level_code": "2a",
+      "name": "青銅護肩",
+      "craft_quantity": 1,
+      "weapon_type": "",
+      "materials": [
+        {
+          "name": "銅條",
+          "quantity": 5
+        },
+        {
+          "name": "亞麻布",
+          "quantity": 10
+        },
+        {
+          "name": "印度輕木",
+          "quantity": 10
+        },
+        {
+          "name": "鹿皮",
+          "quantity": 20
+        }
+      ],
+      "bonus": [
+        "防禦+25~35 魔力+20~50",
+        "閃躲-0~-1"
+      ],
+      "recipe_source": "",
+      "shop_price": "400G"
+    },
+    {
+      "level": 3,
+      "level_code": "3a",
+      "name": "白銀護肩",
+      "craft_quantity": 1,
+      "weapon_type": "",
+      "materials": [
+        {
+          "name": "銅條",
+          "quantity": 5
+        },
+        {
+          "name": "薄棉布",
+          "quantity": 10
+        },
+        {
+          "name": "羊毛線",
+          "quantity": 5
+        },
+        {
+          "name": "黃月木",
+          "quantity": 10
+        }
+      ],
+      "bonus": [
+        "防禦+40~55 魔力+41~90",
+        "閃躲-0~-1"
+      ],
+      "recipe_source": "",
+      "shop_price": "550G"
+    },
+    {
+      "level": 4,
+      "level_code": "4a",
+      "name": "鐵血肩甲",
+      "craft_quantity": 1,
+      "weapon_type": "",
+      "materials": [
+        {
+          "name": "銅條",
+          "quantity": 5
+        },
+        {
+          "name": "薄棉布",
+          "quantity": 10
+        },
+        {
+          "name": "羊毛線",
+          "quantity": 10
+        },
+        {
+          "name": "黃月木",
+          "quantity": 10
+        }
+      ],
+      "bonus": [
+        "防禦+70~90 魔力+80~120",
+        "閃躲-0~-1"
+      ],
+      "recipe_source": "",
+      "shop_price": "900G"
+    },
+    {
+      "level": 5,
+      "level_code": "5a",
+      "name": "黃金肩甲",
+      "craft_quantity": 1,
+      "weapon_type": "",
+      "materials": [
+        {
+          "name": "鐵條",
+          "quantity": 5
+        },
+        {
+          "name": "銀條",
+          "quantity": 5
+        },
+        {
+          "name": "棉線",
+          "quantity": 10
+        },
+        {
+          "name": "紗線",
+          "quantity": 20
+        },
+        {
+          "name": "鐵杉",
+          "quantity": 5
+        }
+      ],
+      "bonus": [
+        "防禦+90~110 魔力+100~150",
+        "閃躲-1"
+      ],
+      "recipe_source": "",
+      "shop_price": "1200G"
+    },
+    {
+      "level": 6,
+      "level_code": "6a",
+      "name": "赤龍手甲",
+      "craft_quantity": 1,
+      "weapon_type": "",
+      "materials": [
+        {
+          "name": "純銀條",
+          "quantity": 5
+        },
+        {
+          "name": "棉線",
+          "quantity": 10
+        },
+        {
+          "name": "紗線",
+          "quantity": 20
+        },
+        {
+          "name": "黃月木",
+          "quantity": 5
+        },
+        {
+          "name": "鐵杉",
+          "quantity": 5
+        }
+      ],
+      "bonus": [
+        "防禦+100~120 魔力+140~180",
+        "閃躲-1"
+      ],
+      "recipe_source": "",
+      "shop_price": "1700G*"
+    },
+    {
+      "level": 7,
+      "level_code": "7a",
+      "name": "黃銅手甲",
+      "craft_quantity": 1,
+      "weapon_type": "",
+      "materials": [
+        {
+          "name": "幻之鋼條",
+          "quantity": 5
+        },
+        {
+          "name": "幻之銀條",
+          "quantity": 10
+        },
+        {
+          "name": "絲線",
+          "quantity": 10
+        },
+        {
+          "name": "赤松",
+          "quantity": 10
+        },
+        {
+          "name": "水的水晶碎片",
+          "quantity": 1
+        }
+      ],
+      "bonus": [
+        "防禦+148~171 魔力+194~239",
+        "反擊+1~2*1"
+      ],
+      "recipe_source": "",
+      "shop_price": "1800G*"
+    },
+    {
+      "level": 8,
+      "level_code": "8a",
+      "name": "青龍手甲",
+      "craft_quantity": 1,
+      "weapon_type": "",
+      "materials": [
+        {
+          "name": "幻之銀條",
+          "quantity": 10
+        },
+        {
+          "name": "棉線",
+          "quantity": 10
+        },
+        {
+          "name": "紗線",
+          "quantity": 20
+        },
+        {
+          "name": "莎蓮娜毛線",
+          "quantity": 10
+        },
+        {
+          "name": "火的水晶碎片",
+          "quantity": 1
+        }
+      ],
+      "bonus": [
+        "防禦+ 魔力+",
+        "閃躲- 抗昏睡+"
+      ],
+      "recipe_source": "",
+      "shop_price": "1900G*"
+    },
+    {
+      "level": 9,
+      "level_code": "9a",
+      "name": "翡翠手甲",
+      "craft_quantity": 1,
+      "weapon_type": "",
+      "materials": [
+        {
+          "name": "勒格耐席鉧條",
+          "quantity": 15
+        },
+        {
+          "name": "傑諾瓦毛線",
+          "quantity": 20
+        },
+        {
+          "name": "芎麻布",
+          "quantity": 10
+        },
+        {
+          "name": "朴",
+          "quantity": 5
+        },
+        {
+          "name": "風龍蜥 的甲殼",
+          "quantity": 1
+        }
+      ],
+      "bonus": [
+        "防禦+ 魔力+",
+        "閃躲- 抗石化+"
+      ],
+      "recipe_source": "",
+      "shop_price": "4300G*"
+    },
+    {
+      "level": 10,
+      "level_code": "10a",
+      "name": "幻龍手甲",
+      "craft_quantity": 1,
+      "weapon_type": "",
+      "materials": [
+        {
+          "name": "勒格耐席鉧條",
+          "quantity": 10
+        },
+        {
+          "name": "芎麻布",
+          "quantity": 10
+        },
+        {
+          "name": "開米士棉線",
+          "quantity": 10
+        },
+        {
+          "name": "蔓陀羅草 的皮",
+          "quantity": 5
+        }
+      ],
+      "bonus": [
+        "防禦+ 魔力+",
+        "必殺+ 閃躲-"
+      ],
+      "recipe_source": "",
+      "shop_price": "6200G*"
+    }
+  ]
+}

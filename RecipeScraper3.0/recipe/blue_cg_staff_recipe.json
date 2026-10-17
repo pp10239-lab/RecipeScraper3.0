@@ -1,0 +1,829 @@
+{
+  "source_url": "https://gamerch.com/blue-cg/453306",
+  "page_title": "杖類製作",
+  "wiki": "水藍魔力攻略wiki",
+  "updated_at": "2025/09/01 22:48",
+  "author": "ゲストユーザー",
+  "last_editor": "Mizuei",
+  "category": "製作配方",
+  "note": "1.閃命等修正值附加浮動值 -2~+2（如正服固定為10則水藍為8~12） 2.王者之手魔攻範圍調整為 324~354",
+  "recipes": [
+    {
+      "level": 1,
+      "level_code": "1a",
+      "name": "短杖",
+      "craft_quantity": 1,
+      "weapon_type": "未列出",
+      "materials": [
+        {
+          "name": "銅條",
+          "quantity": 4
+        },
+        {
+          "name": "印度輕木",
+          "quantity": 20
+        }
+      ],
+      "bonus": [
+        "攻擊+5",
+        "精神+4~+5",
+        "魔攻+11~+14"
+      ],
+      "recipe_source": "",
+      "shop_price": "220G"
+    },
+    {
+      "level": 1,
+      "level_code": "1b",
+      "name": "權杖",
+      "craft_quantity": 1,
+      "weapon_type": "未列出",
+      "materials": [
+        {
+          "name": "銅條",
+          "quantity": 6
+        },
+        {
+          "name": "鐵條",
+          "quantity": 2
+        },
+        {
+          "name": "印度輕木",
+          "quantity": 20
+        }
+      ],
+      "bonus": [
+        "攻擊+5~+10",
+        "精神+5",
+        "魔攻+11~+12"
+      ],
+      "recipe_source": "",
+      "shop_price": "350G"
+    },
+    {
+      "level": 2,
+      "level_code": "2a",
+      "name": "大地之杖",
+      "craft_quantity": 1,
+      "weapon_type": "未列出",
+      "materials": [
+        {
+          "name": "鐵條",
+          "quantity": 10
+        },
+        {
+          "name": "印度輕木",
+          "quantity": 20
+        },
+        {
+          "name": "樅",
+          "quantity": 20
+        }
+      ],
+      "bonus": [
+        "攻擊+5",
+        "精神+8~+10",
+        "魔攻+42~+48"
+      ],
+      "recipe_source": "",
+      "shop_price": "450G"
+    },
+    {
+      "level": 2,
+      "level_code": "2b",
+      "name": "激流權杖",
+      "craft_quantity": 1,
+      "weapon_type": "未列出",
+      "materials": [
+        {
+          "name": "鐵條",
+          "quantity": 12
+        },
+        {
+          "name": "印度輕木",
+          "quantity": 20
+        },
+        {
+          "name": "樅",
+          "quantity": 20
+        },
+        {
+          "name": "黃月木",
+          "quantity": 20
+        }
+      ],
+      "bonus": [
+        "攻擊+11~+20",
+        "精神+5",
+        "魔攻+42~+45"
+      ],
+      "recipe_source": "",
+      "shop_price": "500G"
+    },
+    {
+      "level": 3,
+      "level_code": "3a",
+      "name": "魔之手杖",
+      "craft_quantity": 1,
+      "weapon_type": "未列出",
+      "materials": [
+        {
+          "name": "鐵條",
+          "quantity": 14
+        },
+        {
+          "name": "銀條",
+          "quantity": 2
+        },
+        {
+          "name": "印度輕木",
+          "quantity": 20
+        },
+        {
+          "name": "樅",
+          "quantity": 20
+        },
+        {
+          "name": "黃月木",
+          "quantity": 20
+        }
+      ],
+      "bonus": [
+        "攻擊+5",
+        "精神+10~+15",
+        "魔攻+73~+82"
+      ],
+      "recipe_source": "",
+      "shop_price": "600G"
+    },
+    {
+      "level": 3,
+      "level_code": "3b",
+      "name": "魔之權杖",
+      "craft_quantity": 1,
+      "weapon_type": "未列出",
+      "materials": [
+        {
+          "name": "鐵條",
+          "quantity": 11
+        },
+        {
+          "name": "銀條",
+          "quantity": 8
+        },
+        {
+          "name": "印度輕木",
+          "quantity": 20
+        },
+        {
+          "name": "黃月木",
+          "quantity": 20
+        },
+        {
+          "name": "鐵杉",
+          "quantity": 20
+        }
+      ],
+      "bonus": [
+        "攻擊+19~+30",
+        "精神+5",
+        "魔攻+73~+77"
+      ],
+      "recipe_source": "",
+      "shop_price": "700G"
+    },
+    {
+      "level": 4,
+      "level_code": "4a",
+      "name": "賢者手杖",
+      "craft_quantity": 1,
+      "weapon_type": "未列出",
+      "materials": [
+        {
+          "name": "銀條",
+          "quantity": 10
+        },
+        {
+          "name": "純銀條",
+          "quantity": 10
+        },
+        {
+          "name": "印度輕木",
+          "quantity": 20
+        },
+        {
+          "name": "樅",
+          "quantity": 20
+        },
+        {
+          "name": "鐵杉",
+          "quantity": 20
+        }
+      ],
+      "bonus": [
+        "攻擊+5",
+        "精神+15~+20",
+        "魔攻+104~+116"
+      ],
+      "recipe_source": "",
+      "shop_price": "800G"
+    },
+    {
+      "level": 4,
+      "level_code": "4b",
+      "name": "賢者權杖",
+      "craft_quantity": 1,
+      "weapon_type": "未列出",
+      "materials": [
+        {
+          "name": "銀條",
+          "quantity": 12
+        },
+        {
+          "name": "純銀條",
+          "quantity": 12
+        },
+        {
+          "name": "樅",
+          "quantity": 20
+        },
+        {
+          "name": "鐵杉",
+          "quantity": 20
+        },
+        {
+          "name": "琵琶木",
+          "quantity": 20
+        }
+      ],
+      "bonus": [
+        "攻擊+28~+40",
+        "精神+5",
+        "魔攻+104~+110"
+      ],
+      "recipe_source": "",
+      "shop_price": "950G"
+    },
+    {
+      "level": 5,
+      "level_code": "5a",
+      "name": "琥珀杖",
+      "craft_quantity": 1,
+      "weapon_type": "未列出",
+      "materials": [
+        {
+          "name": "金條",
+          "quantity": 16
+        },
+        {
+          "name": "樅",
+          "quantity": 20
+        },
+        {
+          "name": "黃月木",
+          "quantity": 20
+        },
+        {
+          "name": "鐵杉",
+          "quantity": 20
+        },
+        {
+          "name": "琵琶木",
+          "quantity": 20
+        }
+      ],
+      "bonus": [
+        "攻擊+5",
+        "精神+20~+25",
+        "魔攻+135~+150"
+      ],
+      "recipe_source": "",
+      "shop_price": "1100G"
+    },
+    {
+      "level": 5,
+      "level_code": "5b",
+      "name": "琥珀權杖",
+      "craft_quantity": 1,
+      "weapon_type": "未列出",
+      "materials": [
+        {
+          "name": "金條",
+          "quantity": 17
+        },
+        {
+          "name": "黃月木",
+          "quantity": 20
+        },
+        {
+          "name": "鐵杉",
+          "quantity": 20
+        },
+        {
+          "name": "琵琶木",
+          "quantity": 20
+        },
+        {
+          "name": "赤松",
+          "quantity": 20
+        }
+      ],
+      "bonus": [
+        "攻擊+37~+50",
+        "精神+5",
+        "魔攻+135~+142"
+      ],
+      "recipe_source": "",
+      "shop_price": "1200G"
+    },
+    {
+      "level": 5,
+      "level_code": "5c",
+      "name": "魔晶之杖",
+      "craft_quantity": 1,
+      "weapon_type": "未列出",
+      "materials": [
+        {
+          "name": "鋁條",
+          "quantity": 7
+        },
+        {
+          "name": "茱萸木",
+          "quantity": 20
+        },
+        {
+          "name": "鐵杉",
+          "quantity": 20
+        },
+        {
+          "name": "琵琶木",
+          "quantity": 20
+        },
+        {
+          "name": "赤松",
+          "quantity": 20
+        }
+      ],
+      "bonus": [],
+      "recipe_source": "參照任務「工匠的黑歷史」",
+      "shop_price": ""
+    },
+    {
+      "level": 6,
+      "level_code": "6a",
+      "name": "元素之杖",
+      "craft_quantity": 1,
+      "weapon_type": "未列出",
+      "materials": [
+        {
+          "name": "白金條",
+          "quantity": 16
+        },
+        {
+          "name": "黃月木",
+          "quantity": 20
+        },
+        {
+          "name": "鐵杉",
+          "quantity": 20
+        },
+        {
+          "name": "琵琶木",
+          "quantity": 20
+        },
+        {
+          "name": "赤松",
+          "quantity": 20
+        }
+      ],
+      "bonus": [
+        "攻擊+5",
+        "精神+24~+30",
+        "魔攻+166~+184"
+      ],
+      "recipe_source": "",
+      "shop_price": "1400G"
+    },
+    {
+      "level": 6,
+      "level_code": "6b",
+      "name": "神聖之杖",
+      "craft_quantity": 1,
+      "weapon_type": "未列出",
+      "materials": [
+        {
+          "name": "白金條",
+          "quantity": 17
+        },
+        {
+          "name": "鐵杉",
+          "quantity": 20
+        },
+        {
+          "name": "琵琶木",
+          "quantity": 20
+        },
+        {
+          "name": "赤松",
+          "quantity": 20
+        },
+        {
+          "name": "朴",
+          "quantity": 20
+        }
+      ],
+      "bonus": [
+        "攻擊+46~+60",
+        "精神+5",
+        "魔攻+166~+175"
+      ],
+      "recipe_source": "",
+      "shop_price": "1600G"
+    },
+    {
+      "level": 7,
+      "level_code": "7a",
+      "name": "怒音之杖",
+      "craft_quantity": 1,
+      "weapon_type": "未列出",
+      "materials": [
+        {
+          "name": "幻之鋼條",
+          "quantity": 18
+        },
+        {
+          "name": "鐵杉",
+          "quantity": 20
+        },
+        {
+          "name": "琵琶木",
+          "quantity": 20
+        },
+        {
+          "name": "赤松",
+          "quantity": 20
+        },
+        {
+          "name": "朴",
+          "quantity": 20
+        }
+      ],
+      "bonus": [
+        "攻擊+5",
+        "精神+28~+35",
+        "魔攻+197~+218"
+      ],
+      "recipe_source": "",
+      "shop_price": "1700G"
+    },
+    {
+      "level": 7,
+      "level_code": "7b",
+      "name": "隱者之杖",
+      "craft_quantity": 1,
+      "weapon_type": "未列出",
+      "materials": [
+        {
+          "name": "白金條",
+          "quantity": 12
+        },
+        {
+          "name": "幻之鋼條",
+          "quantity": 9
+        },
+        {
+          "name": "琵琶木",
+          "quantity": 20
+        },
+        {
+          "name": "赤松",
+          "quantity": 20
+        },
+        {
+          "name": "朴",
+          "quantity": 20
+        }
+      ],
+      "bonus": [
+        "攻擊+55~+70",
+        "精神+5",
+        "魔攻+197~+207"
+      ],
+      "recipe_source": "",
+      "shop_price": "1700G"
+    },
+    {
+      "level": 7,
+      "level_code": "7c",
+      "name": "水龍之杖",
+      "craft_quantity": 1,
+      "weapon_type": "未列出",
+      "materials": [
+        {
+          "name": "生鏽的杖",
+          "quantity": 1
+        },
+        {
+          "name": "鋼騎之礦",
+          "quantity": 2
+        },
+        {
+          "name": "魔族的水晶",
+          "quantity": 2
+        },
+        {
+          "name": "朴",
+          "quantity": 20
+        }
+      ],
+      "bonus": [],
+      "recipe_source": "參照任務「時波之祠」",
+      "shop_price": ""
+    },
+    {
+      "level": 8,
+      "level_code": "8a",
+      "name": "光明短杖",
+      "craft_quantity": 1,
+      "weapon_type": "未列出",
+      "materials": [
+        {
+          "name": "白金條",
+          "quantity": 10
+        },
+        {
+          "name": "幻之鋼條",
+          "quantity": 12
+        },
+        {
+          "name": "赤松",
+          "quantity": 20
+        },
+        {
+          "name": "朴",
+          "quantity": 20
+        },
+        {
+          "name": "杉",
+          "quantity": 20
+        }
+      ],
+      "bonus": [
+        "攻擊+5",
+        "精神+32~+40",
+        "魔攻+228~+252"
+      ],
+      "recipe_source": "",
+      "shop_price": "1800G"
+    },
+    {
+      "level": 8,
+      "level_code": "8b",
+      "name": "惡魔 之杖",
+      "craft_quantity": 1,
+      "weapon_type": "未列出",
+      "materials": [
+        {
+          "name": "幻之鋼條",
+          "quantity": 10
+        },
+        {
+          "name": "幻之銀條",
+          "quantity": 7
+        },
+        {
+          "name": "赤松",
+          "quantity": 20
+        },
+        {
+          "name": "朴",
+          "quantity": 20
+        },
+        {
+          "name": "杉",
+          "quantity": 20
+        }
+      ],
+      "bonus": [
+        "攻擊+64~+80",
+        "精神+5",
+        "魔攻+228~+240"
+      ],
+      "recipe_source": "",
+      "shop_price": "1800G"
+    },
+    {
+      "level": 8,
+      "level_code": "8c",
+      "name": "落雷權杖+",
+      "craft_quantity": 1,
+      "weapon_type": "未列出",
+      "materials": [
+        {
+          "name": "幻之銀條",
+          "quantity": 15
+        },
+        {
+          "name": "朴",
+          "quantity": 20
+        },
+        {
+          "name": "杉",
+          "quantity": 20
+        },
+        {
+          "name": "濕地毒蛇",
+          "quantity": 10
+        },
+        {
+          "name": "藍龍之鱗",
+          "quantity": 20
+        }
+      ],
+      "bonus": [],
+      "recipe_source": "參照任務「生產系升階III」",
+      "shop_price": ""
+    },
+    {
+      "level": 9,
+      "level_code": "9a",
+      "name": "太陽短杖",
+      "craft_quantity": 1,
+      "weapon_type": "未列出",
+      "materials": [
+        {
+          "name": "幻之銀條",
+          "quantity": 15
+        },
+        {
+          "name": "杉",
+          "quantity": 20
+        },
+        {
+          "name": "絲柏",
+          "quantity": 20
+        }
+      ],
+      "bonus": [
+        "攻擊+5",
+        "精神+36~+45",
+        "魔攻+259~+286"
+      ],
+      "recipe_source": "",
+      "shop_price": "2100G"
+    },
+    {
+      "level": 9,
+      "level_code": "9b",
+      "name": "天使之杖",
+      "craft_quantity": 1,
+      "weapon_type": "未列出",
+      "materials": [
+        {
+          "name": "幻之銀條",
+          "quantity": 15
+        },
+        {
+          "name": "杉",
+          "quantity": 20
+        },
+        {
+          "name": "絲柏",
+          "quantity": 20
+        }
+      ],
+      "bonus": [
+        "攻擊+72~+90",
+        "精神+5",
+        "魔攻+259~+272"
+      ],
+      "recipe_source": "",
+      "shop_price": "2100G"
+    },
+    {
+      "level": 10,
+      "level_code": "10a",
+      "name": "聖者之杖",
+      "craft_quantity": 1,
+      "weapon_type": "未列出",
+      "materials": [
+        {
+          "name": "奧利哈鋼條",
+          "quantity": 10
+        },
+        {
+          "name": "絲柏",
+          "quantity": 20
+        }
+      ],
+      "bonus": [
+        "攻擊+5",
+        "精神+43~+50",
+        "魔攻+290~+320"
+      ],
+      "recipe_source": "",
+      "shop_price": "4500G"
+    },
+    {
+      "level": 10,
+      "level_code": "10b",
+      "name": "星屑短杖",
+      "craft_quantity": 1,
+      "weapon_type": "未列出",
+      "materials": [
+        {
+          "name": "勒格耐席姆條",
+          "quantity": 15
+        },
+        {
+          "name": "絲柏",
+          "quantity": 20
+        },
+        {
+          "name": "梣",
+          "quantity": 20
+        }
+      ],
+      "bonus": [
+        "攻擊+85~+100",
+        "精神+5",
+        "魔攻+290~+305"
+      ],
+      "recipe_source": "",
+      "shop_price": "4100G"
+    },
+    {
+      "level": 11,
+      "level_code": "11a",
+      "name": "王者之手",
+      "craft_quantity": 1,
+      "weapon_type": "未列出",
+      "materials": [
+        {
+          "name": "達馬斯礦條",
+          "quantity": 3
+        },
+        {
+          "name": "勒格耐席姆條",
+          "quantity": 3
+        },
+        {
+          "name": "絲柏",
+          "quantity": 40
+        },
+        {
+          "name": "梣",
+          "quantity": 40
+        },
+        {
+          "name": "魔族的水晶",
+          "quantity": 1
+        }
+      ],
+      "bonus": [
+        "精神+53~+60",
+        "閃躲+8~12",
+        "魔攻+324~354"
+      ],
+      "recipe_source": "",
+      "shop_price": "5100G"
+    },
+    {
+      "level": 11,
+      "level_code": "11b",
+      "name": "星錘杖",
+      "craft_quantity": 1,
+      "weapon_type": "未列出",
+      "materials": [
+        {
+          "name": "勒格耐席姆條",
+          "quantity": 3
+        },
+        {
+          "name": "單木",
+          "quantity": 40
+        },
+        {
+          "name": "絲柏",
+          "quantity": 40
+        },
+        {
+          "name": "梣",
+          "quantity": 40
+        },
+        {
+          "name": "魔族的水晶",
+          "quantity": 1
+        }
+      ],
+      "bonus": [
+        "攻擊+130~+180",
+        "防禦+50",
+        "命中+8~12",
+        "魔攻+228~+251"
+      ],
+      "recipe_source": "",
+      "shop_price": "5300G"
+    }
+  ]
+}

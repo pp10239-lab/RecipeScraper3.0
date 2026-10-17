@@ -1,0 +1,452 @@
+{
+  "source_url": "",
+  "page_title": "配方中未收錄素材",
+  "wiki": "水藍魔力攻略wiki",
+  "updated_at": "2026/10/17 23:14",
+  "author": "",
+  "last_editor": "",
+  "category": "素材補充",
+  "note": "根據 recipe/*.json 與既有 material JSON 比對補入；price 為暫定值。來源佔位符 **** 未列入。",
+  "resources": [
+    {
+      "name": "冰旗鱗",
+      "category": "other",
+      "price": 0
+    },
+    {
+      "name": "勒格耐席鉧條",
+      "category": "other",
+      "price": 0
+    },
+    {
+      "name": "可燃物",
+      "category": "other",
+      "price": 0
+    },
+    {
+      "name": "地之玉",
+      "category": "other",
+      "price": 0
+    },
+    {
+      "name": "地的水晶碎片",
+      "category": "other",
+      "price": 0
+    },
+    {
+      "name": "塔比歐的細胞",
+      "category": "other",
+      "price": 0
+    },
+    {
+      "name": "大炸彈 的卡片",
+      "category": "other",
+      "price": 0
+    },
+    {
+      "name": "天使之淚",
+      "category": "other",
+      "price": 0
+    },
+    {
+      "name": "天地樹露水",
+      "category": "other",
+      "price": 0
+    },
+    {
+      "name": "妖草 的血",
+      "category": "other",
+      "price": 0
+    },
+    {
+      "name": "寵物鈴鐺",
+      "category": "other",
+      "price": 0
+    },
+    {
+      "name": "德特家的布",
+      "category": "other",
+      "price": 0
+    },
+    {
+      "name": "必死的劇藥",
+      "category": "other",
+      "price": 0
+    },
+    {
+      "name": "惡魔 的卡片",
+      "category": "other",
+      "price": 0
+    },
+    {
+      "name": "斑駁的化石",
+      "category": "other",
+      "price": 0
+    },
+    {
+      "name": "暗黑結晶",
+      "category": "other",
+      "price": 0
+    },
+    {
+      "name": "曼陀羅草的皮",
+      "category": "other",
+      "price": 0
+    },
+    {
+      "name": "檸檬",
+      "category": "other",
+      "price": 0
+    },
+    {
+      "name": "水的水晶碎片",
+      "category": "other",
+      "price": 0
+    },
+    {
+      "name": "水龍的鰭",
+      "category": "other",
+      "price": 0
+    },
+    {
+      "name": "法國麵包",
+      "category": "other",
+      "price": 0
+    },
+    {
+      "name": "法蘭遺跡紀念木刀",
+      "category": "other",
+      "price": 0
+    },
+    {
+      "name": "泡菜",
+      "category": "other",
+      "price": 0
+    },
+    {
+      "name": "海天使",
+      "category": "other",
+      "price": 0
+    },
+    {
+      "name": "深藍九號",
+      "category": "other",
+      "price": 0
+    },
+    {
+      "name": "渾濁的水",
+      "category": "other",
+      "price": 0
+    },
+    {
+      "name": "溼地毒蛇",
+      "category": "other",
+      "price": 0
+    },
+    {
+      "name": "火焰之魂",
+      "category": "other",
+      "price": 0
+    },
+    {
+      "name": "火的水晶碎片",
+      "category": "other",
+      "price": 0
+    },
+    {
+      "name": "炒麵",
+      "category": "other",
+      "price": 0
+    },
+    {
+      "name": "燒瓶",
+      "category": "other",
+      "price": 0
+    },
+    {
+      "name": "瓶子",
+      "category": "other",
+      "price": 0
+    },
+    {
+      "name": "生化試管",
+      "category": "other",
+      "price": 0
+    },
+    {
+      "name": "生命的種子",
+      "category": "other",
+      "price": 0
+    },
+    {
+      "name": "生鏽的 投擲 武器",
+      "category": "other",
+      "price": 0
+    },
+    {
+      "name": "生鏽的劍",
+      "category": "other",
+      "price": 0
+    },
+    {
+      "name": "生鏽的弓",
+      "category": "other",
+      "price": 0
+    },
+    {
+      "name": "生鏽的斧",
+      "category": "other",
+      "price": 0
+    },
+    {
+      "name": "生鏽的杖",
+      "category": "other",
+      "price": 0
+    },
+    {
+      "name": "生鏽的槍",
+      "category": "other",
+      "price": 0
+    },
+    {
+      "name": "生鏽的盾",
+      "category": "other",
+      "price": 0
+    },
+    {
+      "name": "生鏽的短劍",
+      "category": "other",
+      "price": 0
+    },
+    {
+      "name": "生鏽的鎧",
+      "category": "other",
+      "price": 0
+    },
+    {
+      "name": "生鏽的頭盔",
+      "category": "other",
+      "price": 0
+    },
+    {
+      "name": "白飯",
+      "category": "other",
+      "price": 0
+    },
+    {
+      "name": "破損的鞋",
+      "category": "other",
+      "price": 0
+    },
+    {
+      "name": "破爛的帽子",
+      "category": "other",
+      "price": 0
+    },
+    {
+      "name": "破爛的衣服",
+      "category": "other",
+      "price": 0
+    },
+    {
+      "name": "破爛的袍",
+      "category": "other",
+      "price": 0
+    },
+    {
+      "name": "破爛的靴子",
+      "category": "other",
+      "price": 0
+    },
+    {
+      "name": "神眼",
+      "category": "other",
+      "price": 0
+    },
+    {
+      "name": "神聖油",
+      "category": "other",
+      "price": 0
+    },
+    {
+      "name": "神聖美乃滋",
+      "category": "other",
+      "price": 0
+    },
+    {
+      "name": "神聖調味醬",
+      "category": "other",
+      "price": 0
+    },
+    {
+      "name": "神聖醋",
+      "category": "other",
+      "price": 0
+    },
+    {
+      "name": "竹莢魚",
+      "category": "other",
+      "price": 0
+    },
+    {
+      "name": "紅色花粉",
+      "category": "other",
+      "price": 0
+    },
+    {
+      "name": "紅鳳凰的羽毛",
+      "category": "other",
+      "price": 0
+    },
+    {
+      "name": "純銀",
+      "category": "other",
+      "price": 0
+    },
+    {
+      "name": "紙人娃娃",
+      "category": "other",
+      "price": 0
+    },
+    {
+      "name": "綠頭盔",
+      "category": "other",
+      "price": 0
+    },
+    {
+      "name": "茄子",
+      "category": "other",
+      "price": 0
+    },
+    {
+      "name": "草莓",
+      "category": "other",
+      "price": 0
+    },
+    {
+      "name": "草菇",
+      "category": "other",
+      "price": 0
+    },
+    {
+      "name": "葡萄",
+      "category": "other",
+      "price": 0
+    },
+    {
+      "name": "蔓陀羅草 的皮",
+      "category": "other",
+      "price": 0
+    },
+    {
+      "name": "蕃茄醬",
+      "category": "other",
+      "price": 0
+    },
+    {
+      "name": "藍色種子",
+      "category": "other",
+      "price": 0
+    },
+    {
+      "name": "藍色血液",
+      "category": "other",
+      "price": 0
+    },
+    {
+      "name": "藍鳳凰的羽毛",
+      "category": "other",
+      "price": 0
+    },
+    {
+      "name": "藥缽",
+      "category": "other",
+      "price": 0
+    },
+    {
+      "name": "蜂王乳",
+      "category": "other",
+      "price": 0
+    },
+    {
+      "name": "蠶絲",
+      "category": "other",
+      "price": 0
+    },
+    {
+      "name": "誓言之證",
+      "category": "other",
+      "price": 0
+    },
+    {
+      "name": "車尼子",
+      "category": "other",
+      "price": 0
+    },
+    {
+      "name": "迷你蝙蝠 的血",
+      "category": "other",
+      "price": 0
+    },
+    {
+      "name": "金屬粉末",
+      "category": "other",
+      "price": 0
+    },
+    {
+      "name": "阿薩母",
+      "category": "other",
+      "price": 0
+    },
+    {
+      "name": "隕石",
+      "category": "other",
+      "price": 0
+    },
+    {
+      "name": "風的水晶碎片",
+      "category": "other",
+      "price": 0
+    },
+    {
+      "name": "風龍蜥 的甲殼",
+      "category": "other",
+      "price": 0
+    },
+    {
+      "name": "飯碗",
+      "category": "other",
+      "price": 0
+    },
+    {
+      "name": "香橙",
+      "category": "other",
+      "price": 0
+    },
+    {
+      "name": "魔力手環",
+      "category": "other",
+      "price": 0
+    },
+    {
+      "name": "魔族的水晶",
+      "category": "other",
+      "price": 0
+    },
+    {
+      "name": "麻",
+      "category": "other",
+      "price": 0
+    },
+    {
+      "name": "黑色小蟲",
+      "category": "other",
+      "price": 0
+    },
+    {
+      "name": "龍皮",
+      "category": "other",
+      "price": 0
+    }
+  ]
+}

@@ -1,0 +1,498 @@
+{
+  "source_url": "https://gamerch.com/blue-cg/452906",
+  "page_title": "剪取情報",
+  "wiki": "水藍魔力攻略wiki",
+  "updated_at": "2025/09/01 22:48",
+  "author": "ゲストユーザー",
+  "last_editor": "Mizuei",
+  "category": "採集情報",
+  "note": "1.新增新布料與相關交換NPC 2.一鍵織布NPC",
+  "collection_info": [
+    {
+      "label": "技能學習地點",
+      "value": "法蘭城 織布工坊(116,119) 黛西(10,4)"
+    }
+  ],
+  "resources": [
+    {
+      "level": 1,
+      "name": "麻布",
+      "source_material": "麻",
+      "category": "原料",
+      "locations": "芙蕾雅 法蘭城 東門外(570,160)附近 芙蕾雅山男的家附近(527.161)",
+      "recommended_locations": "芙蕾雅 法蘭城 東門外(570,160)附近 芙蕾雅山男的家附近(527.161)",
+      "prices": [
+        {
+          "quantity": 20,
+          "unit": "個",
+          "price": "28G"
+        }
+      ],
+      "stack_size": "",
+      "stackability": "",
+      "uses": "",
+      "processing_outputs": [],
+      "details": []
+    },
+    {
+      "level": 1,
+      "name": "亞麻布",
+      "source_material": "麻",
+      "category": "原料",
+      "locations": "芙蕾雅 法蘭城 東門外(570,160)附近 芙蕾雅山男的家附近(527.161)",
+      "recommended_locations": "芙蕾雅 法蘭城 東門外(570,160)附近 芙蕾雅山男的家附近(527.161)",
+      "prices": [
+        {
+          "quantity": 20,
+          "unit": "個",
+          "price": "28G"
+        }
+      ],
+      "stack_size": "",
+      "stackability": "",
+      "uses": "",
+      "processing_outputs": [],
+      "details": []
+    },
+    {
+      "level": 2,
+      "name": "木棉布",
+      "source_material": "木棉",
+      "category": "原料",
+      "locations": "芙蕾雅 法蘭城 西門外(347,145)",
+      "recommended_locations": "芙蕾雅 法蘭城 西門外(347,145)",
+      "prices": [
+        {
+          "quantity": 20,
+          "unit": "個",
+          "price": "36G"
+        }
+      ],
+      "stack_size": "",
+      "stackability": "",
+      "uses": "",
+      "processing_outputs": [],
+      "details": []
+    },
+    {
+      "level": 2,
+      "name": "薄棉布",
+      "source_material": "木棉",
+      "category": "原料",
+      "locations": "芙蕾雅 法蘭城 西門外(347,145)",
+      "recommended_locations": "芙蕾雅 法蘭城 西門外(347,145)",
+      "prices": [
+        {
+          "quantity": 20,
+          "unit": "個",
+          "price": "36G"
+        }
+      ],
+      "stack_size": "",
+      "stackability": "",
+      "uses": "",
+      "processing_outputs": [],
+      "details": []
+    },
+    {
+      "level": 3,
+      "name": "毛氈",
+      "source_material": "羊毛",
+      "category": "原料",
+      "locations": "芙蕾雅 亞留特村 域(596.83)( 亞留特村 東門口) 德威特島 (147.348) 織之島(34,34)",
+      "recommended_locations": "芙蕾雅 亞留特村 域(596.83) 織之島(34,34)",
+      "prices": [
+        {
+          "quantity": 20,
+          "unit": "個",
+          "price": "41G"
+        }
+      ],
+      "stack_size": "",
+      "stackability": "",
+      "uses": "",
+      "processing_outputs": [],
+      "details": []
+    },
+    {
+      "level": 3,
+      "name": "羊毛線",
+      "source_material": "羊毛",
+      "category": "原料",
+      "locations": "芙蕾雅 亞留特村 域(596.83)( 亞留特村 東門口) 德威特島 (147.348) 織之島(34,34)",
+      "recommended_locations": "芙蕾雅 亞留特村 域(596.83) 織之島(34,34)",
+      "prices": [
+        {
+          "quantity": 20,
+          "unit": "個",
+          "price": "41G"
+        }
+      ],
+      "stack_size": "",
+      "stackability": "",
+      "uses": "",
+      "processing_outputs": [],
+      "details": []
+    },
+    {
+      "level": 4,
+      "name": "棉布",
+      "source_material": "棉花",
+      "category": "原料",
+      "locations": "芙蕾雅 法蘭城 域 維諾亞村 外東南方(358.520) 尼維爾海村 上方沙灘(614.418) 織之島(33,56)",
+      "recommended_locations": "芙蕾雅 法蘭城 域 維諾亞村 外東南方(358.520) 織之島(33,56)",
+      "prices": [
+        {
+          "quantity": 20,
+          "unit": "個",
+          "price": "48G"
+        }
+      ],
+      "stack_size": "",
+      "stackability": "",
+      "uses": "",
+      "processing_outputs": [],
+      "details": []
+    },
+    {
+      "level": 4,
+      "name": "棉線",
+      "source_material": "棉花",
+      "category": "原料",
+      "locations": "芙蕾雅 法蘭城 域 維諾亞村 外東南方(358.520) 尼維爾海村 上方沙灘(614.418) 織之島(33,56)",
+      "recommended_locations": "芙蕾雅 法蘭城 域 維諾亞村 外東南方(358.520) 織之島(33,56)",
+      "prices": [
+        {
+          "quantity": 20,
+          "unit": "個",
+          "price": "48G"
+        }
+      ],
+      "stack_size": "",
+      "stackability": "",
+      "uses": "",
+      "processing_outputs": [],
+      "details": []
+    },
+    {
+      "level": 5,
+      "name": "細線",
+      "source_material": "紗",
+      "category": "原料",
+      "locations": "芙蕾雅 亞留特村 域北門口外(588,50) 摩頓村 門口(289,575) 織之島(41,77)",
+      "recommended_locations": "摩頓村 門口(289,575) 織之島(41,77)",
+      "prices": [
+        {
+          "quantity": 20,
+          "unit": "個",
+          "price": "58G"
+        }
+      ],
+      "stack_size": "",
+      "stackability": "",
+      "uses": "",
+      "processing_outputs": [],
+      "details": []
+    },
+    {
+      "level": 5,
+      "name": "紗線",
+      "source_material": "紗",
+      "category": "原料",
+      "locations": "芙蕾雅 亞留特村 域北門口外(588,50) 摩頓村 門口(289,575) 織之島(41,77)",
+      "recommended_locations": "摩頓村 門口(289,575) 織之島(41,77)",
+      "prices": [
+        {
+          "quantity": 20,
+          "unit": "個",
+          "price": "58G"
+        }
+      ],
+      "stack_size": "",
+      "stackability": "",
+      "uses": "",
+      "processing_outputs": [],
+      "details": []
+    },
+    {
+      "level": 6,
+      "name": "絹布",
+      "source_material": "蠶絲",
+      "category": "原料",
+      "locations": "索奇亞 加納村 南門口外 (700.150) * 任意鑰匙 傳送點 德威特島 (297~304,231~250) 織之島(50,25)",
+      "recommended_locations": "索奇亞 加納村 南門口外 (700.150) 織之島(50,25)",
+      "prices": [
+        {
+          "quantity": 20,
+          "unit": "個",
+          "price": "73G"
+        }
+      ],
+      "stack_size": "",
+      "stackability": "",
+      "uses": "",
+      "processing_outputs": [],
+      "details": []
+    },
+    {
+      "level": 6,
+      "name": "絲線",
+      "source_material": "蠶絲",
+      "category": "原料",
+      "locations": "索奇亞 加納村 南門口外 (700.150) * 任意鑰匙 傳送點 德威特島 (297~304,231~250) 織之島(50,25)",
+      "recommended_locations": "索奇亞 加納村 南門口外 (700.150) 織之島(50,25)",
+      "prices": [
+        {
+          "quantity": 20,
+          "unit": "個",
+          "price": "73G"
+        }
+      ],
+      "stack_size": "",
+      "stackability": "",
+      "uses": "",
+      "processing_outputs": [],
+      "details": []
+    },
+    {
+      "level": 7,
+      "name": "莎蓮娜線",
+      "source_material": "莎蓮娜紗",
+      "category": "原料",
+      "locations": "莎蓮娜傑諾瓦域(365.439)、(360.460) * 任意鑰匙 傳送點 德威特島 摩頓村 域(322~382,600~655)(混合傑諾瓦紗) 織之島(98,91)",
+      "recommended_locations": "莎蓮娜傑諾瓦域(365.439)、(360.460) 德威特島 摩頓村 域(322~382,600~655)(混合傑諾瓦紗) 織之島(98,91)",
+      "prices": [
+        {
+          "quantity": 20,
+          "unit": "個",
+          "price": "98G"
+        }
+      ],
+      "stack_size": "",
+      "stackability": "",
+      "uses": "",
+      "processing_outputs": [],
+      "details": []
+    },
+    {
+      "level": 7,
+      "name": "莎蓮娜毛線",
+      "source_material": "莎蓮娜紗",
+      "category": "原料",
+      "locations": "莎蓮娜傑諾瓦域(365.439)、(360.460) * 任意鑰匙 傳送點 德威特島 摩頓村 域(322~382,600~655)(混合傑諾瓦紗) 織之島(98,91)",
+      "recommended_locations": "莎蓮娜傑諾瓦域(365.439)、(360.460) 德威特島 摩頓村 域(322~382,600~655)(混合傑諾瓦紗) 織之島(98,91)",
+      "prices": [
+        {
+          "quantity": 20,
+          "unit": "個",
+          "price": "98G"
+        }
+      ],
+      "stack_size": "",
+      "stackability": "",
+      "uses": "",
+      "processing_outputs": [],
+      "details": []
+    },
+    {
+      "level": 8,
+      "name": "傑諾瓦線",
+      "source_material": "傑諾瓦紗",
+      "category": "原料",
+      "locations": "莎蓮娜 傑諾瓦鎮 西門(216.455) 莎蓮娜 傑諾瓦鎮 東北門(265.434) 莎蓮娜(200.500) * 任意鑰匙 傳送點 德威特島 摩頓村 域(322~382,600~655)(混合莎蓮娜紗) 織之島(89,66)",
+      "recommended_locations": "莎蓮娜 傑諾瓦鎮 域(265.434) 莎蓮娜 傑諾瓦鎮 西門(216.455) 德威特島 摩頓村 域(322~382,600~655)(混合莎蓮娜紗) 織之島(89,66)",
+      "prices": [
+        {
+          "quantity": 20,
+          "unit": "個",
+          "price": "147G"
+        }
+      ],
+      "stack_size": "",
+      "stackability": "",
+      "uses": "",
+      "processing_outputs": [],
+      "details": []
+    },
+    {
+      "level": 8,
+      "name": "傑諾瓦毛線",
+      "source_material": "傑諾瓦紗",
+      "category": "原料",
+      "locations": "莎蓮娜 傑諾瓦鎮 西門(216.455) 莎蓮娜 傑諾瓦鎮 東北門(265.434) 莎蓮娜(200.500) * 任意鑰匙 傳送點 德威特島 摩頓村 域(322~382,600~655)(混合莎蓮娜紗) 織之島(89,66)",
+      "recommended_locations": "莎蓮娜 傑諾瓦鎮 域(265.434) 莎蓮娜 傑諾瓦鎮 西門(216.455) 德威特島 摩頓村 域(322~382,600~655)(混合莎蓮娜紗) 織之島(89,66)",
+      "prices": [
+        {
+          "quantity": 20,
+          "unit": "個",
+          "price": "147G"
+        }
+      ],
+      "stack_size": "",
+      "stackability": "",
+      "uses": "",
+      "processing_outputs": [],
+      "details": []
+    },
+    {
+      "level": 8,
+      "name": "阿巴尼斯製的線",
+      "source_material": "阿巴尼斯棉",
+      "category": "原料",
+      "locations": "魔法大學 西北樹林內(25.80) * 任意鑰匙 傳送點",
+      "recommended_locations": "魔法大學 西北樹林內(25.80) ※線與布僅能於 魔法大學 更衣室織成",
+      "prices": [
+        {
+          "quantity": 20,
+          "unit": "個",
+          "price": "230G"
+        }
+      ],
+      "stack_size": "",
+      "stackability": "",
+      "uses": "",
+      "processing_outputs": [],
+      "details": []
+    },
+    {
+      "level": 8,
+      "name": "阿巴尼斯棉線",
+      "source_material": "阿巴尼斯棉",
+      "category": "原料",
+      "locations": "魔法大學 西北樹林內(25.80) * 任意鑰匙 傳送點",
+      "recommended_locations": "魔法大學 西北樹林內(25.80) ※線與布僅能於 魔法大學 更衣室織成",
+      "prices": [
+        {
+          "quantity": 20,
+          "unit": "個",
+          "price": "230G"
+        }
+      ],
+      "stack_size": "",
+      "stackability": "",
+      "uses": "",
+      "processing_outputs": [],
+      "details": []
+    },
+    {
+      "level": 8,
+      "name": "阿巴尼斯製的布",
+      "source_material": "阿巴尼斯棉",
+      "category": "原料",
+      "locations": "魔法大學 西北樹林內(25.80) * 任意鑰匙 傳送點",
+      "recommended_locations": "魔法大學 西北樹林內(25.80) ※線與布僅能於 魔法大學 更衣室織成",
+      "prices": [
+        {
+          "quantity": 20,
+          "unit": "個",
+          "price": "230G"
+        }
+      ],
+      "stack_size": "",
+      "stackability": "",
+      "uses": "",
+      "processing_outputs": [],
+      "details": []
+    },
+    {
+      "level": 9,
+      "name": "細麻布",
+      "source_material": "芎麻",
+      "category": "原料",
+      "locations": "蒂娜村 域(515.287)(混開米士羊毛) 蒂娜村 域(498.297) 傑諾瓦鎮 域(438.277) 織之島(93,43)",
+      "recommended_locations": "莎蓮娜 蒂娜村 往西 (498.296) 莎蓮娜 傑諾瓦鎮 域(438.277) 織之島(93,43)",
+      "prices": [
+        {
+          "quantity": 20,
+          "unit": "個",
+          "price": "297G"
+        }
+      ],
+      "stack_size": "",
+      "stackability": "",
+      "uses": "",
+      "processing_outputs": [],
+      "details": []
+    },
+    {
+      "level": 9,
+      "name": "芎麻布",
+      "source_material": "芎麻",
+      "category": "原料",
+      "locations": "蒂娜村 域(515.287)(混開米士羊毛) 蒂娜村 域(498.297) 傑諾瓦鎮 域(438.277) 織之島(93,43)",
+      "recommended_locations": "莎蓮娜 蒂娜村 往西 (498.296) 莎蓮娜 傑諾瓦鎮 域(438.277) 織之島(93,43)",
+      "prices": [
+        {
+          "quantity": 20,
+          "unit": "個",
+          "price": "297G"
+        }
+      ],
+      "stack_size": "",
+      "stackability": "",
+      "uses": "",
+      "processing_outputs": [],
+      "details": []
+    },
+    {
+      "level": 10,
+      "name": "開米士毛線",
+      "source_material": "開米士羊毛",
+      "category": "原料",
+      "locations": "蒂娜村 門口(585.317) 織之島(93,27)",
+      "recommended_locations": "蒂娜村 門口(585.317) 織之島(93,27)",
+      "prices": [
+        {
+          "quantity": 20,
+          "unit": "個",
+          "price": "600G"
+        }
+      ],
+      "stack_size": "",
+      "stackability": "",
+      "uses": "",
+      "processing_outputs": [],
+      "details": []
+    },
+    {
+      "level": 10,
+      "name": "開米士棉線",
+      "source_material": "開米士羊毛",
+      "category": "原料",
+      "locations": "蒂娜村 門口(585.317) 織之島(93,27)",
+      "recommended_locations": "蒂娜村 門口(585.317) 織之島(93,27)",
+      "prices": [
+        {
+          "quantity": 20,
+          "unit": "個",
+          "price": "600G"
+        }
+      ],
+      "stack_size": "",
+      "stackability": "",
+      "uses": "",
+      "processing_outputs": [],
+      "details": []
+    },
+    {
+      "level": 6,
+      "name": "鋼騎之礦",
+      "source_material": "",
+      "category": "特殊 剪取 物",
+      "locations": "織之島全域",
+      "recommended_locations": "",
+      "prices": [
+        {
+          "quantity": 5,
+          "unit": "個",
+          "price": "2000G"
+        }
+      ],
+      "stack_size": "",
+      "stackability": "",
+      "uses": "原料",
+      "processing_outputs": [],
+      "details": []
+    }
+  ]
+}

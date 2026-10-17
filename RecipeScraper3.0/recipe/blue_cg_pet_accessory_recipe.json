@@ -1,0 +1,320 @@
+{
+  "source_url": "https://gamerch.com/blue-cg/453590",
+  "page_title": "寵物飾品製作",
+  "wiki": "水藍魔力攻略wiki",
+  "updated_at": "2025/09/01 22:48",
+  "author": "ゲストユーザー",
+  "last_editor": "Mizuei",
+  "category": "製作配方",
+  "note": "",
+  "recipes": [
+    {
+      "level": 1,
+      "level_code": "1a",
+      "name": "小鈴鐺",
+      "craft_quantity": 1,
+      "weapon_type": "",
+      "materials": [
+        {
+          "name": "亞麻布",
+          "quantity": 20
+        },
+        {
+          "name": "印度輕木",
+          "quantity": 10
+        }
+      ],
+      "bonus": [
+        "生命+15~30"
+      ],
+      "recipe_source": "",
+      "shop_price": "220G"
+    },
+    {
+      "level": 2,
+      "level_code": "2a",
+      "name": "粉紅鈴鐺",
+      "craft_quantity": 1,
+      "weapon_type": "",
+      "materials": [
+        {
+          "name": "亞麻布",
+          "quantity": 10
+        },
+        {
+          "name": "薄棉布",
+          "quantity": 10
+        },
+        {
+          "name": "蘋果薄荷",
+          "quantity": 10
+        }
+      ],
+      "bonus": [
+        "魔力+15~30"
+      ],
+      "recipe_source": "",
+      "shop_price": "400G"
+    },
+    {
+      "level": 3,
+      "level_code": "3a",
+      "name": "血淋淋鈴鐺",
+      "craft_quantity": 1,
+      "weapon_type": "",
+      "materials": [
+        {
+          "name": "銅條",
+          "quantity": 5
+        },
+        {
+          "name": "羊毛線",
+          "quantity": 10
+        },
+        {
+          "name": "黃月木",
+          "quantity": 15
+        },
+        {
+          "name": "檸檬草",
+          "quantity": 15
+        }
+      ],
+      "bonus": [
+        "生命+50~75"
+      ],
+      "recipe_source": "",
+      "shop_price": "550G"
+    },
+    {
+      "level": 4,
+      "level_code": "4a",
+      "name": "翡翠鈴鐺",
+      "craft_quantity": 1,
+      "weapon_type": "",
+      "materials": [
+        {
+          "name": "銀條",
+          "quantity": 5
+        },
+        {
+          "name": "棉線",
+          "quantity": 10
+        },
+        {
+          "name": "紗線",
+          "quantity": 10
+        },
+        {
+          "name": "黃月木",
+          "quantity": 10
+        },
+        {
+          "name": "蝴蝶花",
+          "quantity": 10
+        }
+      ],
+      "bonus": [
+        "魔力+35~50"
+      ],
+      "recipe_source": "",
+      "shop_price": "900G"
+    },
+    {
+      "level": 5,
+      "level_code": "5a",
+      "name": "睿智鈴鐺",
+      "craft_quantity": 1,
+      "weapon_type": "",
+      "materials": [
+        {
+          "name": "金條",
+          "quantity": 5
+        },
+        {
+          "name": "紗線",
+          "quantity": 10
+        },
+        {
+          "name": "鐵杉",
+          "quantity": 20
+        },
+        {
+          "name": "果梨",
+          "quantity": 15
+        },
+        {
+          "name": "桃木",
+          "quantity": 15
+        }
+      ],
+      "bonus": [
+        "生命+70~100 魔力+50~65"
+      ],
+      "recipe_source": "",
+      "shop_price": "1200G"
+    },
+    {
+      "level": 6,
+      "level_code": "6a",
+      "name": "緞帶鈴鐺",
+      "craft_quantity": 1,
+      "weapon_type": "",
+      "materials": [
+        {
+          "name": "紗線",
+          "quantity": 15
+        },
+        {
+          "name": "絲線",
+          "quantity": 15
+        },
+        {
+          "name": "赤松",
+          "quantity": 20
+        },
+        {
+          "name": "番紅花",
+          "quantity": 20
+        }
+      ],
+      "bonus": [
+        "生命+130~160 魔力+75~90"
+      ],
+      "recipe_source": "",
+      "shop_price": "1700G*"
+    },
+    {
+      "level": 7,
+      "level_code": "7a",
+      "name": "可愛鈴鐺",
+      "craft_quantity": 1,
+      "weapon_type": "",
+      "materials": [
+        {
+          "name": "幻之鋼條",
+          "quantity": 10
+        },
+        {
+          "name": "紗線",
+          "quantity": 15
+        },
+        {
+          "name": "莎蓮娜毛線",
+          "quantity": 10
+        },
+        {
+          "name": "赤松",
+          "quantity": 15
+        },
+        {
+          "name": "百里香",
+          "quantity": 15
+        }
+      ],
+      "bonus": [
+        "生命+182~205 魔力+114~131*1"
+      ],
+      "recipe_source": "",
+      "shop_price": "1800G*"
+    },
+    {
+      "level": 8,
+      "level_code": "8a",
+      "name": "怪異鈴鐺",
+      "craft_quantity": 1,
+      "weapon_type": "",
+      "materials": [
+        {
+          "name": "幻之鋼條",
+          "quantity": 10
+        },
+        {
+          "name": "傑諾瓦毛線",
+          "quantity": 15
+        },
+        {
+          "name": "朴",
+          "quantity": 10
+        },
+        {
+          "name": "百里香",
+          "quantity": 10
+        },
+        {
+          "name": "瞿麥",
+          "quantity": 15
+        }
+      ],
+      "bonus": [
+        "生命+ 魔力+"
+      ],
+      "recipe_source": "",
+      "shop_price": "1900G*"
+    },
+    {
+      "level": 9,
+      "level_code": "9a",
+      "name": "水靈鈴鐺",
+      "craft_quantity": 1,
+      "weapon_type": "",
+      "materials": [
+        {
+          "name": "勒格耐席鉧條",
+          "quantity": 5
+        },
+        {
+          "name": "傑諾瓦毛線",
+          "quantity": 15
+        },
+        {
+          "name": "阿巴尼斯棉線",
+          "quantity": 10
+        },
+        {
+          "name": "絲柏",
+          "quantity": 15
+        },
+        {
+          "name": "瞿麥",
+          "quantity": 10
+        }
+      ],
+      "bonus": [
+        "生命+ 魔力+"
+      ],
+      "recipe_source": "",
+      "shop_price": "4300G*"
+    },
+    {
+      "level": 10,
+      "level_code": "10a",
+      "name": "幻想鈴鐺",
+      "craft_quantity": 1,
+      "weapon_type": "",
+      "materials": [
+        {
+          "name": "開米士棉線",
+          "quantity": 15
+        },
+        {
+          "name": "絲柏",
+          "quantity": 15
+        },
+        {
+          "name": "梣",
+          "quantity": 15
+        },
+        {
+          "name": "七葉樹",
+          "quantity": 20
+        }
+      ],
+      "bonus": [
+        "生命+ 魔力+"
+      ],
+      "recipe_source": "",
+      "shop_price": "6200G*"
+    }
+  ]
+}

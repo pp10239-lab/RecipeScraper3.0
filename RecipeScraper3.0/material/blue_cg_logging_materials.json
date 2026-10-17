@@ -1,0 +1,607 @@
+{
+  "source_url": "https://gamerch.com/blue-cg/452900",
+  "page_title": "伐木情報",
+  "wiki": "水藍魔力攻略wiki",
+  "updated_at": "2025/09/01 22:48",
+  "author": "ゲストユーザー",
+  "last_editor": "Mizuei",
+  "category": "採集情報",
+  "note": "1.單木販售價格調整",
+  "collection_info": [
+    {
+      "label": "技能學習地點",
+      "value": "芙雷雅山男的家(509.153)"
+    }
+  ],
+  "resources": [
+    {
+      "level": 1,
+      "name": "孟宗竹",
+      "category": "木材",
+      "locations": "芙蕾雅島 法蘭城 東門外",
+      "recommended_locations": "芙蕾雅島 法蘭城 東門外 ※僅有 伐木 體驗能伐到",
+      "prices": [
+        {
+          "quantity": 20,
+          "unit": "個",
+          "price": "22G"
+        }
+      ],
+      "stack_size": "",
+      "stackability": "",
+      "uses": "",
+      "processing_outputs": [],
+      "details": []
+    },
+    {
+      "level": 1,
+      "name": "竹子",
+      "category": "木材",
+      "locations": "芙蕾雅島 法蘭城 東門外",
+      "recommended_locations": "芙蕾雅島 法蘭城 東門外 ※僅有 伐木 體驗能伐到",
+      "prices": [
+        {
+          "quantity": 20,
+          "unit": "個",
+          "price": "22G"
+        }
+      ],
+      "stack_size": "",
+      "stackability": "",
+      "uses": "",
+      "processing_outputs": [],
+      "details": []
+    },
+    {
+      "level": 1,
+      "name": "印度輕木",
+      "category": "木材",
+      "locations": "芙蕾雅島 全域 溫迪爾平原 全域",
+      "recommended_locations": "法蘭城 東門(491.197)",
+      "prices": [
+        {
+          "quantity": 20,
+          "unit": "個",
+          "price": "28G"
+        }
+      ],
+      "stack_size": "",
+      "stackability": "",
+      "uses": "",
+      "processing_outputs": [],
+      "details": []
+    },
+    {
+      "level": 2,
+      "name": "樅",
+      "category": "木材",
+      "locations": "芙蕾雅 法蘭城 東(497.190)(混合印度輕木) 法蘭城 西門外(356.144)(混合印度輕木) 法蘭城 南門外(444.295)(混合印度輕木) 法蘭城 西門外(447.164) 魯多特盆地 (168.119) 魯多特盆地 (204.103)(混合黃月木)",
+      "recommended_locations": "法蘭城 西門外(447.164)",
+      "prices": [
+        {
+          "quantity": 20,
+          "unit": "個",
+          "price": "36G"
+        }
+      ],
+      "stack_size": "",
+      "stackability": "",
+      "uses": "",
+      "processing_outputs": [],
+      "details": []
+    },
+    {
+      "level": 3,
+      "name": "黃月木",
+      "category": "木材",
+      "locations": "芙蕾雅 亞留特村 東門外(625.133) 芙蕾雅城南(467.319)(混合印度輕木) 芙蕾雅城南(410.290)(混合印度輕木) 芙蕾雅城西(361.182)(混合印度輕木) 索奇亞 奇利村 (272.287) 索奇亞 奇利村 (295.325) 魯多特盆地 (204.103)(混合樅)",
+      "recommended_locations": "索奇亞 奇利村 (272.287)",
+      "prices": [
+        {
+          "quantity": 20,
+          "unit": "個",
+          "price": "41G"
+        }
+      ],
+      "stack_size": "",
+      "stackability": "",
+      "uses": "",
+      "processing_outputs": [],
+      "details": []
+    },
+    {
+      "level": 3,
+      "name": "茱萸木",
+      "category": "木材",
+      "locations": "蓋雷布倫森林 (187.43)",
+      "recommended_locations": "蓋雷布倫森林 (187.43)",
+      "prices": [
+        {
+          "quantity": 20,
+          "unit": "個",
+          "price": "28G"
+        }
+      ],
+      "stack_size": "",
+      "stackability": "",
+      "uses": "",
+      "processing_outputs": [],
+      "details": []
+    },
+    {
+      "level": 4,
+      "name": "鐵杉",
+      "category": "木材",
+      "locations": "芙蕾雅 法蘭城 東門外(602.118)(混合印度輕木) 芙蕾雅亞留特東門外(640.70) 芙蕾雅 維諾亞村 外(416.440) 蓋雷布倫森林 全域(混合印度輕木) 克瑞村 外(431-435.107~112)",
+      "recommended_locations": "芙蕾雅 維諾亞村 外(416.440) 芙蕾雅亞留特東門外(640.70) 克瑞村 外(431-435.107~112)",
+      "prices": [
+        {
+          "quantity": 20,
+          "unit": "個",
+          "price": "48G"
+        }
+      ],
+      "stack_size": "",
+      "stackability": "",
+      "uses": "",
+      "processing_outputs": [],
+      "details": []
+    },
+    {
+      "level": 5,
+      "name": "琵琶木",
+      "category": "木材",
+      "locations": "芙蕾雅 維諾亞村 (356.417) 索奇亞 加納村 (711.207 米內葛爾 阿凱魯法村 (203.346) 蓋雷布倫森林 全域(混合印度輕木、鐵杉) 布拉基姆高地 (116.144)",
+      "recommended_locations": "米內葛爾 阿凱魯法村 (203.346)",
+      "prices": [
+        {
+          "quantity": 20,
+          "unit": "個",
+          "price": "58G"
+        }
+      ],
+      "stack_size": "",
+      "stackability": "",
+      "uses": "",
+      "processing_outputs": [],
+      "details": []
+    },
+    {
+      "level": 6,
+      "name": "赤松",
+      "category": "木材",
+      "locations": "芙蕾雅維諾亞(400.550) * 任意鑰匙 傳送點 米內葛爾 阿凱魯法村 (192.373) 索奇亞 加納村 (586.220)、(627.431)",
+      "recommended_locations": "米內葛爾 阿凱魯法村 (192.373)",
+      "prices": [
+        {
+          "quantity": 20,
+          "unit": "個",
+          "price": "73G"
+        }
+      ],
+      "stack_size": "",
+      "stackability": "",
+      "uses": "",
+      "processing_outputs": [],
+      "details": []
+    },
+    {
+      "level": 7,
+      "name": "朴",
+      "category": "木材",
+      "locations": "莎蓮娜傑諾瓦村域(183.459) * 任意鑰匙 傳送點 索奇亞 奇利村 域(282.404) 米內葛爾阿凱魯法域(188.455) 莎蓮娜 魔法大學 裡面(24.59)(混合杉、百里香、瞿麥) 坎那貝拉村 外(562.290)",
+      "recommended_locations": "莎蓮娜傑諾瓦村域(186.457) 米內葛爾阿凱魯法域(188.455) 坎那貝拉村 外(562.290)",
+      "prices": [
+        {
+          "quantity": 20,
+          "unit": "個",
+          "price": "98G"
+        }
+      ],
+      "stack_size": "",
+      "stackability": "",
+      "uses": "",
+      "processing_outputs": [],
+      "details": []
+    },
+    {
+      "level": 8,
+      "name": "杉",
+      "category": "木材",
+      "locations": "莎蓮娜 魔法大學 外西南邊(105.149) 莎蓮娜 魔法大學 裡面(24.59)(朴、百里香、瞿麥) 傑諾瓦鎮 域(161.354) * 任意鑰匙 傳送點 米內葛爾島 坎那貝拉村 外(582.328)",
+      "recommended_locations": "莎蓮娜 魔法大學 外西南邊(105.149) 坎那貝拉村 西門外(582.328)",
+      "prices": [
+        {
+          "quantity": 20,
+          "unit": "個",
+          "price": "147G"
+        }
+      ],
+      "stack_size": "",
+      "stackability": "",
+      "uses": "",
+      "processing_outputs": [],
+      "details": []
+    },
+    {
+      "level": 8,
+      "name": "魔法紅蘿蔔",
+      "category": "木材",
+      "locations": "莎蓮娜 魔法大學 裡面(33,167)(蘋果薄荷)",
+      "recommended_locations": "莎蓮娜 魔法大學 裡面(33,167) ※可於倉庫(117,164)內與葛德雷翁購買「魔法手套」，持有手套時產量會大增",
+      "prices": [
+        {
+          "quantity": 20,
+          "unit": "個",
+          "price": "60G"
+        }
+      ],
+      "stack_size": "",
+      "stackability": "",
+      "uses": "",
+      "processing_outputs": [],
+      "details": []
+    },
+    {
+      "level": 8,
+      "name": "單木",
+      "category": "木材",
+      "locations": "米內葛爾 阿凱魯法村 (240.400) * 任意鑰匙 傳送點",
+      "recommended_locations": "米內葛爾 阿凱魯法村 (240.400)",
+      "prices": [
+        {
+          "quantity": 20,
+          "unit": "個",
+          "price": "74G"
+        }
+      ],
+      "stack_size": "",
+      "stackability": "",
+      "uses": "",
+      "processing_outputs": [],
+      "details": []
+    },
+    {
+      "level": 9,
+      "name": "絲柏",
+      "category": "木材",
+      "locations": "莎蓮娜 阿巴尼斯村 域(105.158) 庫魯克斯島 (348.593) 庫魯克斯島 (654.452)",
+      "recommended_locations": "莎蓮娜 阿巴尼斯村 域(105.158) 庫魯克斯島 (348.593) 庫魯克斯島 (654.452)",
+      "prices": [
+        {
+          "quantity": 20,
+          "unit": "個",
+          "price": "297G"
+        }
+      ],
+      "stack_size": "",
+      "stackability": "",
+      "uses": "",
+      "processing_outputs": [],
+      "details": []
+    },
+    {
+      "level": 10,
+      "name": "梣",
+      "category": "木材",
+      "locations": "莎蓮娜 阿巴尼斯村 (231.147)、(128.159) 庫魯克斯島 (501.723)",
+      "recommended_locations": "阿巴尼斯村 域(231.147) 庫魯克斯島 (501.723)",
+      "prices": [
+        {
+          "quantity": 20,
+          "unit": "個",
+          "price": "600G"
+        }
+      ],
+      "stack_size": "",
+      "stackability": "",
+      "uses": "",
+      "processing_outputs": [],
+      "details": []
+    },
+    {
+      "level": 1,
+      "name": "蘋果薄荷",
+      "category": "花草",
+      "locations": "芙蕾雅島 北邊花園(500,85) 法蘭城遺跡 (80,100)",
+      "recommended_locations": "芙蕾雅北邊花園(500.85)",
+      "prices": [
+        {
+          "quantity": 20,
+          "unit": "個",
+          "price": "28G"
+        }
+      ],
+      "stack_size": "",
+      "stackability": "",
+      "uses": "",
+      "processing_outputs": [],
+      "details": []
+    },
+    {
+      "level": 2,
+      "name": "檸檬草",
+      "category": "花草",
+      "locations": "芙蕾雅北邊花園(515.100) 布拉基姆高地 (62.196) 亞留特村 域(632.169)",
+      "recommended_locations": "芙蕾雅北邊花園(515.100)",
+      "prices": [
+        {
+          "quantity": 20,
+          "unit": "個",
+          "price": "36G"
+        }
+      ],
+      "stack_size": "",
+      "stackability": "",
+      "uses": "",
+      "processing_outputs": [],
+      "details": []
+    },
+    {
+      "level": 3,
+      "name": "蝴蝶花",
+      "category": "花草",
+      "locations": "芙蕾雅北邊花園(505.120) 布拉基姆高地 (55.189) 亞留特村 域(635.162)",
+      "recommended_locations": "芙蕾雅北邊花園(505.120) 芙蕾雅 亞留特村 (635,162)",
+      "prices": [
+        {
+          "quantity": 20,
+          "unit": "個",
+          "price": "41G"
+        }
+      ],
+      "stack_size": "",
+      "stackability": "",
+      "uses": "",
+      "processing_outputs": [],
+      "details": []
+    },
+    {
+      "level": 4,
+      "name": "果梨",
+      "category": "花草",
+      "locations": "芙蕾雅北邊花園(510.130) 索奇亞 奇利村 域(321.334) 布拉基姆高地 (63.196)(混合檸檬草) 梅布爾隘地 (182.145)(混合蘋果薄荷)",
+      "recommended_locations": "索奇亞 奇利村 域(321.334)",
+      "prices": [
+        {
+          "quantity": 20,
+          "unit": "個",
+          "price": "48G"
+        }
+      ],
+      "stack_size": "",
+      "stackability": "",
+      "uses": "",
+      "processing_outputs": [],
+      "details": []
+    },
+    {
+      "level": 5,
+      "name": "桃木",
+      "category": "花草",
+      "locations": "芙蕾雅北邊花園(521.126) 亞留特村 域(629.173) 光之路 (201.18) 加納村 域(559.242)(低miss混合番紅花)",
+      "recommended_locations": "光之路 (201.18)",
+      "prices": [
+        {
+          "quantity": 20,
+          "unit": "個",
+          "price": "58G"
+        }
+      ],
+      "stack_size": "",
+      "stackability": "",
+      "uses": "",
+      "processing_outputs": [],
+      "details": []
+    },
+    {
+      "level": 5,
+      "name": "冰凍愛麗絲",
+      "category": "花草",
+      "locations": "阿巴尼斯村 外(109,170)附近 任務「 月亮俱樂部 」相關",
+      "recommended_locations": "阿巴尼斯村 外(109,170)附近",
+      "prices": [
+        {
+          "quantity": 20,
+          "unit": "個",
+          "price": "58G"
+        }
+      ],
+      "stack_size": "",
+      "stackability": "",
+      "uses": "",
+      "processing_outputs": [],
+      "details": []
+    },
+    {
+      "level": 6,
+      "name": "番紅花",
+      "category": "花草",
+      "locations": "芙蕾雅北邊花園(503.132) * 任意鑰匙 傳送點 庫魯克斯哥拉爾(378.385) 梅布爾隘地 (126.153)(混合蘋果薄荷；即在葫蘆旅店旁) 加納村 域(559.242)(低miss混合桃木) 索奇亞 奇利村 (314.312)(莫名的會混謎之皮) 光之路 (240.91)(需繳交500G過路費)",
+      "recommended_locations": "索奇亞 奇利村 (314.312)(莫名的會混謎之皮) 光之路 (240.91)(需繳交500G過路費)",
+      "prices": [
+        {
+          "quantity": 20,
+          "unit": "個",
+          "price": "78G"
+        }
+      ],
+      "stack_size": "",
+      "stackability": "",
+      "uses": "",
+      "processing_outputs": [],
+      "details": []
+    },
+    {
+      "level": 7,
+      "name": "百里香",
+      "category": "花草",
+      "locations": "傑諾瓦鎮 南邊花園(175.497) * 任意鑰匙 傳送點 、(173.500) 梅布爾隘地 (196.173)(混合蘋果薄荷) 莎蓮娜 魔法大學 裡面(24.59)(混合朴、杉) 光之路 (173,85)",
+      "recommended_locations": "傑諾瓦鎮 南邊花園(175.497) 光之路 (173,85)",
+      "prices": [
+        {
+          "quantity": 20,
+          "unit": "個",
+          "price": "98G"
+        }
+      ],
+      "stack_size": "",
+      "stackability": "",
+      "uses": "",
+      "processing_outputs": [],
+      "details": []
+    },
+    {
+      "level": 8,
+      "name": "瞿麥",
+      "category": "花草",
+      "locations": "莎蓮娜傑諾瓦東邊出去繞過山(262.574) * 任意鑰匙 傳送點 莎蓮娜從傑村東門出去到蒂娜域(346.472) 莎蓮娜 魔法大學 裡面(24.59)(混合朴,杉,百里香) 法蘭城遺跡 (139.128)(混合蘋果薄荷) 光之路 (157,115)",
+      "recommended_locations": "莎蓮娜傑諾瓦東邊出去繞過山(262.574) 光之路 (157,115)",
+      "prices": [
+        {
+          "quantity": 20,
+          "unit": "個",
+          "price": "147G"
+        }
+      ],
+      "stack_size": "",
+      "stackability": "",
+      "uses": "",
+      "processing_outputs": [],
+      "details": []
+    },
+    {
+      "level": 8,
+      "name": "香草",
+      "category": "花草",
+      "locations": "庫魯克斯島 哥拉爾域(509.507) * 任意鑰匙 傳送點 米內葛爾島 坎那貝拉村 域(476.241)",
+      "recommended_locations": "庫魯克斯島 哥拉爾域(509.507) 米內葛爾島 坎那貝拉村 域(476.241)",
+      "prices": [
+        {
+          "quantity": 20,
+          "unit": "個",
+          "price": "147G"
+        }
+      ],
+      "stack_size": "",
+      "stackability": "",
+      "uses": "",
+      "processing_outputs": [],
+      "details": []
+    },
+    {
+      "level": 9,
+      "name": "茴香",
+      "category": "花草",
+      "locations": "莎蓮娜 傑諾瓦鎮 西南邊花園(178.510) 蒂娜村 域(283.371) 光之路 (160,215)",
+      "recommended_locations": "莎蓮娜 傑諾瓦鎮 西南邊花園(178.510) 光之路 (160,215)",
+      "prices": [
+        {
+          "quantity": 20,
+          "unit": "個",
+          "price": "297G"
+        }
+      ],
+      "stack_size": "",
+      "stackability": "",
+      "uses": "",
+      "processing_outputs": [],
+      "details": []
+    },
+    {
+      "level": 10,
+      "name": "七葉樹",
+      "category": "花草",
+      "locations": "莎蓮蒂娜域較靠近傑諾瓦(329.455) 蒂娜村 域(329.455) 蒂娜村 南門外(576.328) 光之路 (126,189) 庫魯克斯島 米諾基亞域(612.722)",
+      "recommended_locations": "莎蓮娜蒂娜域較靠近傑諾瓦(329.455) 庫魯克斯島 米諾基亞域(612.722) 光之路 (126,189)",
+      "prices": [
+        {
+          "quantity": 20,
+          "unit": "個",
+          "price": "600G"
+        }
+      ],
+      "stack_size": "",
+      "stackability": "",
+      "uses": "",
+      "processing_outputs": [],
+      "details": []
+    },
+    {
+      "level": 10,
+      "name": "幻想花",
+      "category": "花草",
+      "locations": "莎蓮娜島 蒂娜域 (667.320 ~ 673.323) 莎蓮娜島 貝茲 雷姆 神殿 (133.334 ~ 138.338) 米內葛爾島 坎那貝拉域 (623.408 ~ 628.413) 庫魯克斯島 魯米那斯域 (307.875 ~ 310.880)",
+      "recommended_locations": "庫魯克斯島 魯米那斯域 (307.875 ~ 310.880)",
+      "prices": [
+        {
+          "quantity": 20,
+          "unit": "個",
+          "price": "647G"
+        }
+      ],
+      "stack_size": "",
+      "stackability": "",
+      "uses": "",
+      "processing_outputs": [],
+      "details": []
+    },
+    {
+      "level": 11,
+      "name": "曼德拉草",
+      "category": "花草",
+      "locations": "米內葛爾島 中部 (382.330 ~ 387.331) 庫魯克斯島 米諾基亞域 (607.764 ~ 611.766) 庫魯克斯島 貝尼恰斯火山 (660.571 ~ 670.576) 庫魯克斯島 雷克塔爾域 (582.498 ~ 588.503)",
+      "recommended_locations": "庫魯克斯島 貝尼恰斯火山 (660.571 ~ 670.576) 庫魯克斯島 雷克塔爾域 (582.498 ~ 588.503)",
+      "prices": [
+        {
+          "quantity": 20,
+          "unit": "個",
+          "price": "700G"
+        }
+      ],
+      "stack_size": "",
+      "stackability": "",
+      "uses": "",
+      "processing_outputs": [],
+      "details": []
+    },
+    {
+      "level": 6,
+      "name": "鋼騎之礦",
+      "category": "特殊伐採物",
+      "locations": "海賊的森林全域 ※請參照任務「 海賊的洞窟 」",
+      "recommended_locations": "",
+      "prices": [
+        {
+          "quantity": 5,
+          "unit": "個",
+          "price": "2000G"
+        }
+      ],
+      "stack_size": "5",
+      "stackability": "",
+      "uses": "製品原料",
+      "processing_outputs": [],
+      "details": []
+    },
+    {
+      "level": 10,
+      "name": "謎之皮",
+      "category": "特殊伐採物",
+      "locations": "芙蕾雅島 全域 索奇亞島 番紅花點",
+      "recommended_locations": "",
+      "prices": [
+        {
+          "quantity": null,
+          "unit": "",
+          "price": "300G"
+        }
+      ],
+      "stack_size": "",
+      "stackability": "不可堆疊",
+      "uses": "寶石精煉、 變身卡製作",
+      "processing_outputs": [],
+      "details": []
+    }
+  ]
+}

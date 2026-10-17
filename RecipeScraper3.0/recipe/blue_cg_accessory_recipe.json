@@ -1,0 +1,808 @@
+{
+  "source_url": "https://gamerch.com/blue-cg/453290",
+  "page_title": "飾品製作",
+  "wiki": "水藍魔力攻略wiki",
+  "updated_at": "2025/09/01 22:48",
+  "author": "ゲストユーザー",
+  "last_editor": "Mizuei",
+  "category": "製作配方",
+  "note": "1.調整祈願之符、香草錦囊、豐年之穗、茴香之環、奇石步搖能力",
+  "recipes": [
+    {
+      "level": 1,
+      "level_code": "1a",
+      "name": "鹿皮手套",
+      "craft_quantity": 1,
+      "weapon_type": "",
+      "materials": [
+        {
+          "name": "鹿皮",
+          "quantity": 20
+        },
+        {
+          "name": "麻",
+          "quantity": 20
+        },
+        {
+          "name": "麻布",
+          "quantity": 1
+        }
+      ],
+      "bonus": [
+        "防採集傷害一次（製作、魔物傷害無效）",
+        "耐久3/3"
+      ],
+      "recipe_source": "",
+      "shop_price": "10G"
+    },
+    {
+      "level": 1,
+      "level_code": "1b",
+      "name": "皮製鈴鼓",
+      "craft_quantity": 1,
+      "weapon_type": "",
+      "materials": [
+        {
+          "name": "鹿皮",
+          "quantity": 20
+        },
+        {
+          "name": "印度輕木",
+          "quantity": 20
+        },
+        {
+          "name": "銅條",
+          "quantity": 1
+        }
+      ],
+      "bonus": [
+        "抗遺忘",
+        "-2~+5",
+        "稱號：流浪藝人",
+        "耐久100/100"
+      ],
+      "recipe_source": "",
+      "shop_price": "20G"
+    },
+    {
+      "level": 2,
+      "level_code": "2a",
+      "name": "隕石之鼓",
+      "craft_quantity": 1,
+      "weapon_type": "",
+      "materials": [
+        {
+          "name": "鹿皮",
+          "quantity": 20
+        },
+        {
+          "name": "樅",
+          "quantity": 10
+        },
+        {
+          "name": "銅條",
+          "quantity": 1
+        },
+        {
+          "name": "隕石",
+          "quantity": 1
+        }
+      ],
+      "bonus": [
+        "抗石化",
+        "+1~+4",
+        "命中+5",
+        "稱號：流星",
+        "耐久100/100"
+      ],
+      "recipe_source": "",
+      "shop_price": "20G"
+    },
+    {
+      "level": 2,
+      "level_code": "2b",
+      "name": "薰香包",
+      "craft_quantity": 1,
+      "weapon_type": "",
+      "materials": [
+        {
+          "name": "蘋果薄荷",
+          "quantity": 10
+        },
+        {
+          "name": "檸檬草",
+          "quantity": 10
+        },
+        {
+          "name": "麻布",
+          "quantity": 1
+        },
+        {
+          "name": "木棉布",
+          "quantity": 1
+        }
+      ],
+      "bonus": [
+        "精神-3~+5",
+        "魅力+5",
+        "稱號：帶來幸運的人",
+        "耐久100/100"
+      ],
+      "recipe_source": "",
+      "shop_price": "150G"
+    },
+    {
+      "level": 3,
+      "level_code": "3a",
+      "name": "雪之結晶",
+      "craft_quantity": 1,
+      "weapon_type": "",
+      "materials": [
+        {
+          "name": "永久冰石",
+          "quantity": 10
+        },
+        {
+          "name": "鹽",
+          "quantity": 20
+        },
+        {
+          "name": "鐵條",
+          "quantity": 1
+        }
+      ],
+      "bonus": [
+        "精神-3~+8",
+        "稱號：雪精靈的祈福",
+        "耐久100/100"
+      ],
+      "recipe_source": "",
+      "shop_price": "300G"
+    },
+    {
+      "level": 3,
+      "level_code": "3b",
+      "name": "銀折扇",
+      "craft_quantity": 1,
+      "weapon_type": "",
+      "materials": [
+        {
+          "name": "蝴蝶花",
+          "quantity": 10
+        },
+        {
+          "name": "銀條",
+          "quantity": 5
+        },
+        {
+          "name": "茱萸木",
+          "quantity": 20
+        }
+      ],
+      "bonus": [
+        "閃躲-1~+6",
+        "反擊",
+        "-5~+10",
+        "稱號：自命風流的人",
+        "耐久100/100"
+      ],
+      "recipe_source": "",
+      "shop_price": "150G"
+    },
+    {
+      "level": 4,
+      "level_code": "4a",
+      "name": "惡魔 風笛",
+      "craft_quantity": 1,
+      "weapon_type": "",
+      "materials": [
+        {
+          "name": "惡魔 的卡片",
+          "quantity": 1
+        },
+        {
+          "name": "孟宗竹",
+          "quantity": 20
+        },
+        {
+          "name": "銅條",
+          "quantity": 1
+        },
+        {
+          "name": "鐵條",
+          "quantity": 2
+        },
+        {
+          "name": "木棉布",
+          "quantity": 1
+        }
+      ],
+      "bonus": [
+        "抗混亂",
+        "+5",
+        "抗毒",
+        "-3",
+        "稱號：",
+        "惡魔",
+        "的耳語",
+        "耐久100/100"
+      ],
+      "recipe_source": "",
+      "shop_price": "150G"
+    },
+    {
+      "level": 4,
+      "level_code": "4b",
+      "name": "戀愛耳環",
+      "craft_quantity": 1,
+      "weapon_type": "",
+      "materials": [
+        {
+          "name": "戀愛蘋果",
+          "quantity": 2
+        },
+        {
+          "name": "蘋果薄荷",
+          "quantity": 10
+        },
+        {
+          "name": "純銀條",
+          "quantity": 1
+        },
+        {
+          "name": "金條",
+          "quantity": 3
+        }
+      ],
+      "bonus": [
+        "稱號：戀愛中勿擾",
+        "耐久100/100"
+      ],
+      "recipe_source": "",
+      "shop_price": "150G"
+    },
+    {
+      "level": 5,
+      "level_code": "5a",
+      "name": "淚石之戒",
+      "craft_quantity": 1,
+      "weapon_type": "",
+      "materials": [
+        {
+          "name": "天使之淚",
+          "quantity": 1
+        },
+        {
+          "name": "金條",
+          "quantity": 1
+        },
+        {
+          "name": "純銀條",
+          "quantity": 2
+        },
+        {
+          "name": "琵琶木",
+          "quantity": 1
+        }
+      ],
+      "bonus": [
+        "生命+110~200",
+        "稱號：回到過去的人",
+        "耐久100/100"
+      ],
+      "recipe_source": "",
+      "shop_price": "200G"
+    },
+    {
+      "level": 5,
+      "level_code": "5b",
+      "name": "龍之環",
+      "craft_quantity": 1,
+      "weapon_type": "",
+      "materials": [
+        {
+          "name": "溼地毒蛇",
+          "quantity": 5
+        },
+        {
+          "name": "銅條",
+          "quantity": 1
+        },
+        {
+          "name": "純銀條",
+          "quantity": 1
+        },
+        {
+          "name": "金條",
+          "quantity": 3
+        }
+      ],
+      "bonus": [
+        "改變種族：龍族",
+        "稱號：龍的傳人",
+        "耐久50/50"
+      ],
+      "recipe_source": "",
+      "shop_price": "300G"
+    },
+    {
+      "level": 6,
+      "level_code": "6a",
+      "name": "藍羽髮暨",
+      "craft_quantity": 1,
+      "weapon_type": "",
+      "materials": [
+        {
+          "name": "藍鳳凰的羽毛",
+          "quantity": 1
+        },
+        {
+          "name": "純銀條",
+          "quantity": 1
+        },
+        {
+          "name": "白金條",
+          "quantity": 3
+        },
+        {
+          "name": "鈦礦石",
+          "quantity": 2
+        }
+      ],
+      "bonus": [
+        "回復+10~20",
+        "命中-3~-5",
+        "稱號：等待花嫁",
+        "耐久100/100"
+      ],
+      "recipe_source": "",
+      "shop_price": "300G"
+    },
+    {
+      "level": 6,
+      "level_code": "6b",
+      "name": "黑魔法之戒",
+      "craft_quantity": 1,
+      "weapon_type": "",
+      "materials": [
+        {
+          "name": "魔力手環",
+          "quantity": 1
+        },
+        {
+          "name": "純銀條",
+          "quantity": 1
+        },
+        {
+          "name": "金條",
+          "quantity": 3
+        },
+        {
+          "name": "蠶絲",
+          "quantity": 2
+        }
+      ],
+      "bonus": [
+        "魔力+110~200",
+        "稱號：來自未來的人",
+        "耐久100/100"
+      ],
+      "recipe_source": "",
+      "shop_price": "200G"
+    },
+    {
+      "level": 7,
+      "level_code": "7a",
+      "name": "祈願之符",
+      "craft_quantity": 1,
+      "weapon_type": "",
+      "materials": [
+        {
+          "name": "法蘭遺跡紀念木刀",
+          "quantity": 1
+        },
+        {
+          "name": "細線",
+          "quantity": 10
+        },
+        {
+          "name": "幻之鋼條",
+          "quantity": 1
+        }
+      ],
+      "bonus": [
+        "攻擊-80",
+        "必殺+15~20",
+        "稱號：必殺的正義",
+        "耐久50/50"
+      ],
+      "recipe_source": "",
+      "shop_price": "150G"
+    },
+    {
+      "level": 7,
+      "level_code": "7b",
+      "name": "鏡戒",
+      "craft_quantity": 1,
+      "weapon_type": "",
+      "materials": [
+        {
+          "name": "金條",
+          "quantity": 1
+        },
+        {
+          "name": "幻之銀條",
+          "quantity": 1
+        },
+        {
+          "name": "赤松",
+          "quantity": 20
+        }
+      ],
+      "bonus": [
+        "反擊",
+        "+10~15",
+        "稱號：鏡中",
+        "幻影",
+        "耐久100/100"
+      ],
+      "recipe_source": "",
+      "shop_price": "300G"
+    },
+    {
+      "level": 8,
+      "level_code": "8a",
+      "name": "紅羽髮簪",
+      "craft_quantity": 1,
+      "weapon_type": "",
+      "materials": [
+        {
+          "name": "紅鳳凰的羽毛",
+          "quantity": 1
+        },
+        {
+          "name": "白金條",
+          "quantity": 3
+        },
+        {
+          "name": "幻之銀條",
+          "quantity": 1
+        },
+        {
+          "name": "鈦礦石",
+          "quantity": 2
+        }
+      ],
+      "bonus": [
+        "魔攻+10~15",
+        "閃躲-3~-5",
+        "稱號：給予承諾的人",
+        "耐久100/100"
+      ],
+      "recipe_source": "",
+      "shop_price": "350G"
+    },
+    {
+      "level": 8,
+      "level_code": "8b",
+      "name": "香草錦囊",
+      "craft_quantity": 1,
+      "weapon_type": "",
+      "materials": [
+        {
+          "name": "香草",
+          "quantity": 20
+        },
+        {
+          "name": "單木",
+          "quantity": 20
+        },
+        {
+          "name": "絹布",
+          "quantity": 1
+        },
+        {
+          "name": "傑諾瓦線",
+          "quantity": 2
+        }
+      ],
+      "bonus": [
+        "回復-3~+5",
+        "命中+10~13",
+        "稱號：香氣襲人",
+        "耐久100/100"
+      ],
+      "recipe_source": "",
+      "shop_price": "350G"
+    },
+    {
+      "level": 9,
+      "level_code": "9a",
+      "name": "豐年之穗",
+      "craft_quantity": 1,
+      "weapon_type": "",
+      "materials": [
+        {
+          "name": "瞿麥",
+          "quantity": 20
+        },
+        {
+          "name": "達馬斯礦條",
+          "quantity": 1
+        },
+        {
+          "name": "百里香",
+          "quantity": 20
+        },
+        {
+          "name": "火焰之魂",
+          "quantity": 2
+        }
+      ],
+      "bonus": [
+        "攻擊+60~80",
+        "稱號：豐收的記號",
+        "耐久50/50"
+      ],
+      "recipe_source": "",
+      "shop_price": "400G"
+    },
+    {
+      "level": 9,
+      "level_code": "9b",
+      "name": "茴香環",
+      "craft_quantity": 1,
+      "weapon_type": "",
+      "materials": [
+        {
+          "name": "謝爾哈特礦條",
+          "quantity": 1
+        },
+        {
+          "name": "茴香",
+          "quantity": 20
+        },
+        {
+          "name": "杉",
+          "quantity": 20
+        },
+        {
+          "name": "鋼騎之礦",
+          "quantity": 2
+        }
+      ],
+      "bonus": [
+        "防禦+80~100",
+        "稱號：鎮定的人",
+        "耐久50/50"
+      ],
+      "recipe_source": "",
+      "shop_price": "400G"
+    },
+    {
+      "level": 10,
+      "level_code": "10a",
+      "name": "奇石步搖",
+      "craft_quantity": 1,
+      "weapon_type": "",
+      "materials": [
+        {
+          "name": "鈦礦石",
+          "quantity": 7
+        },
+        {
+          "name": "鋁條",
+          "quantity": 5
+        },
+        {
+          "name": "喜馬拉斯礦條",
+          "quantity": 1
+        },
+        {
+          "name": "梣",
+          "quantity": 20
+        },
+        {
+          "name": "鋼騎之礦",
+          "quantity": 2
+        }
+      ],
+      "bonus": [
+        "敏捷+40~60",
+        "稱號：帶來迷惑的人",
+        "耐久50/50"
+      ],
+      "recipe_source": "",
+      "shop_price": "450G"
+    },
+    {
+      "level": 10,
+      "level_code": "10b",
+      "name": "香柏環",
+      "craft_quantity": 1,
+      "weapon_type": "",
+      "materials": [
+        {
+          "name": "喜馬拉斯礦條",
+          "quantity": 1
+        },
+        {
+          "name": "絲柏",
+          "quantity": 20
+        },
+        {
+          "name": "七葉樹",
+          "quantity": 20
+        },
+        {
+          "name": "勒格耐席姆條",
+          "quantity": 1
+        }
+      ],
+      "bonus": [
+        "全抗性+10",
+        "稱號：抗性十足的人",
+        "耐久50/50"
+      ],
+      "recipe_source": "",
+      "shop_price": "450G"
+    },
+    {
+      "level": 11,
+      "level_code": "11a",
+      "name": "耶卡的護腕",
+      "craft_quantity": 1,
+      "weapon_type": "",
+      "materials": [
+        {
+          "name": "鈦礦石",
+          "quantity": 8
+        },
+        {
+          "name": "喜馬拉斯礦條",
+          "quantity": 1
+        },
+        {
+          "name": "梣",
+          "quantity": 20
+        },
+        {
+          "name": "幻想花",
+          "quantity": 20
+        },
+        {
+          "name": "克林姆礦條",
+          "quantity": 2
+        }
+      ],
+      "bonus": [
+        "抗魔+80~120",
+        "攻擊+20~30",
+        "必殺+4~7",
+        "命中+6~10",
+        "耐久",
+        "100~120"
+      ],
+      "recipe_source": "",
+      "shop_price": "500G"
+    },
+    {
+      "level": 11,
+      "level_code": "11b",
+      "name": "阿夏芙的首飾",
+      "craft_quantity": 1,
+      "weapon_type": "",
+      "materials": [
+        {
+          "name": "鋁條",
+          "quantity": 4
+        },
+        {
+          "name": "謝爾哈特礦條",
+          "quantity": 2
+        },
+        {
+          "name": "絲柏",
+          "quantity": 40
+        },
+        {
+          "name": "曼德拉草",
+          "quantity": 20
+        },
+        {
+          "name": "克林姆礦條",
+          "quantity": 2
+        }
+      ],
+      "bonus": [
+        "生命+100~150",
+        "防禦+20~30",
+        "敏捷+40~50",
+        "閃躲+4~8",
+        "命中+3",
+        "耐久",
+        "100~120"
+      ],
+      "recipe_source": "",
+      "shop_price": "500G"
+    },
+    {
+      "level": 11,
+      "level_code": "11c",
+      "name": "火靈之環",
+      "craft_quantity": 1,
+      "weapon_type": "",
+      "materials": [
+        {
+          "name": "火焰之魂",
+          "quantity": 2
+        },
+        {
+          "name": "魔族的水晶",
+          "quantity": 2
+        },
+        {
+          "name": "達馬斯礦條",
+          "quantity": 20
+        },
+        {
+          "name": "幻想花",
+          "quantity": 20
+        },
+        {
+          "name": "克林姆礦條",
+          "quantity": 3
+        }
+      ],
+      "bonus": [
+        "增加人物的經驗值",
+        "10%",
+        "攻擊力+30",
+        "魔攻+5",
+        "耐久",
+        "50/50"
+      ],
+      "recipe_source": "參照任務「惡夢鼠的煩惱」",
+      "shop_price": "500G"
+    },
+    {
+      "level": 11,
+      "level_code": "11d",
+      "name": "那克利的手環",
+      "craft_quantity": 1,
+      "weapon_type": "",
+      "materials": [
+        {
+          "name": "誓言之證",
+          "quantity": 5
+        },
+        {
+          "name": "鋁條",
+          "quantity": 10
+        },
+        {
+          "name": "妖草 的血",
+          "quantity": 1
+        },
+        {
+          "name": "幻想花",
+          "quantity": 40
+        },
+        {
+          "name": "克林姆礦條",
+          "quantity": 3
+        }
+      ],
+      "bonus": [
+        "增加寵物的經驗值",
+        "10%",
+        "攻擊力+30",
+        "魔攻+5",
+        "耐久",
+        "50/50"
+      ],
+      "recipe_source": "參照任務「惡夢鼠的煩惱」",
+      "shop_price": "500G"
+    }
+  ]
+}

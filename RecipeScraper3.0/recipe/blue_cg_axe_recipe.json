@@ -1,0 +1,883 @@
+{
+  "source_url": "https://gamerch.com/blue-cg/453303",
+  "page_title": "斧類製作",
+  "wiki": "水藍魔力攻略wiki",
+  "updated_at": "2025/09/01 22:48",
+  "author": "ゲストユーザー",
+  "last_editor": "Mizuei",
+  "category": "製作配方",
+  "note": "1.裝備修正值附加浮動值 -2~+2 2.11A斧頭攻擊調整為 +287~312；11B斧頭攻擊調整為 +340~379",
+  "recipes": [
+    {
+      "level": 1,
+      "level_code": "1a",
+      "name": "手斧",
+      "craft_quantity": 1,
+      "weapon_type": "單手武器",
+      "materials": [
+        {
+          "name": "銅條",
+          "quantity": 4
+        },
+        {
+          "name": "印度輕木",
+          "quantity": 20
+        }
+      ],
+      "bonus": [
+        "攻擊+15~+29",
+        "防禦-2",
+        "敏捷-5~-6",
+        "必殺+16~20"
+      ],
+      "recipe_source": "",
+      "shop_price": "220G"
+    },
+    {
+      "level": 1,
+      "level_code": "1b",
+      "name": "勇氣之斧",
+      "craft_quantity": 1,
+      "weapon_type": "單手武器",
+      "materials": [
+        {
+          "name": "銅條",
+          "quantity": 4
+        },
+        {
+          "name": "鐵條",
+          "quantity": 3
+        },
+        {
+          "name": "印度輕木",
+          "quantity": 20
+        }
+      ],
+      "bonus": [
+        "攻擊+22~+44",
+        "防禦-3",
+        "敏捷-7~-9",
+        "必殺+16~20"
+      ],
+      "recipe_source": "",
+      "shop_price": "370G"
+    },
+    {
+      "level": 2,
+      "level_code": "2a",
+      "name": "寬手斧",
+      "craft_quantity": 1,
+      "weapon_type": "單手武器",
+      "materials": [
+        {
+          "name": "銅條",
+          "quantity": 7
+        },
+        {
+          "name": "鐵條",
+          "quantity": 4
+        },
+        {
+          "name": "印度輕木",
+          "quantity": 20
+        },
+        {
+          "name": "樅",
+          "quantity": 20
+        }
+      ],
+      "bonus": [
+        "攻擊+32~+58",
+        "防禦-4",
+        "敏捷-10~-12",
+        "必殺+16~20"
+      ],
+      "recipe_source": "",
+      "shop_price": "470G"
+    },
+    {
+      "level": 2,
+      "level_code": "2b",
+      "name": "戰鬥手斧",
+      "craft_quantity": 1,
+      "weapon_type": "單手武器",
+      "materials": [
+        {
+          "name": "鐵條",
+          "quantity": 10
+        },
+        {
+          "name": "銀條",
+          "quantity": 5
+        },
+        {
+          "name": "印度輕木",
+          "quantity": 20
+        },
+        {
+          "name": "樅",
+          "quantity": 20
+        }
+      ],
+      "bonus": [
+        "攻擊+40~+73",
+        "防禦-5",
+        "敏捷-12~-15",
+        "必殺+16~20"
+      ],
+      "recipe_source": "",
+      "shop_price": "650G"
+    },
+    {
+      "level": 3,
+      "level_code": "3a",
+      "name": "格鬥手斧",
+      "craft_quantity": 1,
+      "weapon_type": "單手武器",
+      "materials": [
+        {
+          "name": "銅條",
+          "quantity": 9
+        },
+        {
+          "name": "鐵條",
+          "quantity": 5
+        },
+        {
+          "name": "銀條",
+          "quantity": 5
+        },
+        {
+          "name": "黃月木",
+          "quantity": 20
+        }
+      ],
+      "bonus": [
+        "攻擊+52~+87",
+        "防禦-6",
+        "敏捷-14~-18",
+        "必殺+16~20"
+      ],
+      "recipe_source": "",
+      "shop_price": "700G"
+    },
+    {
+      "level": 3,
+      "level_code": "3b",
+      "name": "鋼斧",
+      "craft_quantity": 1,
+      "weapon_type": "單手武器",
+      "materials": [
+        {
+          "name": "銅條",
+          "quantity": 10
+        },
+        {
+          "name": "鐵條",
+          "quantity": 9
+        },
+        {
+          "name": "純銀條",
+          "quantity": 4
+        },
+        {
+          "name": "黃月木",
+          "quantity": 20
+        }
+      ],
+      "bonus": [
+        "攻擊+61~+102",
+        "防禦-7",
+        "敏捷-17~-22",
+        "必殺+16~20"
+      ],
+      "recipe_source": "",
+      "shop_price": "800G"
+    },
+    {
+      "level": 4,
+      "level_code": "4a",
+      "name": "長戰斧",
+      "craft_quantity": 1,
+      "weapon_type": "單手武器",
+      "materials": [
+        {
+          "name": "銅條",
+          "quantity": 8
+        },
+        {
+          "name": "鐵條",
+          "quantity": 8
+        },
+        {
+          "name": "銀條",
+          "quantity": 7
+        },
+        {
+          "name": "純銀條",
+          "quantity": 3
+        },
+        {
+          "name": "鐵杉",
+          "quantity": 20
+        }
+      ],
+      "bonus": [
+        "攻擊+75~+116",
+        "防禦-8",
+        "敏捷-19~-25",
+        "必殺+16~20"
+      ],
+      "recipe_source": "",
+      "shop_price": "900G"
+    },
+    {
+      "level": 4,
+      "level_code": "4b",
+      "name": "雙刃斧",
+      "craft_quantity": 1,
+      "weapon_type": "單手武器",
+      "materials": [
+        {
+          "name": "鐵條",
+          "quantity": 10
+        },
+        {
+          "name": "銀條",
+          "quantity": 7
+        },
+        {
+          "name": "純銀條",
+          "quantity": 5
+        },
+        {
+          "name": "金條",
+          "quantity": 4
+        },
+        {
+          "name": "印度輕木",
+          "quantity": 20
+        }
+      ],
+      "bonus": [
+        "攻擊+85~+131",
+        "防禦-9",
+        "敏捷-16~-27",
+        "必殺+16~20"
+      ],
+      "recipe_source": "",
+      "shop_price": "1000G"
+    },
+    {
+      "level": 5,
+      "level_code": "5a",
+      "name": "鉤爪斧",
+      "craft_quantity": 1,
+      "weapon_type": "單手武器",
+      "materials": [
+        {
+          "name": "銀條",
+          "quantity": 10
+        },
+        {
+          "name": "純銀條",
+          "quantity": 10
+        },
+        {
+          "name": "金條",
+          "quantity": 5
+        },
+        {
+          "name": "樅",
+          "quantity": 20
+        },
+        {
+          "name": "琵琶木",
+          "quantity": 20
+        }
+      ],
+      "bonus": [
+        "攻擊+102~+145",
+        "防禦-10",
+        "敏捷-26~-30",
+        "必殺+16~20"
+      ],
+      "recipe_source": "",
+      "shop_price": "1400G"
+    },
+    {
+      "level": 5,
+      "level_code": "5b",
+      "name": "闊刃斧",
+      "craft_quantity": 1,
+      "weapon_type": "單手武器",
+      "materials": [
+        {
+          "name": "鐵條",
+          "quantity": 10
+        },
+        {
+          "name": "銀條",
+          "quantity": 10
+        },
+        {
+          "name": "純銀條",
+          "quantity": 10
+        },
+        {
+          "name": "白金條",
+          "quantity": 2
+        },
+        {
+          "name": "琵琶木",
+          "quantity": 20
+        }
+      ],
+      "bonus": [
+        "攻擊+112~+160",
+        "防禦-11",
+        "敏捷-26~-33",
+        "必殺+16~20"
+      ],
+      "recipe_source": "",
+      "shop_price": "1500G"
+    },
+    {
+      "level": 5,
+      "level_code": "5c",
+      "name": "鑽保雷格之斧",
+      "craft_quantity": 1,
+      "weapon_type": "雙手武器",
+      "materials": [
+        {
+          "name": "鐵條",
+          "quantity": 10
+        },
+        {
+          "name": "鋁條",
+          "quantity": 7
+        },
+        {
+          "name": "純銀條",
+          "quantity": 7
+        },
+        {
+          "name": "白金條",
+          "quantity": 2
+        },
+        {
+          "name": "琵琶木",
+          "quantity": 20
+        }
+      ],
+      "bonus": [],
+      "recipe_source": "參照任務「工匠的黑歷史」",
+      "shop_price": ""
+    },
+    {
+      "level": 6,
+      "level_code": "6a",
+      "name": "彎月大戰斧",
+      "craft_quantity": 1,
+      "weapon_type": "雙手武器",
+      "materials": [
+        {
+          "name": "純銀條",
+          "quantity": 10
+        },
+        {
+          "name": "金條",
+          "quantity": 10
+        },
+        {
+          "name": "白金條",
+          "quantity": 6
+        },
+        {
+          "name": "黃月木",
+          "quantity": 20
+        },
+        {
+          "name": "赤松",
+          "quantity": 20
+        }
+      ],
+      "bonus": [
+        "攻擊+131~+174",
+        "防禦-12",
+        "敏捷-30~-36",
+        "必殺+16~20"
+      ],
+      "recipe_source": "",
+      "shop_price": "1600G"
+    },
+    {
+      "level": 6,
+      "level_code": "6b",
+      "name": "大型闊刃斧",
+      "craft_quantity": 1,
+      "weapon_type": "雙手武器",
+      "materials": [
+        {
+          "name": "銀條",
+          "quantity": 8
+        },
+        {
+          "name": "純銀條",
+          "quantity": 10
+        },
+        {
+          "name": "金條",
+          "quantity": 10
+        },
+        {
+          "name": "幻之鋼條",
+          "quantity": 3
+        },
+        {
+          "name": "赤松",
+          "quantity": 20
+        }
+      ],
+      "bonus": [
+        "攻擊+142~+189",
+        "防禦-13",
+        "敏捷-33~-39",
+        "必殺+16~20"
+      ],
+      "recipe_source": "",
+      "shop_price": "1800G"
+    },
+    {
+      "level": 7,
+      "level_code": "7a",
+      "name": "大型雙刃斧",
+      "craft_quantity": 1,
+      "weapon_type": "雙手武器",
+      "materials": [
+        {
+          "name": "鐵條",
+          "quantity": 20
+        },
+        {
+          "name": "白金條",
+          "quantity": 12
+        },
+        {
+          "name": "幻之鋼條",
+          "quantity": 6
+        },
+        {
+          "name": "琵琶木",
+          "quantity": 20
+        },
+        {
+          "name": "赤松",
+          "quantity": 20
+        }
+      ],
+      "bonus": [
+        "攻擊+164~+220",
+        "防禦-15",
+        "敏捷-36~-42",
+        "必殺+16~20"
+      ],
+      "recipe_source": "",
+      "shop_price": "1900G"
+    },
+    {
+      "level": 7,
+      "level_code": "7b",
+      "name": "超大皇帝斧",
+      "craft_quantity": 1,
+      "weapon_type": "雙手武器",
+      "materials": [
+        {
+          "name": "純銀條",
+          "quantity": 20
+        },
+        {
+          "name": "白金條",
+          "quantity": 10
+        },
+        {
+          "name": "幻之鋼條",
+          "quantity": 10
+        },
+        {
+          "name": "朴",
+          "quantity": 20
+        },
+        {
+          "name": "誓言之證",
+          "quantity": 1
+        }
+      ],
+      "bonus": [
+        "攻擊+120~+145",
+        "防禦-14",
+        "敏捷-34~-40",
+        "必殺+34~38"
+      ],
+      "recipe_source": "",
+      "shop_price": "2000G"
+    },
+    {
+      "level": 7,
+      "level_code": "7c",
+      "name": "水龍之斧",
+      "craft_quantity": 1,
+      "weapon_type": "雙手武器",
+      "materials": [
+        {
+          "name": "生鏽的斧",
+          "quantity": 1
+        },
+        {
+          "name": "鋼騎之礦",
+          "quantity": 2
+        },
+        {
+          "name": "魔族的水晶",
+          "quantity": 2
+        },
+        {
+          "name": "幻之鋼條",
+          "quantity": 20
+        }
+      ],
+      "bonus": [],
+      "recipe_source": "參照任務「時波之祠」",
+      "shop_price": ""
+    },
+    {
+      "level": 8,
+      "level_code": "8a",
+      "name": "新月斧",
+      "craft_quantity": 1,
+      "weapon_type": "雙手武器",
+      "materials": [
+        {
+          "name": "金條",
+          "quantity": 13
+        },
+        {
+          "name": "白金條",
+          "quantity": 10
+        },
+        {
+          "name": "幻之銀條",
+          "quantity": 10
+        },
+        {
+          "name": "赤松",
+          "quantity": 20
+        },
+        {
+          "name": "朴",
+          "quantity": 20
+        }
+      ],
+      "bonus": [
+        "攻擊+174~+232",
+        "防禦-16",
+        "敏捷-40~-48",
+        "必殺+16~20"
+      ],
+      "recipe_source": "",
+      "shop_price": "2000G"
+    },
+    {
+      "level": 8,
+      "level_code": "8b",
+      "name": "米諾陶斯戰斧",
+      "craft_quantity": 1,
+      "weapon_type": "雙手武器",
+      "materials": [
+        {
+          "name": "純銀條",
+          "quantity": 10
+        },
+        {
+          "name": "幻之鋼條",
+          "quantity": 10
+        },
+        {
+          "name": "幻之銀條",
+          "quantity": 10
+        },
+        {
+          "name": "杉",
+          "quantity": 20
+        },
+        {
+          "name": "魔族的水晶",
+          "quantity": 1
+        }
+      ],
+      "bonus": [
+        "攻擊+200~+245",
+        "防禦-70",
+        "必殺+16~20"
+      ],
+      "recipe_source": "",
+      "shop_price": "2200G"
+    },
+    {
+      "level": 8,
+      "level_code": "8c",
+      "name": "大型雙刃斧+",
+      "craft_quantity": 1,
+      "weapon_type": "雙手武器",
+      "materials": [
+        {
+          "name": "幻之鋼條",
+          "quantity": 20
+        },
+        {
+          "name": "幻之銀條",
+          "quantity": 12
+        },
+        {
+          "name": "杉",
+          "quantity": 20
+        },
+        {
+          "name": "永久冰石",
+          "quantity": 20
+        },
+        {
+          "name": "藍龍之鱗",
+          "quantity": 20
+        }
+      ],
+      "bonus": [],
+      "recipe_source": "參照任務「生產系升階III」",
+      "shop_price": ""
+    },
+    {
+      "level": 9,
+      "level_code": "9a",
+      "name": "薄刃鉤爪斧",
+      "craft_quantity": 1,
+      "weapon_type": "雙手武器",
+      "materials": [
+        {
+          "name": "白金條",
+          "quantity": 10
+        },
+        {
+          "name": "幻之鋼條",
+          "quantity": 10
+        },
+        {
+          "name": "勒格耐席姆條",
+          "quantity": 10
+        },
+        {
+          "name": "朴",
+          "quantity": 20
+        },
+        {
+          "name": "杉",
+          "quantity": 20
+        }
+      ],
+      "bonus": [
+        "攻擊+221~+276",
+        "防禦-19",
+        "敏捷-46~-57",
+        "必殺+16~20"
+      ],
+      "recipe_source": "",
+      "shop_price": "3500G"
+    },
+    {
+      "level": 9,
+      "level_code": "9b",
+      "name": "彎月長柄斧",
+      "craft_quantity": 1,
+      "weapon_type": "雙手武器",
+      "materials": [
+        {
+          "name": "金條",
+          "quantity": 10
+        },
+        {
+          "name": "幻之銀條",
+          "quantity": 10
+        },
+        {
+          "name": "勒格耐席姆條",
+          "quantity": 10
+        },
+        {
+          "name": "絲柏",
+          "quantity": 20
+        },
+        {
+          "name": "誓言之證",
+          "quantity": 2
+        }
+      ],
+      "bonus": [
+        "攻擊+221~+276",
+        "防禦-29",
+        "敏捷-50~-51",
+        "必殺+19~23",
+        "乾坤一擲",
+        "所需消耗魔力減少15%"
+      ],
+      "recipe_source": "",
+      "shop_price": "4000G"
+    },
+    {
+      "level": 10,
+      "level_code": "10a",
+      "name": "金屬重斧",
+      "craft_quantity": 1,
+      "weapon_type": "雙手武器",
+      "materials": [
+        {
+          "name": "幻之鋼條",
+          "quantity": 10
+        },
+        {
+          "name": "幻之銀條",
+          "quantity": 10
+        },
+        {
+          "name": "奧利哈鋼條",
+          "quantity": 8
+        },
+        {
+          "name": "杉",
+          "quantity": 20
+        },
+        {
+          "name": "絲柏",
+          "quantity": 20
+        }
+      ],
+      "bonus": [
+        "攻擊+259~+305",
+        "防禦-21",
+        "敏捷-54~-63",
+        "必殺+16~20"
+      ],
+      "recipe_source": "",
+      "shop_price": "5500G"
+    },
+    {
+      "level": 10,
+      "level_code": "10b",
+      "name": "處刑斧",
+      "craft_quantity": 1,
+      "weapon_type": "雙手武器",
+      "materials": [
+        {
+          "name": "奧利哈鋼條",
+          "quantity": 14
+        },
+        {
+          "name": "梣",
+          "quantity": 20
+        },
+        {
+          "name": "鋼騎之礦",
+          "quantity": 2
+        },
+        {
+          "name": "魔族的水晶",
+          "quantity": 2
+        },
+        {
+          "name": "誓言之證",
+          "quantity": 2
+        }
+      ],
+      "bonus": [
+        "攻擊+305~+310",
+        "防禦-40",
+        "敏捷-70",
+        "必殺+16~20",
+        "乾坤一擲",
+        "所需消耗魔力減少20%"
+      ],
+      "recipe_source": "",
+      "shop_price": "6500G"
+    },
+    {
+      "level": 11,
+      "level_code": "11a",
+      "name": "高速斧",
+      "craft_quantity": 1,
+      "weapon_type": "單手武器",
+      "materials": [
+        {
+          "name": "達馬斯礦條",
+          "quantity": 8
+        },
+        {
+          "name": "幻之銀條",
+          "quantity": 8
+        },
+        {
+          "name": "勒格耐席姆條",
+          "quantity": 6
+        },
+        {
+          "name": "梣",
+          "quantity": 40
+        },
+        {
+          "name": "鋼騎之礦",
+          "quantity": 2
+        }
+      ],
+      "bonus": [
+        "攻擊+287~312",
+        "必殺+10~14"
+      ],
+      "recipe_source": "",
+      "shop_price": "未列出"
+    },
+    {
+      "level": 11,
+      "level_code": "11b",
+      "name": "重擊斧",
+      "craft_quantity": 1,
+      "weapon_type": "雙手武器",
+      "materials": [
+        {
+          "name": "達馬斯礦條",
+          "quantity": 3
+        },
+        {
+          "name": "幻之銀條",
+          "quantity": 10
+        },
+        {
+          "name": "幻之鋼條",
+          "quantity": 9
+        },
+        {
+          "name": "梣",
+          "quantity": 40
+        },
+        {
+          "name": "魔族的水晶",
+          "quantity": 2
+        }
+      ],
+      "bonus": [
+        "攻擊+340~379",
+        "防禦-21",
+        "敏捷-72~-80",
+        "必殺+34~38"
+      ],
+      "recipe_source": "",
+      "shop_price": "7500G"
+    }
+  ]
+}

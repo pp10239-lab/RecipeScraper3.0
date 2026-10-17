@@ -1,0 +1,288 @@
+{
+  "source_url": "https://gamerch.com/blue-cg/453257",
+  "page_title": "療傷藥製作",
+  "wiki": "水藍魔力攻略wiki",
+  "updated_at": "2025/09/01 22:48",
+  "author": "ゲストユーザー",
+  "last_editor": "Mizuei",
+  "category": "製作配方",
+  "note": "挖掘情報 狩獵情報 伐木情報 剪取情報 販售布料NPC 釣魚情報",
+  "recipes": [
+    {
+      "level": 1,
+      "level_code": "1a",
+      "name": "一級療傷藥",
+      "craft_quantity": 1,
+      "weapon_type": "",
+      "materials": [
+        {
+          "name": "印度輕木",
+          "quantity": 10
+        },
+        {
+          "name": "蘋果薄荷",
+          "quantity": 10
+        },
+        {
+          "name": "檸檬草",
+          "quantity": 1
+        }
+      ],
+      "bonus": [
+        "能回復傷勢值3點"
+      ],
+      "recipe_source": "",
+      "shop_price": "150G"
+    },
+    {
+      "level": 2,
+      "level_code": "2a",
+      "name": "二級療傷藥",
+      "craft_quantity": 1,
+      "weapon_type": "",
+      "materials": [
+        {
+          "name": "印度輕木",
+          "quantity": 10
+        },
+        {
+          "name": "蘋果薄荷",
+          "quantity": 10
+        },
+        {
+          "name": "檸檬草",
+          "quantity": 10
+        }
+      ],
+      "bonus": [
+        "能回復傷勢值6點"
+      ],
+      "recipe_source": "",
+      "shop_price": "250G"
+    },
+    {
+      "level": 3,
+      "level_code": "3a",
+      "name": "三級療傷藥",
+      "craft_quantity": 1,
+      "weapon_type": "",
+      "materials": [
+        {
+          "name": "樅",
+          "quantity": 10
+        },
+        {
+          "name": "蘋果薄荷",
+          "quantity": 10
+        },
+        {
+          "name": "檸檬草",
+          "quantity": 10
+        },
+        {
+          "name": "蝴蝶花",
+          "quantity": 5
+        }
+      ],
+      "bonus": [
+        "能回復傷勢值10點"
+      ],
+      "recipe_source": "",
+      "shop_price": "375G"
+    },
+    {
+      "level": 4,
+      "level_code": "4a",
+      "name": "四級療傷藥",
+      "craft_quantity": 1,
+      "weapon_type": "",
+      "materials": [
+        {
+          "name": "樅",
+          "quantity": 10
+        },
+        {
+          "name": "蝴蝶花",
+          "quantity": 15
+        },
+        {
+          "name": "果梨",
+          "quantity": 10
+        }
+      ],
+      "bonus": [
+        "能回復傷勢值13點"
+      ],
+      "recipe_source": "",
+      "shop_price": "500G"
+    },
+    {
+      "level": 5,
+      "level_code": "5a",
+      "name": "五級療傷藥",
+      "craft_quantity": 1,
+      "weapon_type": "",
+      "materials": [
+        {
+          "name": "黃月木",
+          "quantity": 20
+        },
+        {
+          "name": "果梨",
+          "quantity": 15
+        },
+        {
+          "name": "桃木",
+          "quantity": 10
+        }
+      ],
+      "bonus": [
+        "能回復傷勢值16點"
+      ],
+      "recipe_source": "",
+      "shop_price": "625G"
+    },
+    {
+      "level": 6,
+      "level_code": "6a",
+      "name": "六級療傷藥",
+      "craft_quantity": 1,
+      "weapon_type": "",
+      "materials": [
+        {
+          "name": "鐵杉",
+          "quantity": 20
+        },
+        {
+          "name": "桃木",
+          "quantity": 15
+        },
+        {
+          "name": "番紅花",
+          "quantity": 15
+        }
+      ],
+      "bonus": [
+        "能回復傷勢值20點"
+      ],
+      "recipe_source": "",
+      "shop_price": "750G"
+    },
+    {
+      "level": 7,
+      "level_code": "7a",
+      "name": "七級療傷藥",
+      "craft_quantity": 1,
+      "weapon_type": "",
+      "materials": [
+        {
+          "name": "琵琶木",
+          "quantity": 20
+        },
+        {
+          "name": "番紅花",
+          "quantity": 15
+        },
+        {
+          "name": "百里香",
+          "quantity": 15
+        }
+      ],
+      "bonus": [
+        "能回復傷勢值23點"
+      ],
+      "recipe_source": "",
+      "shop_price": "1000G"
+    },
+    {
+      "level": 8,
+      "level_code": "8a",
+      "name": "八級療傷藥",
+      "craft_quantity": 1,
+      "weapon_type": "",
+      "materials": [
+        {
+          "name": "赤松",
+          "quantity": 15
+        },
+        {
+          "name": "番紅花",
+          "quantity": 15
+        },
+        {
+          "name": "百里香",
+          "quantity": 15
+        },
+        {
+          "name": "瞿麥",
+          "quantity": 15
+        }
+      ],
+      "bonus": [
+        "能回復傷勢值26點"
+      ],
+      "recipe_source": "",
+      "shop_price": "1250G"
+    },
+    {
+      "level": 9,
+      "level_code": "9a",
+      "name": "九級療傷藥",
+      "craft_quantity": 1,
+      "weapon_type": "",
+      "materials": [
+        {
+          "name": "朴",
+          "quantity": 15
+        },
+        {
+          "name": "百里香",
+          "quantity": 15
+        },
+        {
+          "name": "瞿麥",
+          "quantity": 15
+        },
+        {
+          "name": "茴香",
+          "quantity": 10
+        }
+      ],
+      "bonus": [
+        "能回復傷勢值30點"
+      ],
+      "recipe_source": "",
+      "shop_price": "1500G"
+    },
+    {
+      "level": 10,
+      "level_code": "10a",
+      "name": "頂級療傷藥",
+      "craft_quantity": 1,
+      "weapon_type": "",
+      "materials": [
+        {
+          "name": "杉",
+          "quantity": 15
+        },
+        {
+          "name": "瞿麥",
+          "quantity": 15
+        },
+        {
+          "name": "茴香",
+          "quantity": 10
+        },
+        {
+          "name": "七葉樹",
+          "quantity": 10
+        }
+      ],
+      "bonus": [
+        "能回復傷勢值35點"
+      ],
+      "recipe_source": "",
+      "shop_price": "2000G"
+    }
+  ]
+}

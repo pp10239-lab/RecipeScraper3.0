@@ -1,0 +1,116 @@
+<!doctype html>
+<html lang="zh-Hant">
+  <head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="theme-color" content="#f5f7f2">
+    <title>水藍魔力配方計算器</title>
+    <link rel="stylesheet" href="./styles.css">
+    <script type="module" src="./app.js"></script>
+  </head>
+  <body>
+    <div class="app-shell">
+      <header class="site-header">
+        <a class="brand" href="./" aria-label="水藍魔力配方計算器首頁">
+          <span class="brand-mark" aria-hidden="true">水</span>
+          <span>
+            <strong>水藍魔力</strong>
+            <small>配方計算器</small>
+          </span>
+        </a>
+        <span class="header-note">規劃配方 · 整理材料 · 試算成本</span>
+      </header>
+
+      <main>
+        <section class="intro">
+          <p class="eyebrow">CRAFTING PLANNER</p>
+          <h1>做好準備，再開始製作。</h1>
+          <p>加入多個想製作的道具，自動合併素材需求；設定素材單價後，也能估算總成本。</p>
+        </section>
+
+        <div id="app-error" class="notice notice-error" role="alert" hidden></div>
+        <div id="app-status" class="notice" role="status" hidden></div>
+
+        <nav class="tabs" aria-label="計算器功能">
+          <button class="tab-button is-active" type="button" data-tab="planner">配方清單</button>
+          <button class="tab-button" type="button" data-tab="prices">素材單價</button>
+        </nav>
+
+        <section id="planner-panel" class="tab-panel">
+          <div class="panel-heading">
+            <div>
+              <p class="eyebrow">01 / RECIPES</p>
+              <h2>選擇要製作的道具</h2>
+            </div>
+            <span id="recipe-count" class="subtle"></span>
+          </div>
+
+          <div class="add-recipe-card">
+            <label class="field">
+              <span>配方類別</span>
+              <select id="category-select"></select>
+            </label>
+            <label class="field recipe-field">
+              <span>道具</span>
+              <select id="recipe-select"></select>
+            </label>
+            <label class="field quantity-field">
+              <span>目標數量</span>
+              <input id="target-quantity" type="number" min="1" step="1" value="1" inputmode="numeric">
+            </label>
+            <button id="add-recipe" class="button button-primary" type="button">加入清單 <span aria-hidden="true">＋</span></button>
+          </div>
+
+          <div class="section-heading">
+            <h3>製作清單</h3>
+            <div class="list-tools">
+              <label class="grouping-control">
+                <span>顯示方式</span>
+                <select id="recipe-grouping" aria-label="製作清單顯示方式">
+                  <option value="order">加入順序</option>
+                  <option value="category">依道具種類分組</option>
+                </select>
+              </label>
+              <button id="clear-recipes" class="button button-quiet" type="button">清空</button>
+            </div>
+          </div>
+          <div id="selected-recipes" class="selected-recipes"></div>
+
+          <section class="summary-section" aria-labelledby="materials-heading">
+            <div class="panel-heading summary-heading">
+              <div>
+                <p class="eyebrow">02 / SHOPPING LIST</p>
+                <h2 id="materials-heading">素材需求與成本</h2>
+              </div>
+              <a class="text-link" href="#prices" data-open-tab="prices">設定素材單價 <span aria-hidden="true">↗</span></a>
+            </div>
+            <div id="summary-cards" class="summary-cards"></div>
+            <div id="materials-table-wrap" class="table-wrap"></div>
+            <p class="footnote">成本依你設定的單件素材單價試算；未設定價格的素材會標示為「未設定」，不會假裝成零成本。配方有批次產量時，素材依需製作的批次數計算。</p>
+          </section>
+        </section>
+
+        <section id="prices-panel" class="tab-panel" hidden>
+          <div class="panel-heading">
+            <div>
+              <p class="eyebrow">MATERIAL PRICE BOOK</p>
+              <h2 id="prices">設定素材單價</h2>
+              <p class="panel-description">輸入每個素材的單件成本，設定會儲存在目前瀏覽器中。</p>
+            </div>
+            <button id="export-prices" class="button button-secondary" type="button">匯出單價備份</button>
+          </div>
+          <label class="search-field">
+            <span class="visually-hidden">搜尋素材</span>
+            <span class="search-icon" aria-hidden="true">⌕</span>
+            <input id="material-search" type="search" placeholder="搜尋素材名稱或分類">
+          </label>
+          <div id="price-count" class="subtle price-count"></div>
+          <div id="price-table-wrap" class="table-wrap"></div>
+          <p class="footnote">單價留空代表尚未設定。這裡的成本設定不會修改來源 JSON；清除瀏覽器網站資料會移除已儲存的單價，建議定期匯出備份。</p>
+        </section>
+      </main>
+
+      <footer class="site-footer">配方與素材資料來自專案中的 JSON 檔案。</footer>
+    </div>
+  </body>
+</html>

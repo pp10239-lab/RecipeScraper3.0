@@ -1,0 +1,566 @@
+{
+  "source_url": "https://gamerch.com/blue-cg/452884",
+  "page_title": "挖掘情報",
+  "wiki": "水藍魔力攻略wiki",
+  "updated_at": "2025/11/06 07:56",
+  "author": "ゲストユーザー",
+  "last_editor": "Mizuei",
+  "category": "採集情報",
+  "note": "1.一鍵壓條NPC",
+  "collection_info": [
+    {
+      "label": "技能學習地點",
+      "value": "法蘭城 基爾的家(200,132)"
+    },
+    {
+      "label": "可壓條地點",
+      "value": "法蘭城 米克爾工房(106,61)、 艾夏島 武器工房(144,120)、 阿凱魯法村 阿凱魯法工房(157,208) 哥拉爾鎮 工房(150.132)"
+    },
+    {
+      "label": "一鍵壓條",
+      "value": "2023.03.28開放 1. 法蘭城 米克爾工房(106,61)內(24.11)處 2. 阿凱魯法村 阿凱魯法工房(157,208)內(9.11)處 3. 哥拉爾鎮 工房(150.132)內(23.24)處"
+    }
+  ],
+  "resources": [
+    {
+      "level": 1,
+      "name": "銅條",
+      "category": "礦石",
+      "locations": "國營第24坑道 B1~B2 布拉基姆高地 (72,206) 蓋雷布倫森林 (199,211)(混鐵)",
+      "recommended_locations": "國營第24坑道 地下1樓門口附近",
+      "prices": [
+        {
+          "quantity": 20,
+          "unit": "個",
+          "price": "28G"
+        },
+        {
+          "quantity": 20,
+          "unit": "條",
+          "price": "560G"
+        }
+      ],
+      "stack_size": "",
+      "stackability": "",
+      "uses": "",
+      "processing_outputs": [],
+      "details": [],
+      "raw_ore": "銅"
+    },
+    {
+      "level": 1,
+      "name": "碎石頭",
+      "category": "礦石",
+      "locations": "國營第24坑道 B1~B2",
+      "recommended_locations": "國營第24坑道 B1~B2 ※僅有 挖掘 體驗能 挖掘 到",
+      "prices": [
+        {
+          "quantity": 20,
+          "unit": "個",
+          "price": "22G"
+        },
+        {
+          "quantity": 20,
+          "unit": "條",
+          "price": "X"
+        }
+      ],
+      "stack_size": "",
+      "stackability": "",
+      "uses": "",
+      "processing_outputs": [],
+      "details": []
+    },
+    {
+      "level": 2,
+      "name": "鐵條",
+      "category": "礦石",
+      "locations": "國營第24坑道 地下1樓(16.12) 國營第24坑道 地下2樓全域(混合銅) 國營第24坑道 地下4樓(33.31)附近(東北) 哈巴魯東邊洞穴 地下2樓(48.10)附近 維諾亞洞窟 ( 法蘭城 側)樓梯附近 伊利斯礦山 (米諾基亞村側)入口附近 布拉基姆高地 (72.183)",
+      "recommended_locations": "國營第24坑道 地下4樓(33.31)附近(東北) ※僅有 礦工 能進入 維諾亞洞窟 ( 法蘭城 側)樓梯附近",
+      "prices": [
+        {
+          "quantity": 20,
+          "unit": "個",
+          "price": "36G"
+        },
+        {
+          "quantity": 20,
+          "unit": "條",
+          "price": "720G"
+        }
+      ],
+      "stack_size": "",
+      "stackability": "",
+      "uses": "",
+      "processing_outputs": [],
+      "details": [],
+      "raw_ore": "鐵"
+    },
+    {
+      "level": 3,
+      "name": "銀條",
+      "category": "礦石",
+      "locations": "國營第24坑道 地下4樓(27.21)附近(西北) 哈巴魯東邊洞穴 地下2樓(47.10)附近 國營第24坑道 地下2樓(11.7)、(5.30)、(33.6)(混合銅鐵) 維諾亞洞窟 地下2樓(35.21) 崩壞的入口地下1樓全域",
+      "recommended_locations": "國營第24坑道 地下4樓(27.21)附近(西北) ※僅有 礦工 能進入 維諾亞洞窟 地下2樓(35.21)",
+      "prices": [
+        {
+          "quantity": 20,
+          "unit": "個",
+          "price": "41G"
+        },
+        {
+          "quantity": 20,
+          "unit": "條",
+          "price": "820G"
+        }
+      ],
+      "stack_size": "",
+      "stackability": "",
+      "uses": "",
+      "processing_outputs": [],
+      "details": [],
+      "raw_ore": "銀"
+    },
+    {
+      "level": 3,
+      "name": "鋁條",
+      "category": "礦石",
+      "locations": "黑歷史之石洞 1樓(163.191) 通往 摩頓村 的 通道 (24.7)",
+      "recommended_locations": "通往 摩頓村 的 通道 (24.7) ※僅能在 艾夏島 與 法蘭城 工房壓條",
+      "prices": [
+        {
+          "quantity": 20,
+          "unit": "個",
+          "price": "28G"
+        },
+        {
+          "quantity": 20,
+          "unit": "條",
+          "price": "560G"
+        }
+      ],
+      "stack_size": "",
+      "stackability": "",
+      "uses": "",
+      "processing_outputs": [],
+      "details": [],
+      "raw_ore": "鋁"
+    },
+    {
+      "level": 4,
+      "name": "純銀條",
+      "category": "礦石",
+      "locations": "維諾亞洞窟 地下1樓(48.66)(法蘭側)附近 維諾亞洞窟 地下1樓(50.56)(法蘭側)(鐵) 維諾亞洞窟 地下2樓(28.53)(銀) 維諾亞洞窟 的小路(47.53) 國營第24坑道 2樓(19.3)(銅鐵) 國營第24坑道 2樓(34.4)(5.5)(銅鐵銀) 哈巴魯東邊洞穴 地下1樓(亞村側)(17.6)(14.15) 崩壞的入口地下2樓全域 布拉基姆高地 (267,301)",
+      "recommended_locations": "維諾亞洞窟 地下1樓(48.66)(法蘭側)附近 布拉基姆高地 (267,301)",
+      "prices": [
+        {
+          "quantity": 20,
+          "unit": "個",
+          "price": "48G"
+        },
+        {
+          "quantity": 20,
+          "unit": "條",
+          "price": "960G"
+        }
+      ],
+      "stack_size": "",
+      "stackability": "",
+      "uses": "",
+      "processing_outputs": [],
+      "details": [],
+      "raw_ore": "純銀"
+    },
+    {
+      "level": 5,
+      "name": "金條",
+      "category": "礦石",
+      "locations": "維諾亞洞窟 地下1樓(53.9) 維諾亞洞窟 地下1樓(50.10)(混合鐵) 維諾亞洞窟 地下2樓(61.40)(混合銀) 維諾亞洞窟 小路(20.37)附近 莎蓮娜海底洞窟 進去的樓梯(芙蕾亞側) 莎蓮娜海底洞窟 地下1樓(14.41)( 傑諾瓦鎮 側) 布拉基姆高地 (261,255) 哈巴魯東邊洞穴 地下1樓(42.10)( 亞留特村 側) 伊利斯礦山 (28.72)附近(米諾基亞村側)",
+      "recommended_locations": "維諾亞洞窟 地下1樓(53.9) 莎蓮娜海底洞窟 地下1樓(14.41)( 傑諾瓦鎮 側) 布拉基姆高地 (261,255)",
+      "prices": [
+        {
+          "quantity": 20,
+          "unit": "個",
+          "price": "58G"
+        },
+        {
+          "quantity": 20,
+          "unit": "條",
+          "price": "1160G"
+        }
+      ],
+      "stack_size": "",
+      "stackability": "",
+      "uses": "",
+      "processing_outputs": [],
+      "details": [],
+      "raw_ore": "金"
+    },
+    {
+      "level": 5,
+      "name": "鈦礦石",
+      "category": "礦石",
+      "locations": "維諾亞海底洞窟 地下2F全域",
+      "recommended_locations": "維諾亞海底洞窟 地下2F全域 任務「 月亮俱樂部 」相關",
+      "prices": [
+        {
+          "quantity": 20,
+          "unit": "個",
+          "price": "58G"
+        },
+        {
+          "quantity": 20,
+          "unit": "條",
+          "price": "Ｘ"
+        }
+      ],
+      "stack_size": "",
+      "stackability": "",
+      "uses": "",
+      "processing_outputs": [],
+      "details": []
+    },
+    {
+      "level": 6,
+      "name": "白金條",
+      "category": "礦石",
+      "locations": "維諾亞洞窟 地下1樓(8.69)附近( 法蘭城 側) * 任意鑰匙 傳送點 莎蓮娜海底洞窟 地下1樓(24.10)( 傑諾瓦鎮 側)",
+      "recommended_locations": "莎蓮娜海底洞窟 地下1樓(24.10)( 傑諾瓦鎮 側)",
+      "prices": [
+        {
+          "quantity": 20,
+          "unit": "個",
+          "price": "73G"
+        },
+        {
+          "quantity": 20,
+          "unit": "條",
+          "price": "1460G"
+        }
+      ],
+      "stack_size": "",
+      "stackability": "",
+      "uses": "",
+      "processing_outputs": [],
+      "details": [],
+      "raw_ore": "白金"
+    },
+    {
+      "level": 6,
+      "name": "鋼騎之礦",
+      "category": "礦石",
+      "locations": "海賊的礦山全域 * 任意鑰匙 傳送點",
+      "recommended_locations": "海賊的礦山全域 ※請參照任務「 海賊的洞窟 」",
+      "prices": [
+        {
+          "quantity": 5,
+          "unit": "個",
+          "price": "2000G"
+        },
+        {
+          "quantity": 20,
+          "unit": "條",
+          "price": "X"
+        }
+      ],
+      "stack_size": "",
+      "stackability": "",
+      "uses": "",
+      "processing_outputs": [],
+      "details": []
+    },
+    {
+      "level": 7,
+      "name": "幻之鋼條",
+      "category": "礦石",
+      "locations": "莎蓮娜海底洞窟 地下2樓(45.53)附近 * 任意鑰匙 傳送點 索奇亞海底洞窟 地下2樓(22.16) 如走到(21.16)會混白金 青龍的洞窟 B2(9,51) 布拉基姆高地 (189,130)(幻之銀) 伊利斯礦山 大坑道(64.60)",
+      "recommended_locations": "莎蓮娜海底洞窟 地下2樓(45.53)附近 伊利斯礦山 大坑道(64.60)",
+      "prices": [
+        {
+          "quantity": 20,
+          "unit": "個",
+          "price": "98G"
+        },
+        {
+          "quantity": 20,
+          "unit": "條",
+          "price": "1960G"
+        }
+      ],
+      "stack_size": "",
+      "stackability": "",
+      "uses": "",
+      "processing_outputs": [],
+      "details": [],
+      "raw_ore": "幻之鋼"
+    },
+    {
+      "level": 8,
+      "name": "幻之銀條",
+      "category": "礦石",
+      "locations": "莎蓮娜海底洞窟 地下2樓(19.7) * 任意鑰匙 傳送點 青龍的洞窟 地下1樓(60.47) 伊利斯礦山 大坑道(15.103)",
+      "recommended_locations": "莎蓮娜海底洞窟 地下2樓(19.7) 伊利斯礦山 大坑道(15.103)",
+      "prices": [
+        {
+          "quantity": 20,
+          "unit": "個",
+          "price": "147G"
+        },
+        {
+          "quantity": 20,
+          "unit": "條",
+          "price": "2940G"
+        }
+      ],
+      "stack_size": "",
+      "stackability": "",
+      "uses": "",
+      "processing_outputs": [],
+      "details": [],
+      "raw_ore": "幻之銀"
+    },
+    {
+      "level": 8,
+      "name": "永久冰石",
+      "category": "礦石",
+      "locations": "青龍的洞窟 地下2樓西北區 青龍的洞窟 地下2樓22.24 * 任意鑰匙 傳送點",
+      "recommended_locations": "青龍的洞窟 地下2樓西北區 不可壓條，任務「 彩葉草之戀 」相關",
+      "prices": [
+        {
+          "quantity": 20,
+          "unit": "個",
+          "price": "100G"
+        },
+        {
+          "quantity": 20,
+          "unit": "條",
+          "price": "Ｘ"
+        }
+      ],
+      "stack_size": "",
+      "stackability": "",
+      "uses": "",
+      "processing_outputs": [],
+      "details": []
+    },
+    {
+      "level": 8,
+      "name": "藍龍之鱗",
+      "category": "礦石",
+      "locations": "青龍的洞窟 (106,54)最上層的青龍之巢(63,36) * 任意鑰匙 傳送點",
+      "recommended_locations": "青龍的洞窟 (106,54)最上層的青龍之巢(63,36) 任務「 生產系升階III 」相關",
+      "prices": [
+        {
+          "quantity": 20,
+          "unit": "個",
+          "price": "100G"
+        },
+        {
+          "quantity": 20,
+          "unit": "條",
+          "price": "Ｘ"
+        }
+      ],
+      "stack_size": "",
+      "stackability": "",
+      "uses": "",
+      "processing_outputs": [],
+      "details": []
+    },
+    {
+      "level": 8,
+      "name": "達馬斯礦條",
+      "category": "礦石",
+      "locations": "南恰拉山 第一 通道 (9.33) 伊利斯礦山 大坑道(米村側)(78.35) 伊利斯礦山 大坑道(147.137)(45.118) 伊利斯礦山 大坑道(40.120) * 任意鑰匙 傳送點",
+      "recommended_locations": "南恰拉山 第一 通道 (9.33) 伊利斯礦山 大坑道(41.120) ※僅能在阿凱魯法與哥拉爾工房壓條",
+      "prices": [
+        {
+          "quantity": 20,
+          "unit": "個",
+          "price": "147G"
+        },
+        {
+          "quantity": 20,
+          "unit": "條",
+          "price": "2940G"
+        }
+      ],
+      "stack_size": "",
+      "stackability": "",
+      "uses": "",
+      "processing_outputs": [],
+      "details": [],
+      "raw_ore": "達馬斯礦"
+    },
+    {
+      "level": 9,
+      "name": "勒格耐席姆條",
+      "category": "礦石",
+      "locations": "伊利斯礦山 大坑道(63.94) 莎蓮娜西邊洞窟 地下2樓(68.34) 莎蓮娜西邊洞窟 地下1樓(21.27)( 阿巴尼斯村 側)",
+      "recommended_locations": "莎蓮娜西邊洞窟 地下2樓(68.34) 伊利斯礦山 (63.94)",
+      "prices": [
+        {
+          "quantity": 20,
+          "unit": "個",
+          "price": "297G"
+        },
+        {
+          "quantity": 20,
+          "unit": "條",
+          "price": "5940G"
+        }
+      ],
+      "stack_size": "",
+      "stackability": "",
+      "uses": "",
+      "processing_outputs": [],
+      "details": [],
+      "raw_ore": "勒格耐錫姆礦"
+    },
+    {
+      "level": 9,
+      "name": "謝爾哈特礦條",
+      "category": "礦石",
+      "locations": "伊利斯礦山 大坑道(146,90) 海峽通道 地下一樓(34,38)附近( 坎那貝拉村 側)",
+      "recommended_locations": "海峽通道 地下一樓(34.38)附近( 坎那貝拉村 側) ※僅能在阿凱魯法與哥拉爾工房壓條",
+      "prices": [
+        {
+          "quantity": 20,
+          "unit": "個",
+          "price": "297G"
+        },
+        {
+          "quantity": 20,
+          "unit": "條",
+          "price": "5940G"
+        }
+      ],
+      "stack_size": "",
+      "stackability": "",
+      "uses": "",
+      "processing_outputs": [],
+      "details": [],
+      "raw_ore": "謝爾哈特礦"
+    },
+    {
+      "level": 10,
+      "name": "奧利哈鋼條",
+      "category": "礦石",
+      "locations": "莎蓮娜西邊洞窟 地下2樓(40.45) 伊利斯礦山 大坑道(80.138)",
+      "recommended_locations": "莎蓮娜西邊洞窟 地下2樓(40.45) 伊利斯礦山 大坑道 (80.138) ※產量較多 但路程較遠",
+      "prices": [
+        {
+          "quantity": 20,
+          "unit": "個",
+          "price": "600G"
+        },
+        {
+          "quantity": 20,
+          "unit": "條",
+          "price": "12000G"
+        }
+      ],
+      "stack_size": "",
+      "stackability": "",
+      "uses": "",
+      "processing_outputs": [],
+      "details": [],
+      "raw_ore": "奧利哈鋼"
+    },
+    {
+      "level": 10,
+      "name": "喜馬拉斯礦條",
+      "category": "礦石",
+      "locations": "伊利斯礦山 大坑道(118.125)",
+      "recommended_locations": "伊利斯礦山 大坑道(118.125) ※僅能在阿凱魯法與哥拉爾工房壓條",
+      "prices": [
+        {
+          "quantity": 20,
+          "unit": "個",
+          "price": "600G"
+        },
+        {
+          "quantity": 20,
+          "unit": "條",
+          "price": "12000G"
+        }
+      ],
+      "stack_size": "",
+      "stackability": "",
+      "uses": "",
+      "processing_outputs": [],
+      "details": [],
+      "raw_ore": "喜馬拉斯礦"
+    },
+    {
+      "level": 11,
+      "name": "克林姆礦條",
+      "category": "礦石",
+      "locations": "南恰拉山 第2通路最後一個地圖 (15.3 ~ 22.7) 伊利斯礦山 入口大坑道 (145.135 ~ 155.140)",
+      "recommended_locations": "伊利斯礦山 入口大坑道 (145.135 ~ 155.140) ※僅能在阿凱魯法工房與 哥拉爾鎮 工房壓條",
+      "prices": [
+        {
+          "quantity": 20,
+          "unit": "個",
+          "price": "700G"
+        },
+        {
+          "quantity": 20,
+          "unit": "條",
+          "price": "14000G"
+        }
+      ],
+      "stack_size": "",
+      "stackability": "",
+      "uses": "",
+      "processing_outputs": [],
+      "details": [],
+      "raw_ore": "克林姆礦"
+    },
+    {
+      "level": 1,
+      "name": "星之砂",
+      "category": "特殊 挖掘 物",
+      "locations": "哈那可半島 (92.246)(37,251)",
+      "recommended_locations": "",
+      "prices": [],
+      "stack_size": "",
+      "stackability": "",
+      "uses": "安產護身符",
+      "processing_outputs": [],
+      "details": []
+    },
+    {
+      "level": 3,
+      "name": "光之粉末",
+      "category": "特殊 挖掘 物",
+      "locations": "普雷德島 (493.605)",
+      "recommended_locations": "",
+      "prices": [],
+      "stack_size": "",
+      "stackability": "",
+      "uses": "能源探勘",
+      "processing_outputs": [],
+      "details": []
+    },
+    {
+      "level": 10,
+      "name": "太古的道具",
+      "category": "特殊 挖掘 物",
+      "locations": "芙蕾雅島 全域",
+      "recommended_locations": "",
+      "prices": [
+        {
+          "quantity": null,
+          "unit": "",
+          "price": "300G(不可堆疊)"
+        }
+      ],
+      "stack_size": "",
+      "stackability": "不可堆疊",
+      "uses": "寶石精煉",
+      "processing_outputs": [],
+      "details": []
+    }
+  ]
+}

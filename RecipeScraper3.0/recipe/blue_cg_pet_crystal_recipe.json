@@ -1,0 +1,301 @@
+{
+  "source_url": "https://gamerch.com/blue-cg/453587",
+  "page_title": "寵物晶石製作",
+  "wiki": "水藍魔力攻略wiki",
+  "updated_at": "2026/08/04 13:34",
+  "author": "ゲストユーザー",
+  "last_editor": "Mizuei",
+  "category": "製作配方",
+  "note": "",
+  "recipes": [
+    {
+      "level": 1,
+      "level_code": "1a",
+      "name": "眠塵晶石",
+      "craft_quantity": 1,
+      "weapon_type": "",
+      "materials": [
+        {
+          "name": "銅條",
+          "quantity": 20
+        },
+        {
+          "name": "蘋果薄荷",
+          "quantity": 20
+        }
+      ],
+      "bonus": [
+        "命中+1~2"
+      ],
+      "recipe_source": "",
+      "shop_price": "220G"
+    },
+    {
+      "level": 2,
+      "level_code": "2a",
+      "name": "幼芽晶石",
+      "craft_quantity": 1,
+      "weapon_type": "",
+      "materials": [
+        {
+          "name": "銅條",
+          "quantity": 20
+        },
+        {
+          "name": "蘋果薄荷",
+          "quantity": 15
+        },
+        {
+          "name": "檸檬草",
+          "quantity": 10
+        }
+      ],
+      "bonus": [
+        "反擊+1~2"
+      ],
+      "recipe_source": "",
+      "shop_price": "400G"
+    },
+    {
+      "level": 3,
+      "level_code": "3a",
+      "name": "土靈晶石",
+      "craft_quantity": 1,
+      "weapon_type": "",
+      "materials": [
+        {
+          "name": "鐵條",
+          "quantity": 20
+        },
+        {
+          "name": "銀條",
+          "quantity": 5
+        },
+        {
+          "name": "蘋果薄荷",
+          "quantity": 15
+        },
+        {
+          "name": "檸檬草",
+          "quantity": 15
+        }
+      ],
+      "bonus": [
+        "必殺+1~2"
+      ],
+      "recipe_source": "",
+      "shop_price": "550G"
+    },
+    {
+      "level": 4,
+      "level_code": "4a",
+      "name": "綠星晶石",
+      "craft_quantity": 1,
+      "weapon_type": "",
+      "materials": [
+        {
+          "name": "銀條",
+          "quantity": 10
+        },
+        {
+          "name": "純銀條",
+          "quantity": 25
+        },
+        {
+          "name": "果梨",
+          "quantity": 20
+        }
+      ],
+      "bonus": [
+        "反擊+1~2 命中+3~5"
+      ],
+      "recipe_source": "",
+      "shop_price": "900G"
+    },
+    {
+      "level": 5,
+      "level_code": "5a",
+      "name": "大地晶石",
+      "craft_quantity": 1,
+      "weapon_type": "",
+      "materials": [
+        {
+          "name": "銀條",
+          "quantity": 10
+        },
+        {
+          "name": "純銀條",
+          "quantity": 10
+        },
+        {
+          "name": "金條",
+          "quantity": 20
+        },
+        {
+          "name": "桃木",
+          "quantity": 20
+        }
+      ],
+      "bonus": [
+        "防禦+5 必殺+2 反擊+3~4"
+      ],
+      "recipe_source": "",
+      "shop_price": "1200G"
+    },
+    {
+      "level": 6,
+      "level_code": "6a",
+      "name": "灰燼晶石",
+      "craft_quantity": 1,
+      "weapon_type": "",
+      "materials": [
+        {
+          "name": "純銀條",
+          "quantity": 5
+        },
+        {
+          "name": "金條",
+          "quantity": 20
+        },
+        {
+          "name": "蝴蝶花",
+          "quantity": 15
+        },
+        {
+          "name": "番紅花",
+          "quantity": 20
+        }
+      ],
+      "bonus": [
+        "必殺+2~4 命中+2"
+      ],
+      "recipe_source": "",
+      "shop_price": "1700G*"
+    },
+    {
+      "level": 7,
+      "level_code": "7a",
+      "name": "焰苗晶石",
+      "craft_quantity": 1,
+      "weapon_type": "",
+      "materials": [
+        {
+          "name": "純銀條",
+          "quantity": 10
+        },
+        {
+          "name": "白金條",
+          "quantity": 20
+        },
+        {
+          "name": "幻之鋼條",
+          "quantity": 20
+        },
+        {
+          "name": "百里香",
+          "quantity": 25
+        }
+      ],
+      "bonus": [
+        "命中+5~9 閃躲-4~-9*1"
+      ],
+      "recipe_source": "",
+      "shop_price": "1800G*"
+    },
+    {
+      "level": 8,
+      "level_code": "8a",
+      "name": "火靈晶石",
+      "craft_quantity": 1,
+      "weapon_type": "",
+      "materials": [
+        {
+          "name": "白金條",
+          "quantity": 10
+        },
+        {
+          "name": "幻之鋼條",
+          "quantity": 20
+        },
+        {
+          "name": "達馬斯礦條",
+          "quantity": 20
+        },
+        {
+          "name": "百里香",
+          "quantity": 30
+        }
+      ],
+      "bonus": [
+        "反擊+ 閃躲-"
+      ],
+      "recipe_source": "",
+      "shop_price": "1900G*"
+    },
+    {
+      "level": 9,
+      "level_code": "9a",
+      "name": "燃燒晶石",
+      "craft_quantity": 1,
+      "weapon_type": "",
+      "materials": [
+        {
+          "name": "幻之銀條",
+          "quantity": 20
+        },
+        {
+          "name": "勒格耐席姆條",
+          "quantity": 20
+        },
+        {
+          "name": "瞿麥",
+          "quantity": 25
+        },
+        {
+          "name": "茴香",
+          "quantity": 20
+        }
+      ],
+      "bonus": [
+        "必殺+ 閃躲-"
+      ],
+      "recipe_source": "",
+      "shop_price": "4300G*"
+    },
+    {
+      "level": 10,
+      "level_code": "10a",
+      "name": "熾焰晶石",
+      "craft_quantity": 1,
+      "weapon_type": "",
+      "materials": [
+        {
+          "name": "奧利哈鋼條",
+          "quantity": 20
+        },
+        {
+          "name": "****",
+          "quantity": 20
+        },
+        {
+          "name": "茴香",
+          "quantity": 20
+        },
+        {
+          "name": "七葉樹",
+          "quantity": 25
+        },
+        {
+          "name": "魔族的水晶",
+          "quantity": 5
+        }
+      ],
+      "bonus": [
+        "必殺+ 反擊+",
+        "命中+ 閃躲+"
+      ],
+      "recipe_source": "",
+      "shop_price": "6200G*"
+    }
+  ]
+}

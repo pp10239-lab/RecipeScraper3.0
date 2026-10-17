@@ -1,0 +1,766 @@
+{
+  "source_url": "https://gamerch.com/blue-cg/453256",
+  "page_title": "藥水製作",
+  "wiki": "水藍魔力攻略wiki",
+  "updated_at": "2025/09/01 22:48",
+  "author": "ゲストユーザー",
+  "last_editor": "Mizuei",
+  "category": "製作配方",
+  "note": "1.新增特有R11品項 2.修改 深藍9號 材料與效用",
+  "recipes": [
+    {
+      "level": 1,
+      "level_code": "1a",
+      "name": "生命力回復藥(100)",
+      "craft_quantity": 1,
+      "weapon_type": "",
+      "materials": [
+        {
+          "name": "蘋果薄荷",
+          "quantity": 10
+        },
+        {
+          "name": "檸檬草",
+          "quantity": 1
+        }
+      ],
+      "bonus": [
+        "生命值回復約100點"
+      ],
+      "recipe_source": "",
+      "shop_price": "250G"
+    },
+    {
+      "level": 2,
+      "level_code": "2a",
+      "name": "生命力回復藥(150)",
+      "craft_quantity": 1,
+      "weapon_type": "",
+      "materials": [
+        {
+          "name": "蘋果薄荷",
+          "quantity": 10
+        },
+        {
+          "name": "檸檬草",
+          "quantity": 10
+        }
+      ],
+      "bonus": [
+        "生命值回復約150點"
+      ],
+      "recipe_source": "",
+      "shop_price": "375G"
+    },
+    {
+      "level": 2,
+      "level_code": "2b",
+      "name": "想泉丸",
+      "craft_quantity": 1,
+      "weapon_type": "",
+      "materials": [
+        {
+          "name": "桃連蛇",
+          "quantity": 20
+        },
+        {
+          "name": "桃茂",
+          "quantity": 20
+        },
+        {
+          "name": "桃冠",
+          "quantity": 20
+        }
+      ],
+      "bonus": [
+        "任務品"
+      ],
+      "recipe_source": "參照任務「仙人就職」",
+      "shop_price": "X"
+    },
+    {
+      "level": 3,
+      "level_code": "3a",
+      "name": "生命力回復藥(200)",
+      "craft_quantity": 1,
+      "weapon_type": "",
+      "materials": [
+        {
+          "name": "蘋果薄荷",
+          "quantity": 10
+        },
+        {
+          "name": "檸檬草",
+          "quantity": 10
+        },
+        {
+          "name": "蝴蝶花",
+          "quantity": 5
+        }
+      ],
+      "bonus": [
+        "生命值回復約200點"
+      ],
+      "recipe_source": "",
+      "shop_price": "500G"
+    },
+    {
+      "level": 3,
+      "level_code": "3b",
+      "name": "猛毒的餌",
+      "craft_quantity": 1,
+      "weapon_type": "",
+      "materials": [
+        {
+          "name": "必死的劇藥",
+          "quantity": 1
+        },
+        {
+          "name": "牛肉",
+          "quantity": 20
+        }
+      ],
+      "bonus": [
+        "任務品"
+      ],
+      "recipe_source": "參照任務「獅鷲狩獵」",
+      "shop_price": "Ｘ"
+    },
+    {
+      "level": 4,
+      "level_code": "4a",
+      "name": "生命力回復藥(250)",
+      "craft_quantity": 1,
+      "weapon_type": "",
+      "materials": [
+        {
+          "name": "檸檬草",
+          "quantity": 10
+        },
+        {
+          "name": "蝴蝶花",
+          "quantity": 15
+        },
+        {
+          "name": "果梨",
+          "quantity": 5
+        }
+      ],
+      "bonus": [
+        "生命值回復約250點"
+      ],
+      "recipe_source": "",
+      "shop_price": "625G"
+    },
+    {
+      "level": 4,
+      "level_code": "4b",
+      "name": "迷魂藥",
+      "craft_quantity": 1,
+      "weapon_type": "",
+      "materials": [
+        {
+          "name": "摩斯蜥蜴",
+          "quantity": 1
+        },
+        {
+          "name": "惡魔 魚",
+          "quantity": 1
+        },
+        {
+          "name": "井底蛙",
+          "quantity": 1
+        },
+        {
+          "name": "戀愛蘋果",
+          "quantity": 20
+        }
+      ],
+      "bonus": [
+        "任務品"
+      ],
+      "recipe_source": "參照任務「月亮俱樂部」",
+      "shop_price": "X"
+    },
+    {
+      "level": 4,
+      "level_code": "4c",
+      "name": "畢克銀酸",
+      "craft_quantity": 1,
+      "weapon_type": "",
+      "materials": [
+        {
+          "name": "摩斯蜥蜴",
+          "quantity": 1
+        },
+        {
+          "name": "惡魔 魚",
+          "quantity": 1
+        },
+        {
+          "name": "井底蛙",
+          "quantity": 1
+        },
+        {
+          "name": "迷你蝙蝠 的血",
+          "quantity": 1
+        },
+        {
+          "name": "純銀",
+          "quantity": 1
+        }
+      ],
+      "bonus": [
+        "任務品"
+      ],
+      "recipe_source": "參照任務「魔族改造計劃」",
+      "shop_price": "X"
+    },
+    {
+      "level": 5,
+      "level_code": "5a",
+      "name": "生命力回復藥(300)",
+      "craft_quantity": 1,
+      "weapon_type": "",
+      "materials": [
+        {
+          "name": "蝴蝶花",
+          "quantity": 15
+        },
+        {
+          "name": "果梨",
+          "quantity": 15
+        },
+        {
+          "name": "桃木",
+          "quantity": 5
+        }
+      ],
+      "bonus": [
+        "生命值回復約300點"
+      ],
+      "recipe_source": "",
+      "shop_price": "750G"
+    },
+    {
+      "level": 6,
+      "level_code": "6a",
+      "name": "生命力回復藥(400)",
+      "craft_quantity": 1,
+      "weapon_type": "",
+      "materials": [
+        {
+          "name": "果梨",
+          "quantity": 10
+        },
+        {
+          "name": "桃木",
+          "quantity": 15
+        },
+        {
+          "name": "番紅花",
+          "quantity": 15
+        }
+      ],
+      "bonus": [
+        "生命值回復約400點"
+      ],
+      "recipe_source": "",
+      "shop_price": "1000G"
+    },
+    {
+      "level": 7,
+      "level_code": "7a",
+      "name": "生命力回復藥(500)",
+      "craft_quantity": 1,
+      "weapon_type": "",
+      "materials": [
+        {
+          "name": "果梨",
+          "quantity": 5
+        },
+        {
+          "name": "桃木",
+          "quantity": 13
+        },
+        {
+          "name": "番紅花",
+          "quantity": 15
+        },
+        {
+          "name": "百里香",
+          "quantity": 15
+        }
+      ],
+      "bonus": [
+        "生命值回復約500點"
+      ],
+      "recipe_source": "",
+      "shop_price": "1250G"
+    },
+    {
+      "level": 7,
+      "level_code": "7b",
+      "name": "水龍藥水",
+      "craft_quantity": 1,
+      "weapon_type": "",
+      "materials": [
+        {
+          "name": "渾濁的水",
+          "quantity": 1
+        },
+        {
+          "name": "百里香",
+          "quantity": 20
+        }
+      ],
+      "bonus": [
+        "回復魅力10點"
+      ],
+      "recipe_source": "參照任務「時波之祠」",
+      "shop_price": "X"
+    },
+    {
+      "level": 8,
+      "level_code": "8a",
+      "name": "生命力回復藥(600)",
+      "craft_quantity": 1,
+      "weapon_type": "",
+      "materials": [
+        {
+          "name": "蘋果薄荷",
+          "quantity": 10
+        },
+        {
+          "name": "果梨",
+          "quantity": 10
+        },
+        {
+          "name": "番紅花",
+          "quantity": 10
+        },
+        {
+          "name": "百里香",
+          "quantity": 20
+        },
+        {
+          "name": "瞿麥",
+          "quantity": 10
+        }
+      ],
+      "bonus": [
+        "生命值回復約600點"
+      ],
+      "recipe_source": "",
+      "shop_price": "1500G"
+    },
+    {
+      "level": 8,
+      "level_code": "8b",
+      "name": "深藍9號",
+      "craft_quantity": 1,
+      "weapon_type": "",
+      "materials": [
+        {
+          "name": "百里香",
+          "quantity": 10
+        },
+        {
+          "name": "瞿麥",
+          "quantity": 10
+        },
+        {
+          "name": "魔法紅蘿蔔",
+          "quantity": 40
+        },
+        {
+          "name": "濕地毒蛇",
+          "quantity": 10
+        },
+        {
+          "name": "水的水晶碎片",
+          "quantity": 15
+        }
+      ],
+      "bonus": [
+        "耐久150，開啟時遇敵率為０"
+      ],
+      "recipe_source": "參照任務「生產系升階III」",
+      "shop_price": "1200G"
+    },
+    {
+      "level": 9,
+      "level_code": "9a",
+      "name": "生命力回復藥(800)",
+      "craft_quantity": 1,
+      "weapon_type": "",
+      "materials": [
+        {
+          "name": "蝴蝶花",
+          "quantity": 5
+        },
+        {
+          "name": "番紅花",
+          "quantity": 7
+        },
+        {
+          "name": "瞿麥",
+          "quantity": 5
+        },
+        {
+          "name": "茴香",
+          "quantity": 10
+        },
+        {
+          "name": "七葉樹",
+          "quantity": 5
+        }
+      ],
+      "bonus": [
+        "生命值回復約800點"
+      ],
+      "recipe_source": "",
+      "shop_price": "2000G"
+    },
+    {
+      "level": 10,
+      "level_code": "10a",
+      "name": "生命力回復藥(1000)",
+      "craft_quantity": 1,
+      "weapon_type": "",
+      "materials": [
+        {
+          "name": "蘋果薄荷",
+          "quantity": 10
+        },
+        {
+          "name": "檸檬草",
+          "quantity": 10
+        },
+        {
+          "name": "瞿麥",
+          "quantity": 6
+        },
+        {
+          "name": "茴香",
+          "quantity": 8
+        },
+        {
+          "name": "七葉樹",
+          "quantity": 10
+        }
+      ],
+      "bonus": [
+        "生命值回復約1000點"
+      ],
+      "recipe_source": "",
+      "shop_price": "2500G"
+    },
+    {
+      "level": 11,
+      "level_code": "11a",
+      "name": "生命力回復藥(1400)",
+      "craft_quantity": 1,
+      "weapon_type": "",
+      "materials": [
+        {
+          "name": "桃木",
+          "quantity": 20
+        },
+        {
+          "name": "瞿麥",
+          "quantity": 20
+        },
+        {
+          "name": "茴香",
+          "quantity": 10
+        },
+        {
+          "name": "七葉樹",
+          "quantity": 10
+        },
+        {
+          "name": "井底蛙",
+          "quantity": 1
+        }
+      ],
+      "bonus": [
+        "生命值回復約1400點"
+      ],
+      "recipe_source": "",
+      "shop_price": "Ｘ"
+    },
+    {
+      "level": 11,
+      "level_code": "11b",
+      "name": "高級強化劑",
+      "craft_quantity": 1,
+      "weapon_type": "",
+      "materials": [
+        {
+          "name": "高級奶油",
+          "quantity": 20
+        },
+        {
+          "name": "茴香",
+          "quantity": 20
+        },
+        {
+          "name": "七葉樹",
+          "quantity": 15
+        },
+        {
+          "name": "檸檬",
+          "quantity": 1
+        },
+        {
+          "name": "曼德拉草",
+          "quantity": 20
+        }
+      ],
+      "bonus": [
+        "攻擊力-15",
+        "防禦-15",
+        "精神-10",
+        "閃躲＆命中＆必殺+4",
+        "持續",
+        "60",
+        "分鐘"
+      ],
+      "recipe_source": "參照任務「惡夢鼠的煩惱」",
+      "shop_price": "3000G"
+    },
+    {
+      "level": 11,
+      "level_code": "11c",
+      "name": "能力強化劑",
+      "craft_quantity": 1,
+      "weapon_type": "",
+      "materials": [
+        {
+          "name": "戀愛蘋果",
+          "quantity": 20
+        },
+        {
+          "name": "魔法紅蘿蔔",
+          "quantity": 20
+        },
+        {
+          "name": "瞿麥",
+          "quantity": 20
+        },
+        {
+          "name": "車尼子",
+          "quantity": 1
+        },
+        {
+          "name": "幻想花",
+          "quantity": 15
+        }
+      ],
+      "bonus": [
+        "攻擊＆防禦＆敏捷+25",
+        "閃躲-3",
+        "持續",
+        "60",
+        "分鐘"
+      ],
+      "recipe_source": "參照任務「惡夢鼠的煩惱」",
+      "shop_price": "3000G"
+    },
+    {
+      "level": 11,
+      "level_code": "11d",
+      "name": "抗性強化劑",
+      "craft_quantity": 1,
+      "weapon_type": "",
+      "materials": [
+        {
+          "name": "辣椒",
+          "quantity": 20
+        },
+        {
+          "name": "魔法紅蘿蔔",
+          "quantity": 15
+        },
+        {
+          "name": "七葉樹",
+          "quantity": 15
+        },
+        {
+          "name": "草莓",
+          "quantity": 1
+        },
+        {
+          "name": "幻想花",
+          "quantity": 20
+        }
+      ],
+      "bonus": [
+        "抗魔+50",
+        "全抗+5",
+        "閃命必反-3",
+        "持續",
+        "60",
+        "分鐘"
+      ],
+      "recipe_source": "參照任務「惡夢鼠的煩惱」",
+      "shop_price": "3000G"
+    },
+    {
+      "level": 11,
+      "level_code": "11e",
+      "name": "回復強化劑",
+      "craft_quantity": 1,
+      "weapon_type": "",
+      "materials": [
+        {
+          "name": "番紅花",
+          "quantity": 20
+        },
+        {
+          "name": "百里香",
+          "quantity": 20
+        },
+        {
+          "name": "香草",
+          "quantity": 20
+        },
+        {
+          "name": "葡萄",
+          "quantity": 1
+        },
+        {
+          "name": "幻想花",
+          "quantity": 15
+        }
+      ],
+      "bonus": [
+        "回復+35",
+        "精神-10",
+        "閃躲-3",
+        "持續",
+        "60",
+        "分鐘"
+      ],
+      "recipe_source": "參照任務「惡夢鼠的煩惱」",
+      "shop_price": "3000G"
+    },
+    {
+      "level": 11,
+      "level_code": "11f",
+      "name": "魔法強化劑",
+      "craft_quantity": 1,
+      "weapon_type": "",
+      "materials": [
+        {
+          "name": "蝴蝶花",
+          "quantity": 20
+        },
+        {
+          "name": "香草",
+          "quantity": 20
+        },
+        {
+          "name": "七葉樹",
+          "quantity": 20
+        },
+        {
+          "name": "茄子",
+          "quantity": 1
+        },
+        {
+          "name": "曼德拉草",
+          "quantity": 15
+        }
+      ],
+      "bonus": [
+        "精神+30",
+        "魔攻+5",
+        "回復-30",
+        "閃躲-10",
+        "持續",
+        "60",
+        "分鐘"
+      ],
+      "recipe_source": "參照任務「惡夢鼠的煩惱」",
+      "shop_price": "3000G"
+    },
+    {
+      "level": 11,
+      "level_code": "11g",
+      "name": "工藝強化劑",
+      "craft_quantity": 1,
+      "weapon_type": "",
+      "materials": [
+        {
+          "name": "咖哩塊",
+          "quantity": 20
+        },
+        {
+          "name": "百里香",
+          "quantity": 20
+        },
+        {
+          "name": "茴香",
+          "quantity": 40
+        },
+        {
+          "name": "香橙",
+          "quantity": 1
+        },
+        {
+          "name": "曼德拉草",
+          "quantity": 20
+        }
+      ],
+      "bonus": [
+        "靈巧+4",
+        "耐力+4",
+        "智力+4",
+        "持續",
+        "60",
+        "分鐘",
+        "※不能超越上限",
+        "100",
+        "。"
+      ],
+      "recipe_source": "參照任務「惡夢鼠的煩惱」",
+      "shop_price": "3000G"
+    },
+    {
+      "level": 11,
+      "level_code": "11h",
+      "name": "艾普理歐",
+      "craft_quantity": 1,
+      "weapon_type": "",
+      "materials": [
+        {
+          "name": "藥缽",
+          "quantity": 1
+        },
+        {
+          "name": "生命的種子",
+          "quantity": 1
+        },
+        {
+          "name": "天地樹露水",
+          "quantity": 1
+        },
+        {
+          "name": "生化試管",
+          "quantity": 1
+        },
+        {
+          "name": "地之玉",
+          "quantity": 1
+        }
+      ],
+      "bonus": [
+        "雙擊可召喚出寵物"
+      ],
+      "recipe_source": "參照任務「生命體寵物製作」",
+      "shop_price": ""
+    }
+  ]
+}

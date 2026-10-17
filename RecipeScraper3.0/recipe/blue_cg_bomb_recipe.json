@@ -1,0 +1,704 @@
+{
+  "source_url": "https://gamerch.com/blue-cg/453291",
+  "page_title": "炸彈製作",
+  "wiki": "水藍魔力攻略wiki",
+  "updated_at": "2025/09/01 22:48",
+  "author": "ゲストユーザー",
+  "last_editor": "Mizuei",
+  "category": "製作配方",
+  "note": "1.每套材料產出炸彈數量提昇 2.特有R11彈",
+  "recipes": [
+    {
+      "level": 1,
+      "level_code": "1a",
+      "name": "蕃茄炸彈",
+      "craft_quantity": 5,
+      "weapon_type": "",
+      "materials": [
+        {
+          "name": "麻布",
+          "quantity": 4
+        },
+        {
+          "name": "蕃茄",
+          "quantity": 20
+        }
+      ],
+      "bonus": [
+        "攻擊+10"
+      ],
+      "recipe_source": "",
+      "shop_price": "440G"
+    },
+    {
+      "level": 1,
+      "level_code": "1b",
+      "name": "白米炸彈",
+      "craft_quantity": 10,
+      "weapon_type": "",
+      "materials": [
+        {
+          "name": "麻布",
+          "quantity": 8
+        },
+        {
+          "name": "銅條",
+          "quantity": 8
+        },
+        {
+          "name": "神聖米",
+          "quantity": 20
+        }
+      ],
+      "bonus": [
+        "攻擊+18"
+      ],
+      "recipe_source": "",
+      "shop_price": "700G"
+    },
+    {
+      "level": 2,
+      "level_code": "2a",
+      "name": "石彈",
+      "craft_quantity": 5,
+      "weapon_type": "",
+      "materials": [
+        {
+          "name": "銅條",
+          "quantity": 6
+        },
+        {
+          "name": "黃月木",
+          "quantity": 20
+        },
+        {
+          "name": "木棉布",
+          "quantity": 4
+        },
+        {
+          "name": "地的水晶碎片",
+          "quantity": 2
+        }
+      ],
+      "bonus": [
+        "攻擊+25",
+        "有機率出現石化效果"
+      ],
+      "recipe_source": "",
+      "shop_price": "900G"
+    },
+    {
+      "level": 2,
+      "level_code": "2b",
+      "name": "火焰彈",
+      "craft_quantity": 10,
+      "weapon_type": "",
+      "materials": [
+        {
+          "name": "銀條",
+          "quantity": 2
+        },
+        {
+          "name": "樅",
+          "quantity": 20
+        },
+        {
+          "name": "木棉布",
+          "quantity": 8
+        },
+        {
+          "name": "火的水晶碎片",
+          "quantity": 8
+        }
+      ],
+      "bonus": [
+        "攻擊+32"
+      ],
+      "recipe_source": "",
+      "shop_price": "1100G"
+    },
+    {
+      "level": 3,
+      "level_code": "3a",
+      "name": "手榴彈",
+      "craft_quantity": 5,
+      "weapon_type": "",
+      "materials": [
+        {
+          "name": "鐵條",
+          "quantity": 8
+        },
+        {
+          "name": "銀條",
+          "quantity": 6
+        },
+        {
+          "name": "樅",
+          "quantity": 20
+        },
+        {
+          "name": "黃月木",
+          "quantity": 20
+        },
+        {
+          "name": "毛氈",
+          "quantity": 4
+        }
+      ],
+      "bonus": [
+        "攻擊+71",
+        "有機率出現昏睡效果"
+      ],
+      "recipe_source": "",
+      "shop_price": "1300G"
+    },
+    {
+      "level": 3,
+      "level_code": "3b",
+      "name": "冷凍彈",
+      "craft_quantity": 10,
+      "weapon_type": "",
+      "materials": [
+        {
+          "name": "銀條",
+          "quantity": 8
+        },
+        {
+          "name": "純銀條",
+          "quantity": 4
+        },
+        {
+          "name": "鐵杉",
+          "quantity": 16
+        },
+        {
+          "name": "毛氈",
+          "quantity": 8
+        },
+        {
+          "name": "水的水晶碎片",
+          "quantity": 12
+        }
+      ],
+      "bonus": [
+        "攻擊+82"
+      ],
+      "recipe_source": "",
+      "shop_price": "1500G"
+    },
+    {
+      "level": 4,
+      "level_code": "4a",
+      "name": "輪刃",
+      "craft_quantity": 5,
+      "weapon_type": "",
+      "materials": [
+        {
+          "name": "銀條",
+          "quantity": 8
+        },
+        {
+          "name": "純銀條",
+          "quantity": 8
+        },
+        {
+          "name": "鐵杉",
+          "quantity": 20
+        },
+        {
+          "name": "棉布",
+          "quantity": 4
+        },
+        {
+          "name": "風的水晶碎片",
+          "quantity": 16
+        }
+      ],
+      "bonus": [
+        "攻擊+96"
+      ],
+      "recipe_source": "",
+      "shop_price": "1700G"
+    },
+    {
+      "level": 4,
+      "level_code": "4b",
+      "name": "蜂巢",
+      "craft_quantity": 10,
+      "weapon_type": "",
+      "materials": [
+        {
+          "name": "純銀條",
+          "quantity": 8
+        },
+        {
+          "name": "金條",
+          "quantity": 8
+        },
+        {
+          "name": "蝴蝶花",
+          "quantity": 20
+        },
+        {
+          "name": "桃木",
+          "quantity": 20
+        },
+        {
+          "name": "棉布",
+          "quantity": 8
+        }
+      ],
+      "bonus": [
+        "攻擊+108"
+      ],
+      "recipe_source": "",
+      "shop_price": "1900G"
+    },
+    {
+      "level": 5,
+      "level_code": "5a",
+      "name": "黃色炸彈",
+      "craft_quantity": 10,
+      "weapon_type": "",
+      "materials": [
+        {
+          "name": "純銀條",
+          "quantity": 10
+        },
+        {
+          "name": "金條",
+          "quantity": 10
+        },
+        {
+          "name": "鐵杉",
+          "quantity": 20
+        },
+        {
+          "name": "琵琶木",
+          "quantity": 20
+        },
+        {
+          "name": "細線",
+          "quantity": 8
+        }
+      ],
+      "bonus": [
+        "攻擊+123"
+      ],
+      "recipe_source": "",
+      "shop_price": "2200G"
+    },
+    {
+      "level": 5,
+      "level_code": "5b",
+      "name": "迷魂彈",
+      "craft_quantity": 15,
+      "weapon_type": "",
+      "materials": [
+        {
+          "name": "純銀條",
+          "quantity": 8
+        },
+        {
+          "name": "金條",
+          "quantity": 7
+        },
+        {
+          "name": "白金條",
+          "quantity": 7
+        },
+        {
+          "name": "赤松",
+          "quantity": 12
+        },
+        {
+          "name": "細線",
+          "quantity": 20
+        }
+      ],
+      "bonus": [
+        "攻擊+135",
+        "有機率出現混亂效果"
+      ],
+      "recipe_source": "",
+      "shop_price": "2400G"
+    },
+    {
+      "level": 6,
+      "level_code": "6a",
+      "name": "臭彈",
+      "craft_quantity": 10,
+      "weapon_type": "",
+      "materials": [
+        {
+          "name": "金條",
+          "quantity": 7
+        },
+        {
+          "name": "白金條",
+          "quantity": 8
+        },
+        {
+          "name": "赤松",
+          "quantity": 8
+        },
+        {
+          "name": "細線",
+          "quantity": 14
+        },
+        {
+          "name": "深藍九號",
+          "quantity": 1
+        }
+      ],
+      "bonus": [
+        "攻擊+150",
+        "有機率出現中毒效果"
+      ],
+      "recipe_source": "",
+      "shop_price": "2600G"
+    },
+    {
+      "level": 6,
+      "level_code": "6b",
+      "name": "狂風炸彈",
+      "craft_quantity": 15,
+      "weapon_type": "",
+      "materials": [
+        {
+          "name": "幻之鋼條",
+          "quantity": 12
+        },
+        {
+          "name": "琵琶木",
+          "quantity": 12
+        },
+        {
+          "name": "赤松",
+          "quantity": 20
+        },
+        {
+          "name": "風的水晶碎片",
+          "quantity": 30
+        }
+      ],
+      "bonus": [
+        "攻擊+162"
+      ],
+      "recipe_source": "",
+      "shop_price": "2800G"
+    },
+    {
+      "level": 7,
+      "level_code": "7a",
+      "name": "催淚彈",
+      "craft_quantity": 10,
+      "weapon_type": "",
+      "materials": [
+        {
+          "name": "幻之鋼條",
+          "quantity": 16
+        },
+        {
+          "name": "赤松",
+          "quantity": 20
+        },
+        {
+          "name": "百里香",
+          "quantity": 20
+        },
+        {
+          "name": "莎蓮娜線",
+          "quantity": 8
+        },
+        {
+          "name": "神眼",
+          "quantity": 1
+        }
+      ],
+      "bonus": [
+        "攻擊+189",
+        "有機率出現酒醉效果"
+      ],
+      "recipe_source": "",
+      "shop_price": "3000G"
+    },
+    {
+      "level": 7,
+      "level_code": "7b",
+      "name": "催眠彈",
+      "craft_quantity": 15,
+      "weapon_type": "",
+      "materials": [
+        {
+          "name": "白金條",
+          "quantity": 12
+        },
+        {
+          "name": "幻之鋼條",
+          "quantity": 12
+        },
+        {
+          "name": "琵琶木",
+          "quantity": 20
+        },
+        {
+          "name": "赤松",
+          "quantity": 20
+        },
+        {
+          "name": "百里香",
+          "quantity": 20
+        }
+      ],
+      "bonus": [
+        "攻擊+177",
+        "有機率出現昏睡效果"
+      ],
+      "recipe_source": "",
+      "shop_price": "3000G"
+    },
+    {
+      "level": 8,
+      "level_code": "8a",
+      "name": "星星彈",
+      "craft_quantity": 10,
+      "weapon_type": "",
+      "materials": [
+        {
+          "name": "幻之鋼條",
+          "quantity": 20
+        },
+        {
+          "name": "赤松",
+          "quantity": 20
+        },
+        {
+          "name": "朴",
+          "quantity": 20
+        },
+        {
+          "name": "杉",
+          "quantity": 20
+        },
+        {
+          "name": "誓言之證",
+          "quantity": 1
+        }
+      ],
+      "bonus": [
+        "攻擊+240"
+      ],
+      "recipe_source": "",
+      "shop_price": "3200G*"
+    },
+    {
+      "level": 8,
+      "level_code": "8b",
+      "name": "毒氣彈",
+      "craft_quantity": 15,
+      "weapon_type": "",
+      "materials": [
+        {
+          "name": "幻之銀條",
+          "quantity": 18
+        },
+        {
+          "name": "鐵杉",
+          "quantity": 10
+        },
+        {
+          "name": "朴",
+          "quantity": 20
+        },
+        {
+          "name": "阿巴尼斯製的布",
+          "quantity": 12
+        },
+        {
+          "name": "摩斯蜥蜴",
+          "quantity": 1
+        }
+      ],
+      "bonus": [
+        "攻擊+207",
+        "有機率出現中毒效果"
+      ],
+      "recipe_source": "",
+      "shop_price": "3200G*"
+    },
+    {
+      "level": 9,
+      "level_code": "9a",
+      "name": "碎紙彈",
+      "craft_quantity": 25,
+      "weapon_type": "",
+      "materials": [
+        {
+          "name": "達馬斯礦條",
+          "quantity": 20
+        },
+        {
+          "name": "蘋果薄荷",
+          "quantity": 20
+        },
+        {
+          "name": "香草",
+          "quantity": 20
+        },
+        {
+          "name": "茴香",
+          "quantity": 16
+        },
+        {
+          "name": "細麻布",
+          "quantity": 16
+        }
+      ],
+      "bonus": [
+        "攻擊+234",
+        "有機率出現遺忘效果"
+      ],
+      "recipe_source": "",
+      "shop_price": "5600G"
+    },
+    {
+      "level": 9,
+      "level_code": "9b",
+      "name": "雪花彈",
+      "craft_quantity": 15,
+      "weapon_type": "",
+      "materials": [
+        {
+          "name": "勒格耐席姆條",
+          "quantity": 15
+        },
+        {
+          "name": "杉",
+          "quantity": 20
+        },
+        {
+          "name": "永久冰石",
+          "quantity": 12
+        },
+        {
+          "name": "鋼騎之礦",
+          "quantity": 1
+        },
+        {
+          "name": "誓言之證",
+          "quantity": 1
+        }
+      ],
+      "bonus": [
+        "攻擊+288"
+      ],
+      "recipe_source": "",
+      "shop_price": "7200G*"
+    },
+    {
+      "level": 10,
+      "level_code": "10a",
+      "name": "銀彈",
+      "craft_quantity": 25,
+      "weapon_type": "",
+      "materials": [
+        {
+          "name": "勒格耐席姆條",
+          "quantity": 15
+        },
+        {
+          "name": "謝爾哈特礦條",
+          "quantity": 12
+        },
+        {
+          "name": "喜馬拉斯礦條",
+          "quantity": 8
+        },
+        {
+          "name": "單木",
+          "quantity": 20
+        },
+        {
+          "name": "開米士毛線",
+          "quantity": 12
+        }
+      ],
+      "bonus": [
+        "攻擊+266",
+        "有機率出現混亂效果"
+      ],
+      "recipe_source": "",
+      "shop_price": "8600G*"
+    },
+    {
+      "level": 10,
+      "level_code": "10b",
+      "name": "震撼彈",
+      "craft_quantity": 12,
+      "weapon_type": "",
+      "materials": [
+        {
+          "name": "喜馬拉斯礦條",
+          "quantity": 10
+        },
+        {
+          "name": "梣",
+          "quantity": 20
+        },
+        {
+          "name": "魔族的水晶",
+          "quantity": 2
+        },
+        {
+          "name": "鋼騎之礦",
+          "quantity": 3
+        },
+        {
+          "name": "誓言之證",
+          "quantity": 2
+        }
+      ],
+      "bonus": [
+        "攻擊+360"
+      ],
+      "recipe_source": "",
+      "shop_price": "10000G*"
+    },
+    {
+      "level": 11,
+      "level_code": "11a",
+      "name": "強酸火煙瓶",
+      "craft_quantity": 20,
+      "weapon_type": "",
+      "materials": [
+        {
+          "name": "德特家的布",
+          "quantity": 1
+        },
+        {
+          "name": "濕地毒蛇",
+          "quantity": 20
+        },
+        {
+          "name": "達馬斯礦條",
+          "quantity": 20
+        },
+        {
+          "name": "茱萸木",
+          "quantity": 20
+        },
+        {
+          "name": "燒瓶",
+          "quantity": 20
+        }
+      ],
+      "bonus": [
+        "攻擊+266",
+        "有機率出現混亂效果"
+      ],
+      "recipe_source": "",
+      "shop_price": ""
+    }
+  ]
+}

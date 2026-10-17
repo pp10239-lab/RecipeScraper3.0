@@ -1,0 +1,380 @@
+{
+  "source_url": "https://gamerch.com/blue-cg/452830",
+  "page_title": "變身卡製作",
+  "wiki": "水藍魔力攻略wiki",
+  "updated_at": "2026/04/13 09:34",
+  "author": "ゲストユーザー",
+  "last_editor": "Mizuei",
+  "category": "製作配方",
+  "note": "挖掘情報 狩獵情報 伐木情報 剪取情報 販售布料NPC 釣魚情報",
+  "recipes": [
+    {
+      "level": 1,
+      "level_code": "1a",
+      "name": "哥布林 的娃娃",
+      "craft_quantity": 1,
+      "weapon_type": "",
+      "materials": [
+        {
+          "name": "亞麻布",
+          "quantity": 2
+        },
+        {
+          "name": "印度輕木",
+          "quantity": 80
+        },
+        {
+          "name": "綠頭盔",
+          "quantity": 1
+        },
+        {
+          "name": "紙人娃娃",
+          "quantity": 4
+        }
+      ],
+      "bonus": [
+        "點擊可獲得 人型系 魔物 變身 卡"
+      ],
+      "recipe_source": "",
+      "shop_price": ""
+    },
+    {
+      "level": 2,
+      "level_code": "2a",
+      "name": "虎人 的拳套",
+      "craft_quantity": 1,
+      "weapon_type": "",
+      "materials": [
+        {
+          "name": "薄棉布",
+          "quantity": 1
+        },
+        {
+          "name": "鹿皮",
+          "quantity": 40
+        },
+        {
+          "name": "銅條",
+          "quantity": 4
+        },
+        {
+          "name": "寵物鈴鐺",
+          "quantity": 4
+        }
+      ],
+      "bonus": [
+        "點擊可獲得 野獸系 魔物 變身 卡"
+      ],
+      "recipe_source": "",
+      "shop_price": ""
+    },
+    {
+      "level": 3,
+      "level_code": "3a",
+      "name": "喪屍 的骨頭",
+      "craft_quantity": 1,
+      "weapon_type": "",
+      "materials": [
+        {
+          "name": "茱萸木",
+          "quantity": 20
+        },
+        {
+          "name": "鹿皮",
+          "quantity": 40
+        },
+        {
+          "name": "塔比歐的細胞",
+          "quantity": 1
+        },
+        {
+          "name": "藍色血液",
+          "quantity": 4
+        }
+      ],
+      "bonus": [
+        "點擊可獲得 不死系 魔物 變身 卡"
+      ],
+      "recipe_source": "",
+      "shop_price": ""
+    },
+    {
+      "level": 4,
+      "level_code": "4a",
+      "name": "兔耳蝙蝠 的耳朵",
+      "craft_quantity": 1,
+      "weapon_type": "",
+      "materials": [
+        {
+          "name": "棉線",
+          "quantity": 2
+        },
+        {
+          "name": "鐵條",
+          "quantity": 6
+        },
+        {
+          "name": "蝙蝠",
+          "quantity": 1
+        },
+        {
+          "name": "黑色小蟲",
+          "quantity": 4
+        }
+      ],
+      "bonus": [
+        "點擊可獲得 飛行系 魔物 變身 卡"
+      ],
+      "recipe_source": "",
+      "shop_price": ""
+    },
+    {
+      "level": 5,
+      "level_code": "5a",
+      "name": "殺人蜂 的蜜",
+      "craft_quantity": 1,
+      "weapon_type": "",
+      "materials": [
+        {
+          "name": "蝴蝶花",
+          "quantity": 40
+        },
+        {
+          "name": "檸檬草",
+          "quantity": 40
+        },
+        {
+          "name": "蜂王乳",
+          "quantity": 1
+        },
+        {
+          "name": "紅色花粉",
+          "quantity": 4
+        }
+      ],
+      "bonus": [
+        "點擊可獲得 昆蟲系 魔物 變身 卡"
+      ],
+      "recipe_source": "",
+      "shop_price": ""
+    },
+    {
+      "level": 6,
+      "level_code": "6a",
+      "name": "翠綠菇 的帽子",
+      "craft_quantity": 1,
+      "weapon_type": "",
+      "materials": [
+        {
+          "name": "赤松",
+          "quantity": 20
+        },
+        {
+          "name": "鐵杉",
+          "quantity": 40
+        },
+        {
+          "name": "草菇",
+          "quantity": 1
+        },
+        {
+          "name": "藍色種子",
+          "quantity": 4
+        }
+      ],
+      "bonus": [
+        "點擊可獲得 植物系 魔物 變身 卡"
+      ],
+      "recipe_source": "",
+      "shop_price": ""
+    },
+    {
+      "level": 7,
+      "level_code": "7a",
+      "name": "煙霧 的氣息",
+      "craft_quantity": 1,
+      "weapon_type": "",
+      "materials": [
+        {
+          "name": "羊毛線",
+          "quantity": 2
+        },
+        {
+          "name": "番紅花",
+          "quantity": 20
+        },
+        {
+          "name": "德特家的布",
+          "quantity": 2
+        },
+        {
+          "name": "可燃物",
+          "quantity": 4
+        }
+      ],
+      "bonus": [
+        "點擊可獲得 特殊系 魔物 變身 卡"
+      ],
+      "recipe_source": "",
+      "shop_price": ""
+    },
+    {
+      "level": 8,
+      "level_code": "8a",
+      "name": "神盾 的盾牌",
+      "craft_quantity": 1,
+      "weapon_type": "",
+      "materials": [
+        {
+          "name": "永久冰石",
+          "quantity": 10
+        },
+        {
+          "name": "白金條",
+          "quantity": 3
+        },
+        {
+          "name": "鋼騎之礦",
+          "quantity": 1
+        },
+        {
+          "name": "金屬粉末",
+          "quantity": 4
+        }
+      ],
+      "bonus": [
+        "點擊可獲得 金屬系 魔物 變身 卡"
+      ],
+      "recipe_source": "",
+      "shop_price": ""
+    },
+    {
+      "level": 8,
+      "level_code": "8b",
+      "name": "史前古物",
+      "craft_quantity": 1,
+      "weapon_type": "",
+      "materials": [
+        {
+          "name": "單木",
+          "quantity": 20
+        },
+        {
+          "name": "太古的道具",
+          "quantity": 1
+        },
+        {
+          "name": "藍鳳凰的羽毛",
+          "quantity": 1
+        },
+        {
+          "name": "斑駁的化石",
+          "quantity": 4
+        }
+      ],
+      "bonus": [
+        "點擊可獲得古代魔物 變身 卡"
+      ],
+      "recipe_source": "任務「 古代龍族傳說 」",
+      "shop_price": ""
+    },
+    {
+      "level": 9,
+      "level_code": "9a",
+      "name": "大地翼龍 的鱗片",
+      "craft_quantity": 1,
+      "weapon_type": "",
+      "materials": [
+        {
+          "name": "藍龍之鱗",
+          "quantity": 10
+        },
+        {
+          "name": "誓言之證",
+          "quantity": 2
+        },
+        {
+          "name": "地的水晶碎片",
+          "quantity": 5
+        },
+        {
+          "name": "龍皮",
+          "quantity": 4
+        }
+      ],
+      "bonus": [
+        "點擊可獲得 龍系 魔物 變身 卡"
+      ],
+      "recipe_source": "",
+      "shop_price": ""
+    },
+    {
+      "level": 10,
+      "level_code": "10a",
+      "name": "達斯公雞 的日記",
+      "craft_quantity": 1,
+      "weapon_type": "",
+      "materials": [
+        {
+          "name": "神聖調味醬",
+          "quantity": 20
+        },
+        {
+          "name": "神眼",
+          "quantity": 1
+        },
+        {
+          "name": "謎之皮",
+          "quantity": 1
+        },
+        {
+          "name": "魔族的水晶",
+          "quantity": 2
+        },
+        {
+          "name": "暗黑結晶",
+          "quantity": 1
+        }
+      ],
+      "bonus": [
+        "點擊可獲得頭目級魔物 變身 卡"
+      ],
+      "recipe_source": "",
+      "shop_price": ""
+    },
+    {
+      "level": 11,
+      "level_code": "11a",
+      "name": "精靈之珠",
+      "craft_quantity": 1,
+      "weapon_type": "",
+      "materials": [
+        {
+          "name": "莎蓮娜毛線",
+          "quantity": 4
+        },
+        {
+          "name": "海天使",
+          "quantity": 1
+        },
+        {
+          "name": "冰旗鱗",
+          "quantity": 20
+        },
+        {
+          "name": "阿薩母",
+          "quantity": 20
+        },
+        {
+          "name": "誓言之證",
+          "quantity": 2
+        }
+      ],
+      "bonus": [
+        "點擊可獲得 精靈族 魔物 變身 卡"
+      ],
+      "recipe_source": "任務「 盛夏捕獲祭 」",
+      "shop_price": ""
+    }
+  ]
+}

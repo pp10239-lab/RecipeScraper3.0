@@ -1,0 +1,989 @@
+{
+  "source_url": "https://gamerch.com/blue-cg/452901",
+  "page_title": "狩獵情報",
+  "wiki": "水藍魔力攻略wiki",
+  "updated_at": "2025/09/01 22:48",
+  "author": "ゲストユーザー",
+  "last_editor": "Mizuei",
+  "category": "採集情報",
+  "note": "1.關閉可在亞城( 摩頓村 域)採集的芝麻娃娃 2.咖哩塊.海苔販售價下調",
+  "collection_info": [
+    {
+      "label": "技能學習地點",
+      "value": "法蘭城 東門口外 獵人 拉修(484.200)"
+    }
+  ],
+  "resources": [
+    {
+      "level": 1,
+      "name": "蕃茄",
+      "category": "獵物",
+      "locations": "芙蕾雅島 、 德威特島 全域",
+      "recommended_locations": "芙蕾雅島 、 德威特島 全域",
+      "prices": [
+        {
+          "quantity": 20,
+          "unit": "個",
+          "price": "28G"
+        }
+      ],
+      "stack_size": "",
+      "stackability": "",
+      "uses": "",
+      "processing_outputs": [],
+      "details": []
+    },
+    {
+      "level": 1,
+      "name": "鹿皮",
+      "category": "獵物",
+      "locations": "芙蕾雅島 亞留特村 域(629,178) 蓋雷布倫森林 (174,180) 蓋雷布倫森林 (110,140)",
+      "recommended_locations": "芙蕾雅島 亞留特村 域(629.178) 蓋雷布倫森林 (174,180)",
+      "prices": [
+        {
+          "quantity": 20,
+          "unit": "個",
+          "price": "24G"
+        }
+      ],
+      "stack_size": "",
+      "stackability": "",
+      "uses": "",
+      "processing_outputs": [],
+      "details": []
+    },
+    {
+      "level": 1,
+      "name": "雞蛋",
+      "category": "獵物",
+      "locations": "法蘭城 東北邊山谷(551.163)(混合番茄) 奇利村 東南的樹與岩石周圍(297.361) 梅布爾隘地 (173.134)(雞肉, 鮭魚)",
+      "recommended_locations": "奇利村 東南的樹與岩石周圍(297.361) 梅布爾隘地 (173.134)(角色技能綁定R1建議)",
+      "prices": [
+        {
+          "quantity": 20,
+          "unit": "個",
+          "price": "28G"
+        }
+      ],
+      "stack_size": "",
+      "stackability": "",
+      "uses": "",
+      "processing_outputs": [],
+      "details": []
+    },
+    {
+      "level": 1,
+      "name": "小麥粉",
+      "category": "獵物",
+      "locations": "伊爾村 北東海岸(724.235)(混合番茄) 魔法大學 內的稻田(24.92) 坎那貝拉村 外(600,366)",
+      "recommended_locations": "坎那貝拉村 外(600,366) 可利用蕃茄醬至 亞諾曼城 (192,108)食品店內的愛吃蕃茄醬的蕾娜(14,16)換得小麥粉",
+      "prices": [
+        {
+          "quantity": 20,
+          "unit": "個",
+          "price": "28G"
+        }
+      ],
+      "stack_size": "",
+      "stackability": "",
+      "uses": "",
+      "processing_outputs": [],
+      "details": []
+    },
+    {
+      "level": 1,
+      "name": "神聖米",
+      "category": "獵物",
+      "locations": "蓋雷布倫森林 (189.148).(147.173) 溫迪爾平原 (245.115)",
+      "recommended_locations": "蓋雷布倫森林 (189.148)",
+      "prices": [
+        {
+          "quantity": 20,
+          "unit": "個",
+          "price": "28G"
+        }
+      ],
+      "stack_size": "",
+      "stackability": "",
+      "uses": "",
+      "processing_outputs": [],
+      "details": []
+    },
+    {
+      "level": 2,
+      "name": "蔥",
+      "category": "獵物",
+      "locations": "伊爾村 北邊的山麓(659.236)(混合番茄) 庫魯克斯島 哥拉爾域(289.435) 布拉基姆高地 (56.189)(61.202)",
+      "recommended_locations": "庫魯克斯島 哥拉爾域(289.435)",
+      "prices": [
+        {
+          "quantity": 20,
+          "unit": "個",
+          "price": "36G"
+        }
+      ],
+      "stack_size": "",
+      "stackability": "",
+      "uses": "",
+      "processing_outputs": [],
+      "details": []
+    },
+    {
+      "level": 2,
+      "name": "牛奶",
+      "category": "獵物",
+      "locations": "伊爾村 出去附近的街道(684.337)(混合番茄) 魔法大學 內西南的豬窩(55.140)裡面的(10.10) 坎那貝拉村 域(638.398)(混合鹽) 坎那貝拉村 域(586,368)",
+      "recommended_locations": "坎那貝拉村 域(586,368)",
+      "prices": [
+        {
+          "quantity": 20,
+          "unit": "個",
+          "price": "36G"
+        }
+      ],
+      "stack_size": "",
+      "stackability": "",
+      "uses": "",
+      "processing_outputs": [],
+      "details": []
+    },
+    {
+      "level": 2,
+      "name": "青椒",
+      "category": "獵物",
+      "locations": "法蘭城 東門出去過橋(592.287)(混合番茄) 布拉基姆高地 (62.193)(混合蔥) 庫魯克斯島 米諾基亞村東門外(460.888)",
+      "recommended_locations": "庫魯克斯島 米諾基亞村東門外(460,888) 布拉基姆高地 (62.193)(混合蔥)",
+      "prices": [
+        {
+          "quantity": 20,
+          "unit": "個",
+          "price": "36G"
+        }
+      ],
+      "stack_size": "",
+      "stackability": "",
+      "uses": "",
+      "processing_outputs": [],
+      "details": []
+    },
+    {
+      "level": 2,
+      "name": "大豆",
+      "category": "獵物",
+      "locations": "法蘭城遺跡 (111.54)",
+      "recommended_locations": "法蘭城遺跡 (111.54)",
+      "prices": [
+        {
+          "quantity": 20,
+          "unit": "個",
+          "price": "36G"
+        }
+      ],
+      "stack_size": "",
+      "stackability": "",
+      "uses": "",
+      "processing_outputs": [],
+      "details": []
+    },
+    {
+      "level": 3,
+      "name": "鹽",
+      "category": "獵物",
+      "locations": "伊爾村 出去的海岸(693.341)(混合番茄) 亞留特村 東邊的海岸(715.133) 亞留特哈洞出口附近(709.178) 奇利村 北門出去(231.279) 索奇亞奇利域(330.390) 米內葛爾坎那貝拉域(709.359) 蓋雷布倫森林 (176.182)(混合鹿皮) 索奇亞奇利域(297.388) 蓋雷布倫森林 (199.211) 摩頓村 域 (350.575)",
+      "recommended_locations": "摩頓村 域 (350.575) 索奇亞島 奇利域(297.388) 蓋雷布倫森林 (199.211)",
+      "prices": [
+        {
+          "quantity": 20,
+          "unit": "個",
+          "price": "41G"
+        }
+      ],
+      "stack_size": "",
+      "stackability": "",
+      "uses": "",
+      "processing_outputs": [],
+      "details": []
+    },
+    {
+      "level": 3,
+      "name": "醬油",
+      "category": "獵物",
+      "locations": "法蘭城 東門出去(501.163)(番茄) 芙蕾亞亞留特域(634,111) 亞留特村 東門出去(624.110) 德威特島 摩頓村 域(340.555) 摩頓村 域(338.565)",
+      "recommended_locations": "摩頓村 域(338.565)",
+      "prices": [
+        {
+          "quantity": 20,
+          "unit": "個",
+          "price": "41G"
+        }
+      ],
+      "stack_size": "",
+      "stackability": "",
+      "uses": "",
+      "processing_outputs": [],
+      "details": []
+    },
+    {
+      "level": 3,
+      "name": "白菜",
+      "category": "獵物",
+      "locations": "梅布爾隘地 (195.58)",
+      "recommended_locations": "梅布爾隘地 (195.58)",
+      "prices": [
+        {
+          "quantity": 20,
+          "unit": "個",
+          "price": "41G"
+        }
+      ],
+      "stack_size": "",
+      "stackability": "",
+      "uses": "",
+      "processing_outputs": [],
+      "details": []
+    },
+    {
+      "level": 4,
+      "name": "芹菜",
+      "category": "獵物",
+      "locations": "法蘭城 北邊花園的入口海岸(498.56)(混合番茄) 芙蕾雅島 亞留特域(601.47)",
+      "recommended_locations": "芙蕾雅島 亞留特域(601.47)",
+      "prices": [
+        {
+          "quantity": 20,
+          "unit": "個",
+          "price": "48G"
+        }
+      ],
+      "stack_size": "",
+      "stackability": "",
+      "uses": "",
+      "processing_outputs": [],
+      "details": []
+    },
+    {
+      "level": 4,
+      "name": "竹筍",
+      "category": "獵物",
+      "locations": "法蘭城 東門出去(514.196)(混合番茄) 法蘭城 東側山的北邊(533.196)(混合番茄) 亞留特村 北門出去(533.40) 芙蕾雅島 亞留特域(530.47) 法蘭城遺跡 (135.117) 克瑞村 外(414-428.88~94)",
+      "recommended_locations": "亞留特域(530.47) 克瑞村 外(414-428.88~94)",
+      "prices": [
+        {
+          "quantity": 20,
+          "unit": "個",
+          "price": "48G"
+        }
+      ],
+      "stack_size": "",
+      "stackability": "",
+      "uses": "",
+      "processing_outputs": [],
+      "details": []
+    },
+    {
+      "level": 4,
+      "name": "海苔",
+      "category": "獵物",
+      "locations": "亞留特村 北門出去往東走(621.27) 亞留特村 北邊海岸(576.20)(混合番茄) 奇利村 南邊海岸(267.367) 莎蓮娜島 (249.131) 亞留特村 北門出去(580.19)",
+      "recommended_locations": "亞留特村 北門出去往東走(621.27)",
+      "prices": [
+        {
+          "quantity": 20,
+          "unit": "個",
+          "price": "24G *限2017/12/05停機後採集得的物品"
+        }
+      ],
+      "stack_size": "",
+      "stackability": "",
+      "uses": "",
+      "processing_outputs": [],
+      "details": []
+    },
+    {
+      "level": 4,
+      "name": "雞肉",
+      "category": "獵物",
+      "locations": "法蘭城 北西海岸(436.44)(混合番茄) 庫魯克斯島 哥拉爾城域北城門口(275.389) 梅布爾隘地 (197.153)(混合雞蛋,鮭魚)",
+      "recommended_locations": "庫魯克斯島 哥拉爾城域北城門口(275.389)",
+      "prices": [
+        {
+          "quantity": 20,
+          "unit": "個",
+          "price": "48G"
+        }
+      ],
+      "stack_size": "",
+      "stackability": "",
+      "uses": "",
+      "processing_outputs": [],
+      "details": []
+    },
+    {
+      "level": 5,
+      "name": "牛肉",
+      "category": "獵物",
+      "locations": "法蘭城 西門到北邊的山與海之間(460.134)(混合番茄) 索奇亞奇利域(330.390)(混合鹽) 索奇亞奇利域(215.225)、(350.340) 庫魯克斯島 哥拉爾域(354.418) 布拉基姆高地 (184.131)(混霜降牛肉)",
+      "recommended_locations": "庫魯克斯島 哥拉爾域(354.418) 索奇亞奇利域(359.375) 索奇亞奇利域(320.333)",
+      "prices": [
+        {
+          "quantity": 20,
+          "unit": "個",
+          "price": "58G"
+        }
+      ],
+      "stack_size": "",
+      "stackability": "",
+      "uses": "",
+      "processing_outputs": [],
+      "details": []
+    },
+    {
+      "level": 5,
+      "name": "星鰻",
+      "category": "獵物",
+      "locations": "芙蕾雅島 維諾亞域(425.466) 索奇亞奇利域(365.265)",
+      "recommended_locations": "",
+      "prices": [
+        {
+          "quantity": 20,
+          "unit": "個",
+          "price": "58G"
+        }
+      ],
+      "stack_size": "",
+      "stackability": "",
+      "uses": "",
+      "processing_outputs": [],
+      "details": []
+    },
+    {
+      "level": 5,
+      "name": "薑",
+      "category": "獵物",
+      "locations": "法蘭城 北東的山間(489.140)(混合番茄) 索奇亞島 加納域 洪恩大風穴 出口附近(415.298) 光之路 (239,90)",
+      "recommended_locations": "索奇亞島 加納域 洪恩大風穴 出口附近(415.298) 光之路 (239,90)",
+      "prices": [
+        {
+          "quantity": 20,
+          "unit": "個",
+          "price": "58G"
+        }
+      ],
+      "stack_size": "",
+      "stackability": "",
+      "uses": "",
+      "processing_outputs": [],
+      "details": []
+    },
+    {
+      "level": 5,
+      "name": "胡椒",
+      "category": "獵物",
+      "locations": "法蘭城 南東南方森林(501.229)(混合番茄) 奇利村 東南的山間(369.351)(混合牛肉) 辛梅爾 光之路 (199.25)",
+      "recommended_locations": "辛梅爾 光之路 (199.25)",
+      "prices": [
+        {
+          "quantity": 20,
+          "unit": "個",
+          "price": "58G"
+        }
+      ],
+      "stack_size": "",
+      "stackability": "",
+      "uses": "",
+      "processing_outputs": [],
+      "details": []
+    },
+    {
+      "level": 5,
+      "name": "馬鈴薯",
+      "category": "獵物",
+      "locations": "莎蓮娜島 傑諾瓦村西邊(190.470) 莎蓮娜島 傑諾瓦村東邊(360.450) 莎蓮娜島 蒂娜域(391.404) 布拉基姆高地 (224.327)、(177.224)",
+      "recommended_locations": "莎蓮娜島 傑諾瓦村西邊(190.470) 布拉基姆高地 (177.224) 莎蓮娜島 傑諾瓦村東邊(360.450)",
+      "prices": [
+        {
+          "quantity": 20,
+          "unit": "個",
+          "price": "58G"
+        }
+      ],
+      "stack_size": "",
+      "stackability": "",
+      "uses": "",
+      "processing_outputs": [],
+      "details": []
+    },
+    {
+      "level": 5,
+      "name": "豬肉",
+      "category": "獵物",
+      "locations": "芙蕾雅島 炎之洞窟 前平原 (300, 440)",
+      "recommended_locations": "芙蕾雅島 炎之洞窟 前平原 (300, 440)附近",
+      "prices": [
+        {
+          "quantity": 20,
+          "unit": "個",
+          "price": "58G"
+        }
+      ],
+      "stack_size": "",
+      "stackability": "",
+      "uses": "",
+      "processing_outputs": [],
+      "details": []
+    },
+    {
+      "level": 6,
+      "name": "砂糖",
+      "category": "獵物",
+      "locations": "魔法大學 內北東的稻田(85.46) * 任意鑰匙 傳送點",
+      "recommended_locations": "魔法大學 內北東的稻田(85.46) ※可於 維諾亞村 村長家購得",
+      "prices": [
+        {
+          "quantity": 20,
+          "unit": "個",
+          "price": "Ｘ"
+        }
+      ],
+      "stack_size": "",
+      "stackability": "",
+      "uses": "",
+      "processing_outputs": [],
+      "details": []
+    },
+    {
+      "level": 6,
+      "name": "米",
+      "category": "獵物",
+      "locations": "伊爾村 出去(676.288)(混合番茄) 索奇亞 加納村 域(626.304) * 任意鑰匙 傳送點 傑諾瓦村東門出去不過橋(286.512) 庫魯克斯島 哥拉爾域(263.348)",
+      "recommended_locations": "庫魯克斯島 哥拉爾域(263.348)",
+      "prices": [
+        {
+          "quantity": 20,
+          "unit": "個",
+          "price": "73G"
+        }
+      ],
+      "stack_size": "",
+      "stackability": "",
+      "uses": "",
+      "processing_outputs": [],
+      "details": []
+    },
+    {
+      "level": 7,
+      "name": "高級奶油",
+      "category": "獵物",
+      "locations": "莎蓮娜島 蒂娜域(380.345) 傑諾瓦鎮 域往神殿路上(154.349) * 任意鑰匙 傳送點 布拉基姆高地 (191.140)",
+      "recommended_locations": "莎蓮娜島 蒂娜域(380.345) 布拉基姆高地 (191.140)",
+      "prices": [
+        {
+          "quantity": 20,
+          "unit": "個",
+          "price": "98G"
+        }
+      ],
+      "stack_size": "",
+      "stackability": "",
+      "uses": "",
+      "processing_outputs": [],
+      "details": []
+    },
+    {
+      "level": 7,
+      "name": "辣椒",
+      "category": "獵物",
+      "locations": "莎蓮娜島 傑諾瓦域東面橋一帶(309.446) * 任意鑰匙 傳送點 莎蓮娜島 蒂娜域(384.360) 庫魯克斯島 哥拉爾域(331.361) 布拉基姆高地 (276.301)",
+      "recommended_locations": "布拉基姆高地 (276.301)",
+      "prices": [
+        {
+          "quantity": 20,
+          "unit": "個",
+          "price": "98G"
+        }
+      ],
+      "stack_size": "",
+      "stackability": "",
+      "uses": "",
+      "processing_outputs": [],
+      "details": []
+    },
+    {
+      "level": 7,
+      "name": "咖哩塊",
+      "category": "獵物",
+      "locations": "莎蓮娜島 傑諾瓦鎮 域東門口(266.430) * 任意鑰匙 傳送點 莎蓮娜島 蒂娜域(461.298) 布拉基姆高地 (131.224) 克瑞村 域(430.49)",
+      "recommended_locations": "克瑞村 域(430.49)",
+      "prices": [
+        {
+          "quantity": 20,
+          "unit": "個",
+          "price": "49G *限2017/12/05停機後採集得的物品"
+        }
+      ],
+      "stack_size": "",
+      "stackability": "",
+      "uses": "",
+      "processing_outputs": [],
+      "details": []
+    },
+    {
+      "level": 8,
+      "name": "螃蟹",
+      "category": "獵物",
+      "locations": "傑諾瓦鎮 西門出去(140.436) 蒂娜村 南門出去(558.346) 莎蓮娜島 傑諾瓦域(318.503) * 任意鑰匙 傳送點 莎蓮娜島 傑諾瓦域(133.432)、(213.360) 莎蓮娜島 蒂娜域(555.352) 米內葛爾坎那貝拉域(566.348) 哥拉爾鎮 過橋(490.522)",
+      "recommended_locations": "哥拉爾鎮 過橋(490.522)",
+      "prices": [
+        {
+          "quantity": 20,
+          "unit": "個",
+          "price": "147G"
+        }
+      ],
+      "stack_size": "",
+      "stackability": "",
+      "uses": "",
+      "processing_outputs": [],
+      "details": []
+    },
+    {
+      "level": 8,
+      "name": "霜降牛肉",
+      "category": "獵物",
+      "locations": "蒂娜村 北門出去(554.271) * 任意鑰匙 傳送點 庫魯克斯島 哥拉爾域(408.442) 布拉基姆高地 (184.131)(混牛肉)",
+      "recommended_locations": "庫魯克斯島 哥拉爾域(408.442)",
+      "prices": [
+        {
+          "quantity": 20,
+          "unit": "個",
+          "price": "147G"
+        }
+      ],
+      "stack_size": "",
+      "stackability": "",
+      "uses": "",
+      "processing_outputs": [],
+      "details": []
+    },
+    {
+      "level": 8,
+      "name": "濕地毒蛇",
+      "category": "獵物",
+      "locations": "魔法大學 內 地底湖 (36.30)地下2樓的小島東(37.49) * 任意鑰匙 傳送點",
+      "recommended_locations": "魔法大學 內 地底湖 (36.30)地下2樓的小島東(37.49) ※請參照 生產系升階III",
+      "prices": [
+        {
+          "quantity": 20,
+          "unit": "個",
+          "price": "147G"
+        }
+      ],
+      "stack_size": "",
+      "stackability": "",
+      "uses": "",
+      "processing_outputs": [],
+      "details": []
+    },
+    {
+      "level": 8,
+      "name": "阿巴尼斯哈密瓜",
+      "category": "獵物",
+      "locations": "阿巴尼斯村 域 魔法大學 2樓(14.37)出去右側(90.77) * 任意鑰匙 傳送點",
+      "recommended_locations": "阿巴尼斯村 域 魔法大學 2樓(14.37)出去右側(87.78)",
+      "prices": [
+        {
+          "quantity": 12,
+          "unit": "個",
+          "price": "60G"
+        }
+      ],
+      "stack_size": "",
+      "stackability": "",
+      "uses": "",
+      "processing_outputs": [],
+      "details": []
+    },
+    {
+      "level": 9,
+      "name": "伊勢蝦",
+      "category": "獵物",
+      "locations": "阿巴尼斯村 域 魔法大學 出去附近的西邊海岸(98.109) 庫魯克斯島 哥拉爾域(147.402) 光之路 (253.242)",
+      "recommended_locations": "庫魯克斯島 哥拉爾域(147.402)",
+      "prices": [
+        {
+          "quantity": 20,
+          "unit": "個",
+          "price": "297G"
+        }
+      ],
+      "stack_size": "",
+      "stackability": "",
+      "uses": "",
+      "processing_outputs": [],
+      "details": []
+    },
+    {
+      "level": 9,
+      "name": "海膽",
+      "category": "獵物",
+      "locations": "阿巴尼斯村 域 魔法大學 出去附近的東邊海岸(125.108) 庫魯克斯島 哥拉爾域(163.412) 光之路 (205.233)",
+      "recommended_locations": "庫魯克斯島 哥拉爾域(163.412)",
+      "prices": [
+        {
+          "quantity": 20,
+          "unit": "個",
+          "price": "297G"
+        }
+      ],
+      "stack_size": "",
+      "stackability": "",
+      "uses": "",
+      "processing_outputs": [],
+      "details": []
+    },
+    {
+      "level": 10,
+      "name": "魚翅",
+      "category": "獵物",
+      "locations": "阿巴尼斯村 域 魔法大學 出去往西的海邊(47.180) 庫魯克斯島 哥拉爾域(389.535)",
+      "recommended_locations": "庫魯克斯島 哥拉爾域(389.535)",
+      "prices": [
+        {
+          "quantity": 20,
+          "unit": "個",
+          "price": "600G"
+        }
+      ],
+      "stack_size": "",
+      "stackability": "",
+      "uses": "",
+      "processing_outputs": [],
+      "details": []
+    },
+    {
+      "level": 10,
+      "name": "鱉",
+      "category": "獵物",
+      "locations": "魔法大學 出去往西的海邊(71.139) 庫魯克斯島 哥拉爾域(298.291)",
+      "recommended_locations": "庫魯克斯島 哥拉爾域(298.291)",
+      "prices": [
+        {
+          "quantity": 20,
+          "unit": "個",
+          "price": "600G"
+        }
+      ],
+      "stack_size": "",
+      "stackability": "",
+      "uses": "",
+      "processing_outputs": [],
+      "details": []
+    },
+    {
+      "level": 10,
+      "name": "皮紙",
+      "category": "獵物",
+      "locations": "索奇亞島 加納村 南方 (675,201 ~ 683,205) 索奇亞 火之石碑 (508,228 ~ 515,235) 索奇亞島 水之石碑 (578,420 ~ 583,425)",
+      "recommended_locations": "索奇亞 火之石碑 (508,228 ~ 515,235)",
+      "prices": [
+        {
+          "quantity": 20,
+          "unit": "個",
+          "price": "647G"
+        }
+      ],
+      "stack_size": "",
+      "stackability": "",
+      "uses": "",
+      "processing_outputs": [],
+      "details": []
+    },
+    {
+      "level": 11,
+      "name": "洋蔥 *1",
+      "category": "獵物",
+      "locations": "米內葛爾島 坎那貝拉村 西方 (514,283 ~ 520,288) 庫魯克斯島 哥拉爾城東方 (500,435 ~ 505,443) 庫魯克斯島 米諾基亞鎮 南方 (479,862 ~ 484,868) 庫魯克斯島 貝尼恰斯火山 東北方海岸 (740,555 ~ 750,565)",
+      "recommended_locations": "庫魯克斯島 貝尼恰斯火山 東北方海岸 (740,555 ~ 750,565)",
+      "prices": [
+        {
+          "quantity": 20,
+          "unit": "個",
+          "price": "700G"
+        }
+      ],
+      "stack_size": "",
+      "stackability": "",
+      "uses": "",
+      "processing_outputs": [],
+      "details": []
+    },
+    {
+      "level": 1,
+      "name": "蝙蝠",
+      "category": "特殊 狩獵 物",
+      "locations": "法蘭城 畢夫魯家(206,37)的廚房",
+      "recommended_locations": "",
+      "prices": [],
+      "stack_size": "",
+      "stackability": "",
+      "uses": "變身卡製作",
+      "processing_outputs": [],
+      "details": []
+    },
+    {
+      "level": 2,
+      "name": "桃連蛇",
+      "category": "特殊 狩獵 物",
+      "locations": "世外桃源2(27,30)",
+      "recommended_locations": "",
+      "prices": [],
+      "stack_size": "40",
+      "stackability": "",
+      "uses": "仙人就職",
+      "processing_outputs": [],
+      "details": []
+    },
+    {
+      "level": 2,
+      "name": "桃茂",
+      "category": "特殊 狩獵 物",
+      "locations": "世外桃源3(27,30)",
+      "recommended_locations": "",
+      "prices": [],
+      "stack_size": "40",
+      "stackability": "",
+      "uses": "仙人就職",
+      "processing_outputs": [],
+      "details": []
+    },
+    {
+      "level": 2,
+      "name": "桃冠",
+      "category": "特殊 狩獵 物",
+      "locations": "世外桃源4(27,30)",
+      "recommended_locations": "",
+      "prices": [],
+      "stack_size": "40",
+      "stackability": "",
+      "uses": "仙人就職",
+      "processing_outputs": [],
+      "details": []
+    },
+    {
+      "level": 2,
+      "name": "石鯛魚",
+      "category": "特殊 狩獵 物",
+      "locations": "坎那貝拉村 域(675.387)",
+      "recommended_locations": "",
+      "prices": [
+        {
+          "quantity": null,
+          "unit": "",
+          "price": "36G"
+        }
+      ],
+      "stack_size": "",
+      "stackability": "",
+      "uses": "航班開通 火鍋",
+      "processing_outputs": [],
+      "details": []
+    },
+    {
+      "level": 4,
+      "name": "竹筴魚",
+      "category": "特殊 狩獵 物",
+      "locations": "伊爾村 西邊的兩個海灘之間(608.308)(混合番茄) 芙蕾雅(514.196)(混合番茄、鹿皮) 亞留特村 北西海岸(547.14)(混合番茄) 亞留特村 東邊海岸(683.76)(混合番茄) 芙蕾雅亞留特域(683.76) 芙蕾雅亞留特域(644.61) 芙蕾雅亞留特域(547.14)",
+      "recommended_locations": "",
+      "prices": [
+        {
+          "quantity": null,
+          "unit": "",
+          "price": "48G"
+        }
+      ],
+      "stack_size": "",
+      "stackability": "",
+      "uses": "航班開通 火鍋",
+      "processing_outputs": [],
+      "details": []
+    },
+    {
+      "level": 4,
+      "name": "摩斯蜥蜴",
+      "category": "特殊 狩獵 物",
+      "locations": "索奇亞(528,326)",
+      "recommended_locations": "",
+      "prices": [
+        {
+          "quantity": null,
+          "unit": "",
+          "price": "不可販賣"
+        }
+      ],
+      "stack_size": "",
+      "stackability": "不可堆疊",
+      "uses": "製品原料",
+      "processing_outputs": [],
+      "details": []
+    },
+    {
+      "level": 4,
+      "name": "惡魔 魚",
+      "category": "特殊 狩獵 物",
+      "locations": "索奇亞島 (282,404)",
+      "recommended_locations": "",
+      "prices": [
+        {
+          "quantity": null,
+          "unit": "",
+          "price": "不可販賣"
+        }
+      ],
+      "stack_size": "",
+      "stackability": "不可堆疊",
+      "uses": "製品原料",
+      "processing_outputs": [],
+      "details": []
+    },
+    {
+      "level": 4,
+      "name": "井底蛙",
+      "category": "特殊 狩獵 物",
+      "locations": "洪恩大風穴 (135,5)",
+      "recommended_locations": "",
+      "prices": [
+        {
+          "quantity": null,
+          "unit": "",
+          "price": "不可販賣"
+        }
+      ],
+      "stack_size": "",
+      "stackability": "不可堆疊",
+      "uses": "製品原料",
+      "processing_outputs": [],
+      "details": []
+    },
+    {
+      "level": 4,
+      "name": "狐皮",
+      "category": "特殊 狩獵 物",
+      "locations": "大風穴山頂全域",
+      "recommended_locations": "",
+      "prices": [],
+      "stack_size": "80",
+      "stackability": "",
+      "uses": "風之洞窟",
+      "processing_outputs": [],
+      "details": []
+    },
+    {
+      "level": 5,
+      "name": "芝麻娃娃",
+      "category": "特殊 狩獵 物",
+      "locations": "梅布爾隘地 (198.128) (混合白菜、雞肉、雞蛋、鮭魚)",
+      "recommended_locations": "",
+      "prices": [
+        {
+          "quantity": null,
+          "unit": "",
+          "price": "200G"
+        }
+      ],
+      "stack_size": "",
+      "stackability": "不可堆疊",
+      "uses": "家族設立",
+      "processing_outputs": [],
+      "details": []
+    },
+    {
+      "level": 5,
+      "name": "戀愛蘋果",
+      "category": "特殊 狩獵 物",
+      "locations": "莎蓮娜島 傑諾瓦(267,558)附近",
+      "recommended_locations": "",
+      "prices": [],
+      "stack_size": "80",
+      "stackability": "",
+      "uses": "製品原料",
+      "processing_outputs": [],
+      "details": []
+    },
+    {
+      "level": 5,
+      "name": "大黑蝦",
+      "category": "特殊 狩獵 物",
+      "locations": "蓋雷布倫森林 (170.150)(混合神聖米)",
+      "recommended_locations": "",
+      "prices": [
+        {
+          "quantity": null,
+          "unit": "",
+          "price": "58G"
+        }
+      ],
+      "stack_size": "",
+      "stackability": "",
+      "uses": "控窯樂",
+      "processing_outputs": [],
+      "details": []
+    },
+    {
+      "level": 5,
+      "name": "鮭魚",
+      "category": "特殊 狩獵 物",
+      "locations": "梅布爾隘地 (173.134)(混合雞蛋、雞肉)",
+      "recommended_locations": "",
+      "prices": [
+        {
+          "quantity": null,
+          "unit": "",
+          "price": "58G"
+        }
+      ],
+      "stack_size": "",
+      "stackability": "",
+      "uses": "飄風之蘭 古代冰室",
+      "processing_outputs": [],
+      "details": []
+    },
+    {
+      "level": 6,
+      "name": "鋼騎之礦",
+      "category": "特殊 狩獵 物",
+      "locations": "海賊的島嶼全域 ※請參照任務「 海賊的洞窟 」",
+      "recommended_locations": "",
+      "prices": [
+        {
+          "quantity": null,
+          "unit": "",
+          "price": "2000G"
+        }
+      ],
+      "stack_size": "5",
+      "stackability": "",
+      "uses": "製品原料",
+      "processing_outputs": [],
+      "details": []
+    },
+    {
+      "level": 10,
+      "name": "土龍",
+      "category": "特殊 狩獵 物",
+      "locations": "芙蕾雅島 全域",
+      "recommended_locations": "",
+      "prices": [
+        {
+          "quantity": null,
+          "unit": "",
+          "price": "300G"
+        }
+      ],
+      "stack_size": "",
+      "stackability": "不可堆疊",
+      "uses": "寶石精煉",
+      "processing_outputs": [],
+      "details": []
+    }
+  ]
+}

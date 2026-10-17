@@ -1,0 +1,320 @@
+{
+  "source_url": "https://gamerch.com/blue-cg/453588",
+  "page_title": "寵物項圈製作",
+  "wiki": "水藍魔力攻略wiki",
+  "updated_at": "2025/09/01 22:48",
+  "author": "ゲストユーザー",
+  "last_editor": "Mizuei",
+  "category": "製作配方",
+  "note": "",
+  "recipes": [
+    {
+      "level": 1,
+      "level_code": "1a",
+      "name": "皮頸圈",
+      "craft_quantity": 1,
+      "weapon_type": "",
+      "materials": [
+        {
+          "name": "銅條",
+          "quantity": 10
+        },
+        {
+          "name": "亞麻布",
+          "quantity": 10
+        },
+        {
+          "name": "鹿皮",
+          "quantity": 20
+        }
+      ],
+      "bonus": [
+        "攻擊+5~15",
+        "回復+1~2"
+      ],
+      "recipe_source": "",
+      "shop_price": "220G"
+    },
+    {
+      "level": 2,
+      "level_code": "2a",
+      "name": "青銅頸圈",
+      "craft_quantity": 1,
+      "weapon_type": "",
+      "materials": [
+        {
+          "name": "銅條",
+          "quantity": 5
+        },
+        {
+          "name": "鐵條",
+          "quantity": 5
+        },
+        {
+          "name": "薄棉布",
+          "quantity": 20
+        },
+        {
+          "name": "鹿皮",
+          "quantity": 20
+        }
+      ],
+      "bonus": [
+        "攻擊+10~20 防禦+5~10",
+        "回復+3~4"
+      ],
+      "recipe_source": "",
+      "shop_price": "400G"
+    },
+    {
+      "level": 3,
+      "level_code": "3a",
+      "name": "銅頸圈",
+      "craft_quantity": 1,
+      "weapon_type": "",
+      "materials": [
+        {
+          "name": "銅條",
+          "quantity": 10
+        },
+        {
+          "name": "銀條",
+          "quantity": 20
+        },
+        {
+          "name": "薄棉布",
+          "quantity": 20
+        },
+        {
+          "name": "樅",
+          "quantity": 10
+        }
+      ],
+      "bonus": [
+        "攻擊+15~30 防禦+8~13",
+        "回復+5~8"
+      ],
+      "recipe_source": "",
+      "shop_price": "550G"
+    },
+    {
+      "level": 4,
+      "level_code": "4a",
+      "name": "健康頸圈",
+      "craft_quantity": 1,
+      "weapon_type": "",
+      "materials": [
+        {
+          "name": "銅條",
+          "quantity": 10
+        },
+        {
+          "name": "銀條",
+          "quantity": 20
+        },
+        {
+          "name": "羊毛線",
+          "quantity": 20
+        },
+        {
+          "name": "棉線",
+          "quantity": 10
+        }
+      ],
+      "bonus": [
+        "攻擊+25~40 防禦+15~25"
+      ],
+      "recipe_source": "",
+      "shop_price": "900G"
+    },
+    {
+      "level": 5,
+      "level_code": "5a",
+      "name": "運動頸圈",
+      "craft_quantity": 1,
+      "weapon_type": "",
+      "materials": [
+        {
+          "name": "金條",
+          "quantity": 20
+        },
+        {
+          "name": "紗線",
+          "quantity": 20
+        },
+        {
+          "name": "絲線",
+          "quantity": 20
+        },
+        {
+          "name": "琵琶木",
+          "quantity": 10
+        }
+      ],
+      "bonus": [
+        "攻擊+35~50 防禦+18~39"
+      ],
+      "recipe_source": "",
+      "shop_price": "1200G"
+    },
+    {
+      "level": 6,
+      "level_code": "6a",
+      "name": "黑暗項圈",
+      "craft_quantity": 1,
+      "weapon_type": "",
+      "materials": [
+        {
+          "name": "純銀條",
+          "quantity": 10
+        },
+        {
+          "name": "金條",
+          "quantity": 20
+        },
+        {
+          "name": "紗線",
+          "quantity": 20
+        },
+        {
+          "name": "絲線",
+          "quantity": 20
+        }
+      ],
+      "bonus": [
+        "攻擊+25~40 防禦+23~47",
+        "回復+10~15"
+      ],
+      "recipe_source": "",
+      "shop_price": "1700G*"
+    },
+    {
+      "level": 7,
+      "level_code": "7a",
+      "name": "甜美項圈",
+      "craft_quantity": 1,
+      "weapon_type": "",
+      "materials": [
+        {
+          "name": "白金條",
+          "quantity": 20
+        },
+        {
+          "name": "絲線",
+          "quantity": 20
+        },
+        {
+          "name": "朴",
+          "quantity": 20
+        },
+        {
+          "name": "鋼騎之礦",
+          "quantity": 5
+        }
+      ],
+      "bonus": [
+        "攻擊+63~80 防禦+34~56",
+        "抗酒醉+3~5*1"
+      ],
+      "recipe_source": "",
+      "shop_price": "1800G*"
+    },
+    {
+      "level": 8,
+      "level_code": "8a",
+      "name": "自然項圈",
+      "craft_quantity": 1,
+      "weapon_type": "",
+      "materials": [
+        {
+          "name": "白金條",
+          "quantity": 20
+        },
+        {
+          "name": "幻之鋼條",
+          "quantity": 10
+        },
+        {
+          "name": "傑諾瓦毛線",
+          "quantity": 20
+        },
+        {
+          "name": "杉",
+          "quantity": 10
+        },
+        {
+          "name": "永久冰石",
+          "quantity": 3
+        }
+      ],
+      "bonus": [
+        "攻擊+ 防禦+",
+        "抗石化+"
+      ],
+      "recipe_source": "",
+      "shop_price": "1900G*"
+    },
+    {
+      "level": 9,
+      "level_code": "9a",
+      "name": "純潔項圈",
+      "craft_quantity": 1,
+      "weapon_type": "",
+      "materials": [
+        {
+          "name": "謝爾哈特礦條",
+          "quantity": 20
+        },
+        {
+          "name": "傑諾瓦毛線",
+          "quantity": 20
+        },
+        {
+          "name": "絲柏",
+          "quantity": 20
+        },
+        {
+          "name": "魔族的水晶",
+          "quantity": 5
+        }
+      ],
+      "bonus": [
+        "攻擊+ 防禦+",
+        "抗毒+5"
+      ],
+      "recipe_source": "",
+      "shop_price": "4300G*"
+    },
+    {
+      "level": 10,
+      "level_code": "10a",
+      "name": "華麗項圈",
+      "craft_quantity": 1,
+      "weapon_type": "",
+      "materials": [
+        {
+          "name": "奧利哈鋼條",
+          "quantity": 20
+        },
+        {
+          "name": "芎麻布",
+          "quantity": 20
+        },
+        {
+          "name": "絲柏",
+          "quantity": 20
+        },
+        {
+          "name": "藍龍之鱗",
+          "quantity": 3
+        }
+      ],
+      "bonus": [
+        "攻擊+ 防禦+",
+        "抗石化+"
+      ],
+      "recipe_source": "",
+      "shop_price": "6200G*"
+    }
+  ]
+}
